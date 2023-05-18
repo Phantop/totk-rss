@@ -3,28 +3,10 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
-			<title>Ultra Hand in Botw?</title>
-			<link>https://gamebanana.com/questions/44253</link>
-			<image>https://images.gamebanana.com/static/img/DefaultEmbeddables/Question.jpg</image>
-			<pubDate>Tue, 16 May 2023 20:36:48 +0000</pubDate>
-		</item>
-		<item>
-			<title>BCML graphics pack nowhere to be seen</title>
-			<link>https://gamebanana.com/questions/44237</link>
-			<image>https://images.gamebanana.com/static/img/DefaultEmbeddables/Question.jpg</image>
-			<pubDate>Tue, 16 May 2023 14:29:18 +0000</pubDate>
-		</item>
-		<item>
 			<title>Street Smart Jeanne Outfit for Linkle</title>
 			<link>https://gamebanana.com/mods/443688</link>
 			<image>https://images.gamebanana.com/img/ss/mods/646188bd3f364.jpg</image>
 			<pubDate>Mon, 15 May 2023 01:22:38 +0000</pubDate>
-		</item>
-		<item>
-			<title>Extract/Isolate climate from SotW</title>
-			<link>https://gamebanana.com/questions/44136</link>
-			<image>https://images.gamebanana.com/static/img/DefaultEmbeddables/Question.jpg</image>
-			<pubDate>Sun, 14 May 2023 14:22:39 +0000</pubDate>
 		</item>
 		<item>
 			<title>Jeanne&#039;s Elegant Outfit for Linkle Standalone</title>
@@ -39,28 +21,40 @@
 			<pubDate>Sat, 13 May 2023 21:48:19 +0000</pubDate>
 		</item>
 		<item>
-			<title>Any way to increase Magnesis range?</title>
-			<link>https://gamebanana.com/questions/44077</link>
-			<image>https://images.gamebanana.com/static/img/DefaultEmbeddables/Question.jpg</image>
-			<pubDate>Sat, 13 May 2023 15:51:12 +0000</pubDate>
-		</item>
-		<item>
-			<title>Fix fog during storms when using distant fog gp</title>
-			<link>https://gamebanana.com/questions/44046</link>
-			<image>https://images.gamebanana.com/static/img/DefaultEmbeddables/Question.jpg</image>
-			<pubDate>Sat, 13 May 2023 02:15:41 +0000</pubDate>
-		</item>
-		<item>
 			<title>Ikana Mirror Shield</title>
 			<link>https://gamebanana.com/mods/443219</link>
 			<image>https://images.gamebanana.com/img/ss/mods/645e98c33071e.jpg</image>
 			<pubDate>Fri, 12 May 2023 19:48:59 +0000</pubDate>
 		</item>
 		<item>
-			<title>OoT Kakariko Village over Kakariko Village</title>
-			<link>https://gamebanana.com/sounds/67901</link>
-			<image>https://images.gamebanana.com/static/img/DefaultEmbeddables/Sound.jpg</image>
-			<pubDate>Thu, 11 May 2023 16:05:14 +0000</pubDate>
+			<title>Hero&#039;s Islands</title>
+			<link>https://gamebanana.com/mods/442934</link>
+			<image>https://images.gamebanana.com/img/ss/mods/645c266201680.jpg</image>
+			<pubDate>Wed, 10 May 2023 23:44:10 +0000</pubDate>
+		</item>
+		<item>
+			<title>Stylish Linkle 3.0 Edition</title>
+			<link>https://gamebanana.com/mods/442801</link>
+			<image>https://images.gamebanana.com/img/ss/mods/645b10b233795.jpg</image>
+			<pubDate>Wed, 10 May 2023 03:40:03 +0000</pubDate>
+		</item>
+		<item>
+			<title>[Linkle 3.0] Tan++</title>
+			<link>https://gamebanana.com/mods/442505</link>
+			<image>https://images.gamebanana.com/img/ss/mods/6458d7cef12f3.jpg</image>
+			<pubDate>Mon, 08 May 2023 11:11:54 +0000</pubDate>
+		</item>
+		<item>
+			<title>[Linkle 3.0] Vivid Linkle Eyes</title>
+			<link>https://gamebanana.com/mods/442501</link>
+			<image>https://images.gamebanana.com/img/ss/mods/6458cbe0e1cbd.jpg</image>
+			<pubDate>Mon, 08 May 2023 10:41:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>Xenoblade Music Mod 1.1</title>
+			<link>https://gamebanana.com/mods/442495</link>
+			<image>https://images.gamebanana.com/img/ss/mods/6458cadf8a7bf.jpg</image>
+			<pubDate>Mon, 08 May 2023 10:17:45 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
