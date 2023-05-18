@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>GameBanana API RSS Feed</title>
+		<item>
+			<title>Ganondorf Companion</title>
+			<link>https://gamebanana.com/mods/444246</link>
+			<image>https://images.gamebanana.com/img/ss/mods/64663600151c4.jpg</image>
+			<pubDate>Thu, 18 May 2023 14:28:39 +0000</pubDate>
+		</item>
+		<item>
+			<title>Zelda Companion</title>
+			<link>https://gamebanana.com/mods/444245</link>
+			<image>https://images.gamebanana.com/img/ss/mods/6466353ea155d.jpg</image>
+			<pubDate>Thu, 18 May 2023 14:25:58 +0000</pubDate>
+		</item>
+		<item>
+			<title>Green eye link</title>
+			<link>https://gamebanana.com/requests/49148</link>
+			<image>https://images.gamebanana.com/static/img/DefaultEmbeddables/Request.jpg</image>
+			<pubDate>Thu, 18 May 2023 14:16:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>Korok Expansions Always Cost 10/25 Seeds</title>
+			<link>https://gamebanana.com/mods/444218</link>
+			<image>https://images.gamebanana.com/img/ss/mods/6465e50a6149f.jpg</image>
+			<pubDate>Thu, 18 May 2023 08:43:55 +0000</pubDate>
+		</item>
+		<item>
+			<title>longest days</title>
+			<link>https://gamebanana.com/requests/49137</link>
+			<image>https://images.gamebanana.com/static/img/DefaultEmbeddables/Request.jpg</image>
+			<pubDate>Thu, 18 May 2023 06:38:48 +0000</pubDate>
+		</item>
+		<item>
+			<title>Better Tooltip UI</title>
+			<link>https://gamebanana.com/requests/49131</link>
+			<image>https://images.gamebanana.com/static/img/DefaultEmbeddables/Request.jpg</image>
+			<pubDate>Thu, 18 May 2023 03:43:16 +0000</pubDate>
+		</item>
+		<item>
+			<title>Druglord Yunobo over Spirit Form</title>
+			<link>https://gamebanana.com/requests/49127</link>
+			<image>https://images.gamebanana.com/static/img/DefaultEmbeddables/Request.jpg</image>
+			<pubDate>Thu, 18 May 2023 02:23:18 +0000</pubDate>
+		</item>
+		<item>
+			<title>Item Durability UI</title>
+			<link>https://gamebanana.com/mods/444194</link>
+			<image>https://images.gamebanana.com/img/ss/mods/646586caacbed.jpg</image>
+			<pubDate>Thu, 18 May 2023 02:01:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>mods dont work</title>
+			<link>https://gamebanana.com/questions/44308</link>
+			<image>https://images.gamebanana.com/static/img/DefaultEmbeddables/Question.jpg</image>
+			<pubDate>Thu, 18 May 2023 01:31:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>Play as Zelda</title>
+			<link>https://gamebanana.com/requests/49126</link>
+			<image>https://images.gamebanana.com/static/img/DefaultEmbeddables/Request.jpg</image>
+			<pubDate>Thu, 18 May 2023 01:14:01 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
