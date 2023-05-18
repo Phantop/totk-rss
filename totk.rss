@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Awakened Master Sword</title>
+			<link>https://gamebanana.com/mods/444292</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646676378de43.jpg"/>]]></description>
+			<pubDate>Thu, 18 May 2023 19:03:20 +0000</pubDate>
+		</item>
+		<item>
 			<title>Ganondorf Companion</title>
 			<link>https://gamebanana.com/mods/444246</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64663600151c4.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444056</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6464ae2121e39.jpg"/>]]></description>
 			<pubDate>Wed, 17 May 2023 10:39:10 +0000</pubDate>
-		</item>
-		<item>
-			<title>Unbreakable Hero&#039;s Equipment</title>
-			<link>https://gamebanana.com/mods/443947</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6463b7be228fd.jpg"/>]]></description>
-			<pubDate>Tue, 16 May 2023 17:06:44 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
