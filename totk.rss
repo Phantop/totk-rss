@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Invincible Link</title>
+			<link>https://gamebanana.com/mods/444324</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6466a520a8708.jpg"/>]]></description>
+			<pubDate>Thu, 18 May 2023 22:23:05 +0000</pubDate>
+		</item>
+		<item>
 			<title>Awakened Master Sword</title>
 			<link>https://gamebanana.com/mods/444292</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646676378de43.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444107</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6465180b7e806.jpg"/>]]></description>
 			<pubDate>Wed, 17 May 2023 18:11:07 +0000</pubDate>
-		</item>
-		<item>
-			<title>No Intro Ganon Scene</title>
-			<link>https://gamebanana.com/mods/444056</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6464ae2121e39.jpg"/>]]></description>
-			<pubDate>Wed, 17 May 2023 10:39:10 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
