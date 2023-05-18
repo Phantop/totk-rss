@@ -18,10 +18,10 @@ jobs:
 
       - name: Get data
         run: |
-          curl -o botw-switch.rss https://api.gamebanana.com/Rss/New?gameid=6386&itemtype=Mod
-          curl -o botw-wiiu.rss https://api.gamebanana.com/Rss/New?gameid=5866&itemtype=Mod
-          curl -o totk.rss https://api.gamebanana.com/Rss/New?gameid=7617&itemtype=Mod
-          curl -o wwhd.rss https://api.gamebanana.com/Rss/New?gameid=8216&itemtype=Mod
+          curl -o botw-switch.rss 'https://api.gamebanana.com/Rss/New?gameid=6386&itemtype=Mod'
+          curl -o botw-wiiu.rss 'https://api.gamebanana.com/Rss/New?gameid=5866&itemtype=Mod'
+          curl -o totk.rss 'https://api.gamebanana.com/Rss/New?gameid=7617&itemtype=Mod'
+          curl -o wwhd.rss 'https://api.gamebanana.com/Rss/New?gameid=8216&itemtype=Mod'
 
       - name: Fix data
         run: |
