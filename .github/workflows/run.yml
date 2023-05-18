@@ -26,7 +26,7 @@ jobs:
       - name: Fix data
         run: |
           sed -i 's/items>$/channel>/' *.rss
-          sed -i -e 's/<image>/<media:content url="/' -e 's#</image>$#" type="image/jpeg"/>#' *.rss
+          sed -i -e 's/<image>/<description><![CDATA[<img src="/' -e 's#</image>$#"/>]]></description>#' *.rss
 
       - name: Commit data
         run: |
