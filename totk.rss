@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Silence of the Kingdom - No BGM</title>
+			<link>https://gamebanana.com/mods/444566</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6468240fbe939.jpg"/>]]></description>
+			<pubDate>Sat, 20 May 2023 01:39:54 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ray-Traced Tears Reshade</title>
+			<link>https://gamebanana.com/mods/444560</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64681b8741dc8.jpg"/>]]></description>
+			<pubDate>Sat, 20 May 2023 01:23:59 +0000</pubDate>
+		</item>
+		<item>
 			<title>Hard Mode</title>
 			<link>https://gamebanana.com/mods/444549</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64680c8646a11.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/444292</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646676378de43.jpg"/>]]></description>
 			<pubDate>Thu, 18 May 2023 19:03:20 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ganondorf Companion</title>
-			<link>https://gamebanana.com/mods/444246</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64663600151c4.jpg"/>]]></description>
-			<pubDate>Thu, 18 May 2023 14:28:39 +0000</pubDate>
-		</item>
-		<item>
-			<title>Zelda Companion</title>
-			<link>https://gamebanana.com/mods/444245</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6466353ea155d.jpg"/>]]></description>
-			<pubDate>Thu, 18 May 2023 14:25:58 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
