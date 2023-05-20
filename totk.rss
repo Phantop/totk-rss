@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Swap out SAGEs Model with the Original Character</title>
+			<link>https://gamebanana.com/mods/444674</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6468df56c3ee1.jpg"/>]]></description>
+			<pubDate>Sat, 20 May 2023 14:55:40 +0000</pubDate>
+		</item>
+		<item>
 			<title>peroshasir reshade</title>
 			<link>https://gamebanana.com/mods/444622</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64689203c372f.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444336</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6466b420e1b57.jpg"/>]]></description>
 			<pubDate>Thu, 18 May 2023 23:26:36 +0000</pubDate>
-		</item>
-		<item>
-			<title>Invincible Link</title>
-			<link>https://gamebanana.com/mods/444324</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6466a520a8708.jpg"/>]]></description>
-			<pubDate>Thu, 18 May 2023 22:23:05 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
