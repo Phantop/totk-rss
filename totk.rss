@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>peroshasir reshade</title>
+			<link>https://gamebanana.com/mods/444622</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64689203c372f.jpg"/>]]></description>
+			<pubDate>Sat, 20 May 2023 09:43:05 +0000</pubDate>
+		</item>
+		<item>
 			<title>Silence of the Kingdom - No BGM</title>
 			<link>https://gamebanana.com/mods/444566</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6468240fbe939.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444324</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6466a520a8708.jpg"/>]]></description>
 			<pubDate>Thu, 18 May 2023 22:23:05 +0000</pubDate>
-		</item>
-		<item>
-			<title>Awakened Master Sword</title>
-			<link>https://gamebanana.com/mods/444292</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646676378de43.jpg"/>]]></description>
-			<pubDate>Thu, 18 May 2023 19:03:20 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
