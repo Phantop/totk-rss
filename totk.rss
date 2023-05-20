@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>TrueColors Reshade</title>
+			<link>https://gamebanana.com/mods/444740</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64691edd302f1.jpg"/>]]></description>
+			<pubDate>Sat, 20 May 2023 19:19:25 +0000</pubDate>
+		</item>
+		<item>
 			<title>Double Swim Speed</title>
 			<link>https://gamebanana.com/mods/444723</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64690a5397aef.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444337</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6466b7b61f53f.jpg"/>]]></description>
 			<pubDate>Thu, 18 May 2023 23:44:53 +0000</pubDate>
-		</item>
-		<item>
-			<title>Immersive Camera - First Person Exploration</title>
-			<link>https://gamebanana.com/mods/444336</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6466b420e1b57.jpg"/>]]></description>
-			<pubDate>Thu, 18 May 2023 23:26:36 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
