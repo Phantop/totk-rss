@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Tuned Color vkBasalt</title>
+			<link>https://gamebanana.com/mods/445018</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a6496a7dbc.jpg"/>]]></description>
+			<pubDate>Sun, 21 May 2023 18:45:25 +0000</pubDate>
+		</item>
+		<item>
 			<title>Champion&#039;s Garbs Better Sorting</title>
 			<link>https://gamebanana.com/mods/444922</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a08a7c6472.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444566</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6468240fbe939.jpg"/>]]></description>
 			<pubDate>Sat, 20 May 2023 01:39:54 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ray-Traced Tears Reshade</title>
-			<link>https://gamebanana.com/mods/444560</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64681b8741dc8.jpg"/>]]></description>
-			<pubDate>Sat, 20 May 2023 01:23:59 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
