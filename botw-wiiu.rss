@@ -3,6 +3,24 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Keese paraglider</title>
+			<link>https://gamebanana.com/mods/444919</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469ff994a8e6.jpg"/>]]></description>
+			<pubDate>Sun, 21 May 2023 11:25:42 +0000</pubDate>
+		</item>
+		<item>
+			<title>Impa Hat</title>
+			<link>https://gamebanana.com/mods/444917</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469fe063a51f.jpg"/>]]></description>
+			<pubDate>Sun, 21 May 2023 11:19:10 +0000</pubDate>
+		</item>
+		<item>
+			<title>Eagle paraglider</title>
+			<link>https://gamebanana.com/mods/444916</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469fc0f05af5.jpg"/>]]></description>
+			<pubDate>Sun, 21 May 2023 11:10:37 +0000</pubDate>
+		</item>
+		<item>
 			<title>Battle tested Guardians</title>
 			<link>https://gamebanana.com/mods/444914</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469fa9fbb6bd.jpg"/>]]></description>
@@ -43,18 +61,6 @@
 			<link>https://gamebanana.com/mods/442934</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/645c266201680.jpg"/>]]></description>
 			<pubDate>Wed, 10 May 2023 23:44:10 +0000</pubDate>
-		</item>
-		<item>
-			<title>Stylish Linkle 3.0 Edition</title>
-			<link>https://gamebanana.com/mods/442801</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/645b10b233795.jpg"/>]]></description>
-			<pubDate>Wed, 10 May 2023 03:40:03 +0000</pubDate>
-		</item>
-		<item>
-			<title>[Linkle 3.0] Tan++</title>
-			<link>https://gamebanana.com/mods/442505</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6458d7cef12f3.jpg"/>]]></description>
-			<pubDate>Mon, 08 May 2023 11:11:54 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

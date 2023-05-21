@@ -3,9 +3,15 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Champion&#039;s Garbs Better Sorting</title>
+			<link>https://gamebanana.com/mods/444922</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a08a7c6472.jpg"/>]]></description>
+			<pubDate>Sun, 21 May 2023 12:05:03 +0000</pubDate>
+		</item>
+		<item>
 			<title>[Reshade] Natural Colours &amp; Sharpen</title>
 			<link>https://gamebanana.com/mods/444896</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469e20cda4ac.jpg"/>]]></description>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469fd8e4964a.jpg"/>]]></description>
 			<pubDate>Sun, 21 May 2023 09:25:02 +0000</pubDate>
 		</item>
 		<item>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444560</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64681b8741dc8.jpg"/>]]></description>
 			<pubDate>Sat, 20 May 2023 01:23:59 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hard Mode</title>
-			<link>https://gamebanana.com/mods/444549</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64680c8646a11.jpg"/>]]></description>
-			<pubDate>Fri, 19 May 2023 23:56:05 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
