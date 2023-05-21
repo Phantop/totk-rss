@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Flurry Rush Text Restoration</title>
+			<link>https://gamebanana.com/mods/445064</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a9843ad54c.jpg"/>]]></description>
+			<pubDate>Sun, 21 May 2023 22:19:16 +0000</pubDate>
+		</item>
+		<item>
 			<title>[1.1.1] Green Champion&#039;s Leathers</title>
 			<link>https://gamebanana.com/mods/445061</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a92d8c5d04.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444824</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64696dbcefe0e.jpg"/>]]></description>
 			<pubDate>Sun, 21 May 2023 01:16:39 +0000</pubDate>
-		</item>
-		<item>
-			<title>TrueColors Reshade</title>
-			<link>https://gamebanana.com/mods/444740</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64691edd302f1.jpg"/>]]></description>
-			<pubDate>Sat, 20 May 2023 19:19:25 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
