@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>[1.1.1] Green Champion&#039;s Leathers</title>
+			<link>https://gamebanana.com/mods/445061</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a92d8c5d04.jpg"/>]]></description>
+			<pubDate>Sun, 21 May 2023 22:06:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>You Died</title>
+			<link>https://gamebanana.com/mods/445057</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a932c94639.jpg"/>]]></description>
+			<pubDate>Sun, 21 May 2023 21:56:05 +0000</pubDate>
+		</item>
+		<item>
 			<title>Harder Final Boss [Spoilers, naturally]</title>
 			<link>https://gamebanana.com/mods/445022</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a6d13d9a9c.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/444740</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64691edd302f1.jpg"/>]]></description>
 			<pubDate>Sat, 20 May 2023 19:19:25 +0000</pubDate>
-		</item>
-		<item>
-			<title>Double Swim Speed &amp; Faster Climbing</title>
-			<link>https://gamebanana.com/mods/444723</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64690a5397aef.jpg"/>]]></description>
-			<pubDate>Sat, 20 May 2023 17:58:49 +0000</pubDate>
-		</item>
-		<item>
-			<title>peroshasir reshade</title>
-			<link>https://gamebanana.com/mods/444622</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64689203c372f.jpg"/>]]></description>
-			<pubDate>Sat, 20 May 2023 09:43:05 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
