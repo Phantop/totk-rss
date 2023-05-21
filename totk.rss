@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Harder Final Boss [Spoilers, naturally]</title>
+			<link>https://gamebanana.com/mods/445022</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a6d13d9a9c.jpg"/>]]></description>
+			<pubDate>Sun, 21 May 2023 19:12:42 +0000</pubDate>
+		</item>
+		<item>
 			<title>Tuned Color vkBasalt</title>
 			<link>https://gamebanana.com/mods/445018</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a6496a7dbc.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444622</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64689203c372f.jpg"/>]]></description>
 			<pubDate>Sat, 20 May 2023 09:43:05 +0000</pubDate>
-		</item>
-		<item>
-			<title>Silence of the Kingdom - No BGM</title>
-			<link>https://gamebanana.com/mods/444566</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6468240fbe939.jpg"/>]]></description>
-			<pubDate>Sat, 20 May 2023 01:39:54 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
