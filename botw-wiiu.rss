@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>More Improved HD Modded Icons</title>
+			<link>https://gamebanana.com/mods/444941</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a31a7ee3d7.jpg"/>]]></description>
+			<pubDate>Sun, 21 May 2023 13:56:45 +0000</pubDate>
+		</item>
+		<item>
 			<title>Keese paraglider</title>
 			<link>https://gamebanana.com/mods/444919</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469ff994a8e6.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/443219</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/645e98c33071e.jpg"/>]]></description>
 			<pubDate>Fri, 12 May 2023 19:48:59 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hero&#039;s Islands</title>
-			<link>https://gamebanana.com/mods/442934</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/645c266201680.jpg"/>]]></description>
-			<pubDate>Wed, 10 May 2023 23:44:10 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
