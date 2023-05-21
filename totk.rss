@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Custom Picture in House</title>
+			<link>https://gamebanana.com/mods/444864</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469a4b06569e.jpg"/>]]></description>
+			<pubDate>Sun, 21 May 2023 04:58:28 +0000</pubDate>
+		</item>
+		<item>
 			<title>Brighter Glow Armor</title>
 			<link>https://gamebanana.com/mods/444824</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64696dbcefe0e.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444474</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6467aaf930633.jpg"/>]]></description>
 			<pubDate>Fri, 19 May 2023 17:55:27 +0000</pubDate>
-		</item>
-		<item>
-			<title>Armor Updated description [beta]</title>
-			<link>https://gamebanana.com/mods/444396</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64672053eaf45.jpg"/>]]></description>
-			<pubDate>Fri, 19 May 2023 06:47:31 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
