@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>1 Sage&#039;s Will Requirement</title>
+			<link>https://gamebanana.com/mods/444893</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469d44b9a771.jpg"/>]]></description>
+			<pubDate>Sun, 21 May 2023 08:24:11 +0000</pubDate>
+		</item>
+		<item>
 			<title>Custom Picture in House</title>
 			<link>https://gamebanana.com/mods/444864</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469a4b06569e.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444516</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6467deb29788e.jpg"/>]]></description>
 			<pubDate>Fri, 19 May 2023 20:43:34 +0000</pubDate>
-		</item>
-		<item>
-			<title>God Mode/Reduced Damage by Waikuteru</title>
-			<link>https://gamebanana.com/mods/444474</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6467aaf930633.jpg"/>]]></description>
-			<pubDate>Fri, 19 May 2023 17:55:27 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
