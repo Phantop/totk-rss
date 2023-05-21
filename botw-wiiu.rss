@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Battle tested Guardians</title>
+			<link>https://gamebanana.com/mods/444914</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469fa9fbb6bd.jpg"/>]]></description>
+			<pubDate>Sun, 21 May 2023 11:04:45 +0000</pubDate>
+		</item>
+		<item>
+			<title>Desert Lynel Armor</title>
+			<link>https://gamebanana.com/mods/444913</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469f8d2d86d4.jpg"/>]]></description>
+			<pubDate>Sun, 21 May 2023 10:56:42 +0000</pubDate>
+		</item>
+		<item>
 			<title>Street Smart Jeanne Outfit for Linkle</title>
 			<link>https://gamebanana.com/mods/443688</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646188bd3f364.jpg"/>]]></description>
@@ -43,18 +55,6 @@
 			<link>https://gamebanana.com/mods/442505</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6458d7cef12f3.jpg"/>]]></description>
 			<pubDate>Mon, 08 May 2023 11:11:54 +0000</pubDate>
-		</item>
-		<item>
-			<title>[Linkle 3.0] Vivid Linkle Eyes</title>
-			<link>https://gamebanana.com/mods/442501</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6458cbe0e1cbd.jpg"/>]]></description>
-			<pubDate>Mon, 08 May 2023 10:41:34 +0000</pubDate>
-		</item>
-		<item>
-			<title>Xenoblade Music Mod 1.1</title>
-			<link>https://gamebanana.com/mods/442495</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6458cadf8a7bf.jpg"/>]]></description>
-			<pubDate>Mon, 08 May 2023 10:17:45 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
