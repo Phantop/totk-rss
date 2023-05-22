@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Invisible Sheaths</title>
+			<link>https://gamebanana.com/mods/445153</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646b44a04ccc1.jpg"/>]]></description>
+			<pubDate>Mon, 22 May 2023 10:43:18 +0000</pubDate>
+		</item>
+		<item>
 			<title>Bigger Beedle Stock</title>
 			<link>https://gamebanana.com/mods/445113</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646ae1116bda4.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444922</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a08a7c6472.jpg"/>]]></description>
 			<pubDate>Sun, 21 May 2023 12:05:03 +0000</pubDate>
-		</item>
-		<item>
-			<title>[Reshade] Natural Colours &amp; Sharpen</title>
-			<link>https://gamebanana.com/mods/444896</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469fd8e4964a.jpg"/>]]></description>
-			<pubDate>Sun, 21 May 2023 09:25:02 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
