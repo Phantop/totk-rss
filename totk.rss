@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Totk Better Sorting</title>
+			<link>https://gamebanana.com/mods/445233</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646bd244a034c.jpg"/>]]></description>
+			<pubDate>Mon, 22 May 2023 20:23:34 +0000</pubDate>
+		</item>
+		<item>
 			<title>Dialogue Fixes</title>
 			<link>https://gamebanana.com/mods/445178</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646b81ce50638.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/445022</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a6d13d9a9c.jpg"/>]]></description>
 			<pubDate>Sun, 21 May 2023 19:12:42 +0000</pubDate>
-		</item>
-		<item>
-			<title>Tuned Color vkBasalt</title>
-			<link>https://gamebanana.com/mods/445018</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a6496a7dbc.jpg"/>]]></description>
-			<pubDate>Sun, 21 May 2023 18:45:25 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
