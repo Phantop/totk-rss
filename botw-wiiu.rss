@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Subtle Perfection - A Preset by Charmics</title>
+			<link>https://gamebanana.com/mods/445228</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646bc57b60b9c.jpg"/>]]></description>
+			<pubDate>Mon, 22 May 2023 19:46:47 +0000</pubDate>
+		</item>
+		<item>
 			<title>More Improved HD Modded Icons</title>
 			<link>https://gamebanana.com/mods/444941</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a31a7ee3d7.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/443420</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/645ff8fa3dd04.jpg"/>]]></description>
 			<pubDate>Sat, 13 May 2023 21:48:19 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ikana Mirror Shield</title>
-			<link>https://gamebanana.com/mods/443219</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/645e98c33071e.jpg"/>]]></description>
-			<pubDate>Fri, 12 May 2023 19:48:59 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
