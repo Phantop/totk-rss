@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Big Battery Dispenser</title>
+			<link>https://gamebanana.com/mods/445085</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646ab41421098.jpg"/>]]></description>
+			<pubDate>Mon, 22 May 2023 00:15:36 +0000</pubDate>
+		</item>
+		<item>
 			<title>Flurry Rush Text Restoration</title>
 			<link>https://gamebanana.com/mods/445064</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a9843ad54c.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444864</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469a4b06569e.jpg"/>]]></description>
 			<pubDate>Sun, 21 May 2023 04:58:28 +0000</pubDate>
-		</item>
-		<item>
-			<title>Brighter Glow Armor</title>
-			<link>https://gamebanana.com/mods/444824</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64696dbcefe0e.jpg"/>]]></description>
-			<pubDate>Sun, 21 May 2023 01:16:39 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
