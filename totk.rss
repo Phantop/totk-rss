@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Mystic Armor no Rupee Padding</title>
+			<link>https://gamebanana.com/mods/445097</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646ac86d58284.jpg"/>]]></description>
+			<pubDate>Mon, 22 May 2023 01:42:09 +0000</pubDate>
+		</item>
+		<item>
 			<title>Big Battery Dispenser</title>
 			<link>https://gamebanana.com/mods/445085</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646ab41421098.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444893</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469d44b9a771.jpg"/>]]></description>
 			<pubDate>Sun, 21 May 2023 08:24:11 +0000</pubDate>
-		</item>
-		<item>
-			<title>Custom Picture in House</title>
-			<link>https://gamebanana.com/mods/444864</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469a4b06569e.jpg"/>]]></description>
-			<pubDate>Sun, 21 May 2023 04:58:28 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
