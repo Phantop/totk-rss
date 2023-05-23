@@ -3,6 +3,24 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Giant Gerudo</title>
+			<link>https://gamebanana.com/mods/445404</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646d13e4dbe2b.jpg"/>]]></description>
+			<pubDate>Tue, 23 May 2023 19:29:20 +0000</pubDate>
+		</item>
+		<item>
+			<title>Giant Purah</title>
+			<link>https://gamebanana.com/mods/445403</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646d1298e38dd.jpg"/>]]></description>
+			<pubDate>Tue, 23 May 2023 19:24:27 +0000</pubDate>
+		</item>
+		<item>
+			<title>Giant Riju Companion</title>
+			<link>https://gamebanana.com/mods/445402</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646d10c9a4768.jpg"/>]]></description>
+			<pubDate>Tue, 23 May 2023 19:17:33 +0000</pubDate>
+		</item>
+		<item>
 			<title>Custom ToTK No Music Immersion</title>
 			<link>https://gamebanana.com/mods/445356</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646c9f0a78d47.jpg"/>]]></description>
@@ -43,24 +61,6 @@
 			<link>https://gamebanana.com/mods/445233</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646bd244a034c.jpg"/>]]></description>
 			<pubDate>Mon, 22 May 2023 20:23:34 +0000</pubDate>
-		</item>
-		<item>
-			<title>Dialogue Fixes</title>
-			<link>https://gamebanana.com/mods/445178</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646b81ce50638.jpg"/>]]></description>
-			<pubDate>Mon, 22 May 2023 14:39:36 +0000</pubDate>
-		</item>
-		<item>
-			<title>Invisible Sheaths</title>
-			<link>https://gamebanana.com/mods/445153</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646b44a04ccc1.jpg"/>]]></description>
-			<pubDate>Mon, 22 May 2023 10:43:18 +0000</pubDate>
-		</item>
-		<item>
-			<title>Bigger Beedle Stock</title>
-			<link>https://gamebanana.com/mods/445113</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646ae1116bda4.jpg"/>]]></description>
-			<pubDate>Mon, 22 May 2023 03:28:32 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
