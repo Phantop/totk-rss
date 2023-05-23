@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Custom ToTK No Music Immersion</title>
+			<link>https://gamebanana.com/mods/445356</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646c9f0a78d47.jpg"/>]]></description>
+			<pubDate>Tue, 23 May 2023 11:14:34 +0000</pubDate>
+		</item>
+		<item>
 			<title>Yet Another Better Sages Mod - With Voices</title>
 			<link>https://gamebanana.com/mods/445290</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646c0fe680f02.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/445113</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646ae1116bda4.jpg"/>]]></description>
 			<pubDate>Mon, 22 May 2023 03:28:32 +0000</pubDate>
-		</item>
-		<item>
-			<title>Mystic Armor no Rupee Padding</title>
-			<link>https://gamebanana.com/mods/445097</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646ac86d58284.jpg"/>]]></description>
-			<pubDate>Mon, 22 May 2023 01:42:09 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
