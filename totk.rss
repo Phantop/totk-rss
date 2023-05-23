@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Yet Another Better Sages Mod - With Voices</title>
+			<link>https://gamebanana.com/mods/445290</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646c0fe680f02.jpg"/>]]></description>
+			<pubDate>Tue, 23 May 2023 01:16:33 +0000</pubDate>
+		</item>
+		<item>
 			<title>Improved Inventory Sorting</title>
 			<link>https://gamebanana.com/mods/445271</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646bf5f842799.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/445097</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646ac86d58284.jpg"/>]]></description>
 			<pubDate>Mon, 22 May 2023 01:42:09 +0000</pubDate>
-		</item>
-		<item>
-			<title>Big Battery Dispenser</title>
-			<link>https://gamebanana.com/mods/445085</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646ab41421098.jpg"/>]]></description>
-			<pubDate>Mon, 22 May 2023 00:15:36 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
