@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Unreal Tournament &quot;HEADSHOT&quot;</title>
+			<link>https://gamebanana.com/mods/445415</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646d1d8a67c09.jpg"/>]]></description>
+			<pubDate>Tue, 23 May 2023 20:14:05 +0000</pubDate>
+		</item>
+		<item>
 			<title>Giant Gerudo</title>
 			<link>https://gamebanana.com/mods/445404</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646d13e4dbe2b.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/445258</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646becc420ee1.jpg"/>]]></description>
 			<pubDate>Mon, 22 May 2023 22:34:14 +0000</pubDate>
-		</item>
-		<item>
-			<title>Totk Better Sorting</title>
-			<link>https://gamebanana.com/mods/445233</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646bd244a034c.jpg"/>]]></description>
-			<pubDate>Mon, 22 May 2023 20:23:34 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
