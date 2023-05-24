@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Bigger (and smaller) Link!</title>
+			<link>https://gamebanana.com/mods/445538</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646e12d170dfc.jpg"/>]]></description>
+			<pubDate>Wed, 24 May 2023 13:59:37 +0000</pubDate>
+		</item>
+		<item>
+			<title>Bigger (and smaller) Link!</title>
+			<link>https://gamebanana.com/mods/445537</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646e12d170dfc.jpg"/>]]></description>
+			<pubDate>Wed, 24 May 2023 13:59:02 +0000</pubDate>
+		</item>
+		<item>
 			<title>StavaasEVG&#039;s Dualsense UI</title>
 			<link>https://gamebanana.com/mods/445517</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646de5b3c96be.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/445402</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646d10c9a4768.jpg"/>]]></description>
 			<pubDate>Tue, 23 May 2023 19:17:33 +0000</pubDate>
-		</item>
-		<item>
-			<title>Custom ToTK No Music Immersion</title>
-			<link>https://gamebanana.com/mods/445356</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646c9f0a78d47.jpg"/>]]></description>
-			<pubDate>Tue, 23 May 2023 11:14:34 +0000</pubDate>
-		</item>
-		<item>
-			<title>Yet Another Better Sages Mod - With Voices</title>
-			<link>https://gamebanana.com/mods/445290</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646c0fe680f02.jpg"/>]]></description>
-			<pubDate>Tue, 23 May 2023 01:16:33 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
