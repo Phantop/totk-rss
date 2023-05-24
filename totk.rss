@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Half Health Silvers</title>
+			<link>https://gamebanana.com/mods/445556</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646e3ccf1f384.jpg"/>]]></description>
+			<pubDate>Wed, 24 May 2023 16:38:17 +0000</pubDate>
+		</item>
+		<item>
 			<title>Weapons/Shields 4X Durability</title>
 			<link>https://gamebanana.com/mods/445550</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646e338ef18b5.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/445439</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646d463ea7a0e.jpg"/>]]></description>
 			<pubDate>Tue, 23 May 2023 23:03:49 +0000</pubDate>
-		</item>
-		<item>
-			<title>Unreal Tournament &quot;HEADSHOT&quot;</title>
-			<link>https://gamebanana.com/mods/445415</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646d1d8a67c09.jpg"/>]]></description>
-			<pubDate>Tue, 23 May 2023 20:14:05 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
