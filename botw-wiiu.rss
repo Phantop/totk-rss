@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>A little Extra Thiccness</title>
+			<link>https://gamebanana.com/mods/445444</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646d42c9f0b18.jpg"/>]]></description>
+			<pubDate>Tue, 23 May 2023 23:49:19 +0000</pubDate>
+		</item>
+		<item>
 			<title>Subtle Perfection - A Preset by Charmics</title>
 			<link>https://gamebanana.com/mods/445228</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646bc57b60b9c.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/443473</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64604ee90431d.jpg"/>]]></description>
 			<pubDate>Sun, 14 May 2023 03:07:49 +0000</pubDate>
-		</item>
-		<item>
-			<title>Midna Pronouns and Dialogue</title>
-			<link>https://gamebanana.com/mods/443420</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/645ff8fa3dd04.jpg"/>]]></description>
-			<pubDate>Sat, 13 May 2023 21:48:19 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
