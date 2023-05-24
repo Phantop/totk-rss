@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Better Elemental Armor</title>
+			<link>https://gamebanana.com/mods/445455</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646d69c61afa3.jpg"/>]]></description>
+			<pubDate>Wed, 24 May 2023 01:35:16 +0000</pubDate>
+		</item>
+		<item>
 			<title>Tears of the Kingdom Save Files</title>
 			<link>https://gamebanana.com/mods/445439</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646d463ea7a0e.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/445269</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646bf33e7aae0.jpg"/>]]></description>
 			<pubDate>Mon, 22 May 2023 23:09:54 +0000</pubDate>
-		</item>
-		<item>
-			<title>Reshade preset Komaro</title>
-			<link>https://gamebanana.com/mods/445267</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646bf4a51a272.jpg"/>]]></description>
-			<pubDate>Mon, 22 May 2023 23:05:31 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
