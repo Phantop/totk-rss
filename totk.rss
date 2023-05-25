@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Timeskip Link</title>
+			<link>https://gamebanana.com/mods/445659</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646ef90daec0e.jpg"/>]]></description>
+			<pubDate>Thu, 25 May 2023 05:59:54 +0000</pubDate>
+		</item>
+		<item>
 			<title>Healthy Bones (Stronger Skeletons)</title>
 			<link>https://gamebanana.com/mods/445644</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646ecfb3a6e71.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/445517</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646de5b3c96be.jpg"/>]]></description>
 			<pubDate>Wed, 24 May 2023 10:33:37 +0000</pubDate>
-		</item>
-		<item>
-			<title>Restore Champion &amp; Amiibo Stats</title>
-			<link>https://gamebanana.com/mods/445479</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646d85c24f9a4.jpg"/>]]></description>
-			<pubDate>Wed, 24 May 2023 07:49:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
