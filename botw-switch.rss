@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Emmissive Mat Champions Tunic</title>
+			<link>https://gamebanana.com/mods/445777</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646fb47b566c4.jpg"/>]]></description>
+			<pubDate>Thu, 25 May 2023 19:51:29 +0000</pubDate>
+		</item>
+		<item>
 			<title>Xbox/SteamDeck UI Mod v1</title>
 			<link>https://gamebanana.com/mods/444301</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646682ed409c0.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/443023</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/645d2a0c67fd4.jpg"/>]]></description>
 			<pubDate>Thu, 11 May 2023 17:53:56 +0000</pubDate>
-		</item>
-		<item>
-			<title>Unofficial Linkle 3 Patcher</title>
-			<link>https://gamebanana.com/mods/442814</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/645b394b6c49a.jpg"/>]]></description>
-			<pubDate>Wed, 10 May 2023 06:29:40 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
