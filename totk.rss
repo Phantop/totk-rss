@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Vow Unsquisher</title>
+			<link>https://gamebanana.com/mods/445700</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646f4e8fed520.jpg"/>]]></description>
+			<pubDate>Thu, 25 May 2023 12:06:24 +0000</pubDate>
+		</item>
+		<item>
 			<title>Buffed Archaic Clothes</title>
 			<link>https://gamebanana.com/mods/445676</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646f291a21caa.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/445550</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646e338ef18b5.jpg"/>]]></description>
 			<pubDate>Wed, 24 May 2023 15:57:39 +0000</pubDate>
-		</item>
-		<item>
-			<title>Champion&#039;s Leathers Set Bonus</title>
-			<link>https://gamebanana.com/mods/445542</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646e1e02d021f.jpg"/>]]></description>
-			<pubDate>Wed, 24 May 2023 14:31:39 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
