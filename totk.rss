@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Mystic Armor → Barbarian</title>
+			<link>https://gamebanana.com/mods/445763</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646f9e804ea43.jpg"/>]]></description>
+			<pubDate>Thu, 25 May 2023 17:46:08 +0000</pubDate>
+		</item>
+		<item>
 			<title>the Master Sword Blocks Attacks</title>
 			<link>https://gamebanana.com/mods/445704</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646f5bfd746c9.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/445614</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646e92e71fe0b.jpg"/>]]></description>
 			<pubDate>Wed, 24 May 2023 22:55:44 +0000</pubDate>
-		</item>
-		<item>
-			<title>No Shield Damage From Surfing</title>
-			<link>https://gamebanana.com/mods/445577</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646e59ed8adf5.jpg"/>]]></description>
-			<pubDate>Wed, 24 May 2023 18:42:05 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
