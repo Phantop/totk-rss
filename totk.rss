@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>the Master Sword Blocks Attacks</title>
+			<link>https://gamebanana.com/mods/445704</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646f5bfd746c9.jpg"/>]]></description>
+			<pubDate>Thu, 25 May 2023 13:07:14 +0000</pubDate>
+		</item>
+		<item>
+			<title>Loaded Zonaite Deposits</title>
+			<link>https://gamebanana.com/mods/445703</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646f56887cc5a.jpg"/>]]></description>
+			<pubDate>Thu, 25 May 2023 12:52:11 +0000</pubDate>
+		</item>
+		<item>
 			<title>Vow Unsquisher</title>
 			<link>https://gamebanana.com/mods/445700</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646f4e8fed520.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/445577</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646e59ed8adf5.jpg"/>]]></description>
 			<pubDate>Wed, 24 May 2023 18:42:05 +0000</pubDate>
-		</item>
-		<item>
-			<title>Half Health Silvers</title>
-			<link>https://gamebanana.com/mods/445556</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646e3ccf1f384.jpg"/>]]></description>
-			<pubDate>Wed, 24 May 2023 16:38:17 +0000</pubDate>
-		</item>
-		<item>
-			<title>Weapons/Shields 4X Durability</title>
-			<link>https://gamebanana.com/mods/445550</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646e338ef18b5.jpg"/>]]></description>
-			<pubDate>Wed, 24 May 2023 15:57:39 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
