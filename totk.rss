@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Mute Purah Pad Sensor / Beep sound</title>
+			<link>https://gamebanana.com/mods/446025</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6471374a16e4c.jpg"/>]]></description>
+			<pubDate>Fri, 26 May 2023 22:41:43 +0000</pubDate>
+		</item>
+		<item>
 			<title>Reshade_MoreColor_LessFog</title>
 			<link>https://gamebanana.com/mods/446021</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64712d947a8d4.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/445704</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646f5bfd746c9.jpg"/>]]></description>
 			<pubDate>Thu, 25 May 2023 13:07:14 +0000</pubDate>
-		</item>
-		<item>
-			<title>Loaded Zonaite Deposits</title>
-			<link>https://gamebanana.com/mods/445703</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646f56887cc5a.jpg"/>]]></description>
-			<pubDate>Thu, 25 May 2023 12:52:11 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
