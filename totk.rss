@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Armors++</title>
+			<link>https://gamebanana.com/mods/446092</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64718f01773ad.jpg"/>]]></description>
+			<pubDate>Sat, 27 May 2023 05:09:59 +0000</pubDate>
+		</item>
+		<item>
 			<title>Bigger Badder Doggos</title>
 			<link>https://gamebanana.com/mods/446042</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6471441881848.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/445796</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646fc6f84b035.jpg"/>]]></description>
 			<pubDate>Thu, 25 May 2023 20:37:26 +0000</pubDate>
-		</item>
-		<item>
-			<title>Mystic Armor → Barbarian</title>
-			<link>https://gamebanana.com/mods/445763</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646f9e804ea43.jpg"/>]]></description>
-			<pubDate>Thu, 25 May 2023 17:46:08 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
