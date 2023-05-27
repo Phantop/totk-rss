@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Modern link</title>
+			<link>https://gamebanana.com/mods/446196</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647235aab3db6.jpg"/>]]></description>
+			<pubDate>Sat, 27 May 2023 17:05:56 +0000</pubDate>
+		</item>
+		<item>
 			<title>A little Extra Thiccness</title>
 			<link>https://gamebanana.com/mods/445444</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646d42c9f0b18.jpg"/>]]></description>
@@ -49,12 +55,6 @@
 			<link>https://gamebanana.com/mods/444913</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469f8d2d86d4.jpg"/>]]></description>
 			<pubDate>Sun, 21 May 2023 10:56:42 +0000</pubDate>
-		</item>
-		<item>
-			<title>Street Smart Jeanne Outfit for Linkle</title>
-			<link>https://gamebanana.com/mods/443688</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646188bd3f364.jpg"/>]]></description>
-			<pubDate>Mon, 15 May 2023 01:22:38 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
