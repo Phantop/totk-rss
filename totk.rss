@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>4 Times Master Sword Durability</title>
+			<link>https://gamebanana.com/mods/446270</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64728ce4c8cab.jpg"/>]]></description>
+			<pubDate>Sat, 27 May 2023 23:06:33 +0000</pubDate>
+		</item>
+		<item>
 			<title>Low Grav Mystic Pants</title>
 			<link>https://gamebanana.com/mods/446199</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64723e6200972.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/445981</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64710373954d9.jpg"/>]]></description>
 			<pubDate>Fri, 26 May 2023 19:08:54 +0000</pubDate>
-		</item>
-		<item>
-			<title>Link Sucks At Cooking</title>
-			<link>https://gamebanana.com/mods/445864</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647044662dc82.jpg"/>]]></description>
-			<pubDate>Fri, 26 May 2023 05:33:22 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
