@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Shrek Hinox Mod</title>
+			<link>https://gamebanana.com/mods/446504</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6473d7006da8d.jpg"/>]]></description>
+			<pubDate>Sun, 28 May 2023 22:35:48 +0000</pubDate>
+		</item>
+		<item>
 			<title>Non-Upgradeable Armor Defense Increase</title>
 			<link>https://gamebanana.com/mods/446417</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64737f32e0117.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446199</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64723e6200972.jpg"/>]]></description>
 			<pubDate>Sat, 27 May 2023 17:44:49 +0000</pubDate>
-		</item>
-		<item>
-			<title>GameOver: 菜</title>
-			<link>https://gamebanana.com/mods/446114</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6471bc60a289a.jpg"/>]]></description>
-			<pubDate>Sat, 27 May 2023 08:51:52 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
