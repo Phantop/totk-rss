@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Dark Link Defense Increase</title>
+			<link>https://gamebanana.com/mods/446415</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64737cdd217db.jpg"/>]]></description>
+			<pubDate>Sun, 28 May 2023 16:11:24 +0000</pubDate>
+		</item>
+		<item>
 			<title>One Handed Weapon Lword&gt;SmallSword</title>
 			<link>https://gamebanana.com/mods/446396</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647355dbf16b5.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446106</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6471a2c08d203.jpg"/>]]></description>
 			<pubDate>Sat, 27 May 2023 06:30:25 +0000</pubDate>
-		</item>
-		<item>
-			<title>Longer Days &amp; Nights (beta)</title>
-			<link>https://gamebanana.com/mods/446105</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6471a0ff844fc.jpg"/>]]></description>
-			<pubDate>Sat, 27 May 2023 06:19:47 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
