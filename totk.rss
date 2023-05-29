@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Modified mod Unbreakable Equipment + One Handed We</title>
+			<link>https://gamebanana.com/mods/446528</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6473ee30d4d33.jpg"/>]]></description>
+			<pubDate>Mon, 29 May 2023 00:13:56 +0000</pubDate>
+		</item>
+		<item>
 			<title>Shrek Hinox Mod</title>
 			<link>https://gamebanana.com/mods/446504</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6473d7006da8d.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446270</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64728ce4c8cab.jpg"/>]]></description>
 			<pubDate>Sat, 27 May 2023 23:06:33 +0000</pubDate>
-		</item>
-		<item>
-			<title>Low Grav Mystic Pants</title>
-			<link>https://gamebanana.com/mods/446199</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64723e6200972.jpg"/>]]></description>
-			<pubDate>Sat, 27 May 2023 17:44:49 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
