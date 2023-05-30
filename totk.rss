@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Weezer Shirt</title>
+			<link>https://gamebanana.com/mods/446789</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64753ed21c8ec.jpg"/>]]></description>
+			<pubDate>Tue, 30 May 2023 00:12:18 +0000</pubDate>
+		</item>
+		<item>
 			<title>Dark Link over Link</title>
 			<link>https://gamebanana.com/mods/446777</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64752dec1013d.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446417</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64737f32e0117.jpg"/>]]></description>
 			<pubDate>Sun, 28 May 2023 16:20:38 +0000</pubDate>
-		</item>
-		<item>
-			<title>Dark Link Defense Increase</title>
-			<link>https://gamebanana.com/mods/446415</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64737cdd217db.jpg"/>]]></description>
-			<pubDate>Sun, 28 May 2023 16:11:24 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
