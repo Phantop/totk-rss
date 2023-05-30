@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Linkle - Questionable nun outfit</title>
+			<link>https://gamebanana.com/mods/446919</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64764ca4c1153.jpg"/>]]></description>
+			<pubDate>Tue, 30 May 2023 19:57:13 +0000</pubDate>
+		</item>
+		<item>
 			<title>Linkle 3.0 Lana Hair and Eye Textures</title>
 			<link>https://gamebanana.com/mods/446874</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476117ceb90a.jpg"/>]]></description>
@@ -49,12 +55,6 @@
 			<link>https://gamebanana.com/mods/444941</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646a31a7ee3d7.jpg"/>]]></description>
 			<pubDate>Sun, 21 May 2023 13:56:45 +0000</pubDate>
-		</item>
-		<item>
-			<title>Keese paraglider</title>
-			<link>https://gamebanana.com/mods/444919</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469ff994a8e6.jpg"/>]]></description>
-			<pubDate>Sun, 21 May 2023 11:25:42 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
