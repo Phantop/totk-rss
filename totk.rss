@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>No Pickup Message - Bubbul Gem</title>
+			<link>https://gamebanana.com/mods/446865</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6475f9c906519.jpg"/>]]></description>
+			<pubDate>Tue, 30 May 2023 13:29:21 +0000</pubDate>
+		</item>
+		<item>
 			<title>Weezer Shirt</title>
 			<link>https://gamebanana.com/mods/446789</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64753ed21c8ec.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446528</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6473ee30d4d33.jpg"/>]]></description>
 			<pubDate>Mon, 29 May 2023 00:13:56 +0000</pubDate>
-		</item>
-		<item>
-			<title>Non-Upgradeable Armor Defense Increase</title>
-			<link>https://gamebanana.com/mods/446417</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64737f32e0117.jpg"/>]]></description>
-			<pubDate>Sun, 28 May 2023 16:20:38 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

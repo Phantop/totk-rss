@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Kapustin&#039;s Toccatina instead of Modulga BGM</title>
+			<link>https://gamebanana.com/mods/446864</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6475f940581bc.jpg"/>]]></description>
+			<pubDate>Tue, 30 May 2023 13:29:10 +0000</pubDate>
+		</item>
+		<item>
 			<title>Linkle Champion Themed Outfit Recreation</title>
 			<link>https://gamebanana.com/mods/446410</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64736f1296282.jpg"/>]]></description>
@@ -49,12 +55,6 @@
 			<link>https://gamebanana.com/mods/444917</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469fe063a51f.jpg"/>]]></description>
 			<pubDate>Sun, 21 May 2023 11:19:10 +0000</pubDate>
-		</item>
-		<item>
-			<title>Eagle paraglider</title>
-			<link>https://gamebanana.com/mods/444916</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6469fc0f05af5.jpg"/>]]></description>
-			<pubDate>Sun, 21 May 2023 11:10:37 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
