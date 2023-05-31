@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Brown Skin Link</title>
+			<link>https://gamebanana.com/mods/447059</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477322d3e984.jpg"/>]]></description>
+			<pubDate>Wed, 31 May 2023 11:41:33 +0000</pubDate>
+		</item>
+		<item>
 			<title>Gilded Night Armor</title>
 			<link>https://gamebanana.com/mods/447022</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476dceaea1cf.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446942</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476688053b9a.jpg"/>]]></description>
 			<pubDate>Tue, 30 May 2023 21:22:40 +0000</pubDate>
-		</item>
-		<item>
-			<title>Uppies over Ascend</title>
-			<link>https://gamebanana.com/mods/446922</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647658ba4d92b.jpg"/>]]></description>
-			<pubDate>Tue, 30 May 2023 20:11:13 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
