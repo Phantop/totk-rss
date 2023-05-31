@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>buff 3 on Glide</title>
+			<link>https://gamebanana.com/mods/447084</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647751832be38.jpg"/>]]></description>
+			<pubDate>Wed, 31 May 2023 13:59:30 +0000</pubDate>
+		</item>
+		<item>
 			<title>Zero battery cell consumption</title>
 			<link>https://gamebanana.com/mods/447072</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64774791d6264.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446969</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64770013664d2.jpg"/>]]></description>
 			<pubDate>Tue, 30 May 2023 23:53:21 +0000</pubDate>
-		</item>
-		<item>
-			<title>Purah Companion</title>
-			<link>https://gamebanana.com/mods/446963</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64770213f3d9f.jpg"/>]]></description>
-			<pubDate>Tue, 30 May 2023 23:20:39 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
