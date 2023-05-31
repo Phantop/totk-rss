@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Gilded Night Armor</title>
+			<link>https://gamebanana.com/mods/447022</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476dceb40305.jpg"/>]]></description>
+			<pubDate>Wed, 31 May 2023 05:45:35 +0000</pubDate>
+		</item>
+		<item>
 			<title>Red and black Tunic of Memories</title>
 			<link>https://gamebanana.com/mods/447002</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476c4918c61f.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446922</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647658ba4d92b.jpg"/>]]></description>
 			<pubDate>Tue, 30 May 2023 20:11:13 +0000</pubDate>
-		</item>
-		<item>
-			<title>Better Elemental Dragon Horns</title>
-			<link>https://gamebanana.com/mods/446887</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64762182f13d5.jpg"/>]]></description>
-			<pubDate>Tue, 30 May 2023 16:21:13 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
