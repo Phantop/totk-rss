@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Zero battery cell consumption</title>
+			<link>https://gamebanana.com/mods/447072</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64774791d6264.jpg"/>]]></description>
+			<pubDate>Wed, 31 May 2023 13:12:23 +0000</pubDate>
+		</item>
+		<item>
 			<title>Brown Skin Link</title>
 			<link>https://gamebanana.com/mods/447059</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477322d3e984.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446963</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64770213f3d9f.jpg"/>]]></description>
 			<pubDate>Tue, 30 May 2023 23:20:39 +0000</pubDate>
-		</item>
-		<item>
-			<title>Disable New Items Notifications</title>
-			<link>https://gamebanana.com/mods/446942</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476688053b9a.jpg"/>]]></description>
-			<pubDate>Tue, 30 May 2023 21:22:40 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
