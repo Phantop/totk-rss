@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Retro Cucco</title>
+			<link>https://gamebanana.com/mods/447130</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64777ec8bc76d.jpg"/>]]></description>
+			<pubDate>Wed, 31 May 2023 17:09:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>No Yunobo Spin Noise</title>
+			<link>https://gamebanana.com/mods/447118</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64777572f17f2.jpg"/>]]></description>
+			<pubDate>Wed, 31 May 2023 16:27:40 +0000</pubDate>
+		</item>
+		<item>
 			<title>All Shrines Completed &amp; All Temples</title>
 			<link>https://gamebanana.com/mods/447106</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64776c740b32f.jpg"/>]]></description>
@@ -27,7 +39,7 @@
 			<pubDate>Wed, 31 May 2023 11:41:33 +0000</pubDate>
 		</item>
 		<item>
-			<title>Gilded Night Armor</title>
+			<title>Gilded Night - Armor and Sword</title>
 			<link>https://gamebanana.com/mods/447022</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476dceaea1cf.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 05:45:35 +0000</pubDate>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/446995</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476b51772b48.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 02:51:28 +0000</pubDate>
-		</item>
-		<item>
-			<title>Red and black Champions Leathers and tunic</title>
-			<link>https://gamebanana.com/mods/446987</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476a93de43af.jpg"/>]]></description>
-			<pubDate>Wed, 31 May 2023 02:00:04 +0000</pubDate>
-		</item>
-		<item>
-			<title>Champion&#039;s Cap</title>
-			<link>https://gamebanana.com/mods/446977</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647695c620960.jpg"/>]]></description>
-			<pubDate>Wed, 31 May 2023 00:39:46 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
