@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>No Background with different colours</title>
+			<link>https://gamebanana.com/mods/447142</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477880cddb2e.jpg"/>]]></description>
+			<pubDate>Wed, 31 May 2023 17:48:56 +0000</pubDate>
+		</item>
+		<item>
 			<title>Retro Cucco</title>
 			<link>https://gamebanana.com/mods/447130</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64777ec8bc76d.jpg"/>]]></description>
@@ -41,7 +47,7 @@
 		<item>
 			<title>Gilded Night - Armor and Sword</title>
 			<link>https://gamebanana.com/mods/447022</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476dceaea1cf.jpg"/>]]></description>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64777fde68429.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 05:45:35 +0000</pubDate>
 		</item>
 		<item>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446996</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476b7a325861.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 03:00:59 +0000</pubDate>
-		</item>
-		<item>
-			<title>Serfrost&#039;s Defogger (Not a ReShade)</title>
-			<link>https://gamebanana.com/mods/446995</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476b51772b48.jpg"/>]]></description>
-			<pubDate>Wed, 31 May 2023 02:51:28 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
