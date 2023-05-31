@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>All Shrines Completed &amp; All Temples</title>
+			<link>https://gamebanana.com/mods/447106</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64776c740b32f.jpg"/>]]></description>
+			<pubDate>Wed, 31 May 2023 15:49:31 +0000</pubDate>
+		</item>
+		<item>
 			<title>buff 3 on Glide</title>
 			<link>https://gamebanana.com/mods/447084</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647751832be38.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446977</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647695c620960.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 00:39:46 +0000</pubDate>
-		</item>
-		<item>
-			<title>Paya Companion</title>
-			<link>https://gamebanana.com/mods/446969</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64770013664d2.jpg"/>]]></description>
-			<pubDate>Tue, 30 May 2023 23:53:21 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
