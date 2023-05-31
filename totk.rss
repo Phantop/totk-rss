@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Fierce Diety&#039;s Wrath</title>
+			<link>https://gamebanana.com/mods/447147</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647791aff1798.jpg"/>]]></description>
+			<pubDate>Wed, 31 May 2023 18:17:20 +0000</pubDate>
+		</item>
+		<item>
 			<title>No Background with different colours</title>
 			<link>https://gamebanana.com/mods/447142</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477880cddb2e.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447002</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476c4918c61f.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 03:54:05 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ganondorf&#039;s War Bow</title>
-			<link>https://gamebanana.com/mods/446996</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476b7a325861.jpg"/>]]></description>
-			<pubDate>Wed, 31 May 2023 03:00:59 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
