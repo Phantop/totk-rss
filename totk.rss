@@ -3,19 +3,25 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Red and black Tunic of Memories</title>
+			<link>https://gamebanana.com/mods/447002</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476c4918c61f.jpg"/>]]></description>
+			<pubDate>Wed, 31 May 2023 03:54:05 +0000</pubDate>
+		</item>
+		<item>
 			<title>Ganondorf&#039;s War Bow</title>
 			<link>https://gamebanana.com/mods/446996</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476b7a325861.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 03:00:59 +0000</pubDate>
 		</item>
 		<item>
-			<title>Serfrost&#039;s Defogger</title>
+			<title>Serfrost&#039;s Defogger (Not a ReShade)</title>
 			<link>https://gamebanana.com/mods/446995</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476b51772b48.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 02:51:28 +0000</pubDate>
 		</item>
 		<item>
-			<title>Red and black Champions Leathers</title>
+			<title>Red and black Champions Leathers and tunic</title>
 			<link>https://gamebanana.com/mods/446987</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476a93de43af.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 02:00:04 +0000</pubDate>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446887</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64762182f13d5.jpg"/>]]></description>
 			<pubDate>Tue, 30 May 2023 16:21:13 +0000</pubDate>
-		</item>
-		<item>
-			<title>No Pickup Message - Bubbul Gem</title>
-			<link>https://gamebanana.com/mods/446865</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6475f9c906519.jpg"/>]]></description>
-			<pubDate>Tue, 30 May 2023 13:29:21 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
