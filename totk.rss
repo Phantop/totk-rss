@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Retro Cow - LonLon milk Edition</title>
+			<link>https://gamebanana.com/mods/447179</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477c00b815cc.jpg"/>]]></description>
+			<pubDate>Wed, 31 May 2023 21:45:52 +0000</pubDate>
+		</item>
+		<item>
 			<title>Fierce Diety&#039;s Wrath</title>
 			<link>https://gamebanana.com/mods/447147</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647791aff1798.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447022</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64777fde68429.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 05:45:35 +0000</pubDate>
-		</item>
-		<item>
-			<title>Red and black Tunic of Memories</title>
-			<link>https://gamebanana.com/mods/447002</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476c4918c61f.jpg"/>]]></description>
-			<pubDate>Wed, 31 May 2023 03:54:05 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
