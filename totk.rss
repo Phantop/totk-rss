@@ -3,6 +3,24 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Champion&#039;s Cap</title>
+			<link>https://gamebanana.com/mods/446977</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647695c620960.jpg"/>]]></description>
+			<pubDate>Wed, 31 May 2023 00:39:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>Paya Companion</title>
+			<link>https://gamebanana.com/mods/446969</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64768c5ace968.jpg"/>]]></description>
+			<pubDate>Tue, 30 May 2023 23:53:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>Purah Companion</title>
+			<link>https://gamebanana.com/mods/446963</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64768358de44f.jpg"/>]]></description>
+			<pubDate>Tue, 30 May 2023 23:20:39 +0000</pubDate>
+		</item>
+		<item>
 			<title>Disable New Items Notifications</title>
 			<link>https://gamebanana.com/mods/446942</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476688053b9a.jpg"/>]]></description>
@@ -43,24 +61,6 @@
 			<link>https://gamebanana.com/mods/446768</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6475275becd5d.jpg"/>]]></description>
 			<pubDate>Mon, 29 May 2023 22:33:38 +0000</pubDate>
-		</item>
-		<item>
-			<title>z-snes reshade</title>
-			<link>https://gamebanana.com/mods/446745</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647527542454a.jpg"/>]]></description>
-			<pubDate>Mon, 29 May 2023 21:21:51 +0000</pubDate>
-		</item>
-		<item>
-			<title>BOTW weapons have BOTW stats</title>
-			<link>https://gamebanana.com/mods/446689</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6474d29c2248f.jpg"/>]]></description>
-			<pubDate>Mon, 29 May 2023 16:43:24 +0000</pubDate>
-		</item>
-		<item>
-			<title>Black Champion&#039;s Leathers</title>
-			<link>https://gamebanana.com/mods/446664</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6474bd63e1a6e.jpg"/>]]></description>
-			<pubDate>Mon, 29 May 2023 14:59:57 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
