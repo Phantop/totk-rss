@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Ganondorf&#039;s War Bow</title>
+			<link>https://gamebanana.com/mods/446996</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476b7a325861.jpg"/>]]></description>
+			<pubDate>Wed, 31 May 2023 03:00:59 +0000</pubDate>
+		</item>
+		<item>
 			<title>Serfrost&#039;s Defogger</title>
 			<link>https://gamebanana.com/mods/446995</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476b51772b48.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446865</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6475f9c906519.jpg"/>]]></description>
 			<pubDate>Tue, 30 May 2023 13:29:21 +0000</pubDate>
-		</item>
-		<item>
-			<title>Weezer Shirt</title>
-			<link>https://gamebanana.com/mods/446789</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64753ed21c8ec.jpg"/>]]></description>
-			<pubDate>Tue, 30 May 2023 00:12:18 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
