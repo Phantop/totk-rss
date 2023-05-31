@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Grabbies over Ultrahand</title>
+			<link>https://gamebanana.com/mods/447188</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477d08dbeb09.jpg"/>]]></description>
+			<pubDate>Wed, 31 May 2023 22:57:24 +0000</pubDate>
+		</item>
+		<item>
 			<title>Retro Cow - LonLon milk Edition</title>
 			<link>https://gamebanana.com/mods/447179</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477c00b815cc.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447059</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477322d3e984.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 11:41:33 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gilded Night - Armor and Sword</title>
-			<link>https://gamebanana.com/mods/447022</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64777fde68429.jpg"/>]]></description>
-			<pubDate>Wed, 31 May 2023 05:45:35 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
