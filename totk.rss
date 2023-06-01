@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Tears of the Kingdom save w/ special horses</title>
+			<link>https://gamebanana.com/mods/447345</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478c97d6a0cd.jpg"/>]]></description>
+			<pubDate>Thu, 01 Jun 2023 16:38:40 +0000</pubDate>
+		</item>
+		<item>
 			<title>Better Master Sword</title>
 			<link>https://gamebanana.com/mods/447316</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478a75dc7868.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447188</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477d08dbeb09.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 22:57:24 +0000</pubDate>
-		</item>
-		<item>
-			<title>Retro Cow - LonLon milk Edition</title>
-			<link>https://gamebanana.com/mods/447179</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477c00b815cc.jpg"/>]]></description>
-			<pubDate>Wed, 31 May 2023 21:45:52 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
