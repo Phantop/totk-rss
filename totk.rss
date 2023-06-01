@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Master Ladle</title>
+			<link>https://gamebanana.com/mods/447309</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64789c552d1fb.jpg"/>]]></description>
+			<pubDate>Thu, 01 Jun 2023 13:28:37 +0000</pubDate>
+		</item>
+		<item>
+			<title>Dimebag Darrell Shirt</title>
+			<link>https://gamebanana.com/mods/447308</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64789bf6470af.jpg"/>]]></description>
+			<pubDate>Thu, 01 Jun 2023 13:26:04 +0000</pubDate>
+		</item>
+		<item>
 			<title>Survival of the Kingdom</title>
 			<link>https://gamebanana.com/mods/447254</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478369092022.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/447147</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647791aff1798.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 18:17:20 +0000</pubDate>
-		</item>
-		<item>
-			<title>No Background with different colours</title>
-			<link>https://gamebanana.com/mods/447142</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477880cddb2e.jpg"/>]]></description>
-			<pubDate>Wed, 31 May 2023 17:48:56 +0000</pubDate>
-		</item>
-		<item>
-			<title>Retro Cucco</title>
-			<link>https://gamebanana.com/mods/447130</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64777ec8bc76d.jpg"/>]]></description>
-			<pubDate>Wed, 31 May 2023 17:09:53 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
