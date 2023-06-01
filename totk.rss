@@ -3,6 +3,24 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Dark Master Sword</title>
+			<link>https://gamebanana.com/mods/447370</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478e2c597ba5.jpg"/>]]></description>
+			<pubDate>Thu, 01 Jun 2023 18:27:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>Glowing White Hair</title>
+			<link>https://gamebanana.com/mods/447369</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478e22fd7c68.jpg"/>]]></description>
+			<pubDate>Thu, 01 Jun 2023 18:24:12 +0000</pubDate>
+		</item>
+		<item>
+			<title>Red Eye Link</title>
+			<link>https://gamebanana.com/mods/447368</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478e17dd5bc3.jpg"/>]]></description>
+			<pubDate>Thu, 01 Jun 2023 18:21:04 +0000</pubDate>
+		</item>
+		<item>
 			<title>Black Champion Leathers</title>
 			<link>https://gamebanana.com/mods/447367</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478e018f0e0b.jpg"/>]]></description>
@@ -43,24 +61,6 @@
 			<link>https://gamebanana.com/mods/447254</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478369092022.jpg"/>]]></description>
 			<pubDate>Thu, 01 Jun 2023 06:13:45 +0000</pubDate>
-		</item>
-		<item>
-			<title>Link is Hylian</title>
-			<link>https://gamebanana.com/mods/447252</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647834b813fa2.jpg"/>]]></description>
-			<pubDate>Thu, 01 Jun 2023 06:03:52 +0000</pubDate>
-		</item>
-		<item>
-			<title>Link and Zelda’s House [Spoilers]</title>
-			<link>https://gamebanana.com/mods/447247</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64782ac7d7cff.jpg"/>]]></description>
-			<pubDate>Thu, 01 Jun 2023 05:32:20 +0000</pubDate>
-		</item>
-		<item>
-			<title>Royal guard tunic of memories from smash</title>
-			<link>https://gamebanana.com/mods/447216</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477fdc7d192d.jpg"/>]]></description>
-			<pubDate>Thu, 01 Jun 2023 02:10:38 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
