@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Royal guard tunic of memories from smash</title>
+			<link>https://gamebanana.com/mods/447216</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477fdc7d192d.jpg"/>]]></description>
+			<pubDate>Thu, 01 Jun 2023 02:10:38 +0000</pubDate>
+		</item>
+		<item>
 			<title>21&#039;9 HUD Fix v7 Plus Western Xbox UI v2</title>
 			<link>https://gamebanana.com/mods/447208</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477f2c47345f.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447084</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647751832be38.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 13:59:30 +0000</pubDate>
-		</item>
-		<item>
-			<title>Zero battery cell consumption</title>
-			<link>https://gamebanana.com/mods/447072</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64774791d6264.jpg"/>]]></description>
-			<pubDate>Wed, 31 May 2023 13:12:23 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
