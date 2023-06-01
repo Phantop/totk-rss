@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>[Linkle 3.0] *Black* Tingle&#039;s Set Retexture</title>
+			<link>https://gamebanana.com/mods/447228</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478ed6dedfc9.jpg"/>]]></description>
+			<pubDate>Thu, 01 Jun 2023 19:32:02 +0000</pubDate>
+		</item>
+		<item>
 			<title>[Linkle 3.0] *Black* Underwear Retexture</title>
 			<link>https://gamebanana.com/mods/447212</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478e08ac1c0d.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446367</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64732cf3ad016.jpg"/>]]></description>
 			<pubDate>Sun, 28 May 2023 10:39:20 +0000</pubDate>
-		</item>
-		<item>
-			<title>Modern link</title>
-			<link>https://gamebanana.com/mods/446196</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647235aab3db6.jpg"/>]]></description>
-			<pubDate>Sat, 27 May 2023 17:05:56 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
