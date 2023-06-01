@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Black Lobster Shirt (no Logo)</title>
+			<link>https://gamebanana.com/mods/447403</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6479100164815.jpg"/>]]></description>
+			<pubDate>Thu, 01 Jun 2023 21:39:43 +0000</pubDate>
+		</item>
+		<item>
 			<title>RoyalGuard Durability++</title>
 			<link>https://gamebanana.com/mods/447394</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478fd0e7777a.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447316</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478a75dc7868.jpg"/>]]></description>
 			<pubDate>Thu, 01 Jun 2023 14:13:10 +0000</pubDate>
-		</item>
-		<item>
-			<title>Master Ladle</title>
-			<link>https://gamebanana.com/mods/447309</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64789c552d1fb.jpg"/>]]></description>
-			<pubDate>Thu, 01 Jun 2023 13:28:37 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
