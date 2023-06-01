@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>21&#039;9 HUD Fix v7 Plus Western Xbox UI v2</title>
+			<link>https://gamebanana.com/mods/447208</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477f2c47345f.jpg"/>]]></description>
+			<pubDate>Thu, 01 Jun 2023 01:26:27 +0000</pubDate>
+		</item>
+		<item>
 			<title>Grabbies over Ultrahand</title>
 			<link>https://gamebanana.com/mods/447188</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477d08dbeb09.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447072</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64774791d6264.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 13:12:23 +0000</pubDate>
-		</item>
-		<item>
-			<title>Brown Skin Link</title>
-			<link>https://gamebanana.com/mods/447059</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6477322d3e984.jpg"/>]]></description>
-			<pubDate>Wed, 31 May 2023 11:41:33 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
