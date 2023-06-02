@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Eyeliner for Link</title>
+			<link>https://gamebanana.com/mods/447479</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6479623030cf7.jpg"/>]]></description>
+			<pubDate>Fri, 02 Jun 2023 03:38:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>Missing Zelda Shirt</title>
+			<link>https://gamebanana.com/mods/447477</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6479634508e30.jpg"/>]]></description>
+			<pubDate>Fri, 02 Jun 2023 03:35:07 +0000</pubDate>
+		</item>
+		<item>
 			<title>Stronger Dusk Bow</title>
 			<link>https://gamebanana.com/mods/447470</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64795a99b91a5.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/447369</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478e236bdbf5.jpg"/>]]></description>
 			<pubDate>Thu, 01 Jun 2023 18:24:12 +0000</pubDate>
-		</item>
-		<item>
-			<title>Red Eye Link</title>
-			<link>https://gamebanana.com/mods/447368</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478e1825bbc3.jpg"/>]]></description>
-			<pubDate>Thu, 01 Jun 2023 18:21:04 +0000</pubDate>
-		</item>
-		<item>
-			<title>Black Champion Leathers</title>
-			<link>https://gamebanana.com/mods/447367</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478e018f0e0b.jpg"/>]]></description>
-			<pubDate>Thu, 01 Jun 2023 18:16:12 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
