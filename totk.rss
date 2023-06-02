@@ -3,10 +3,22 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Quality of Life Mod Pack and More</title>
+			<link>https://gamebanana.com/mods/447510</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647994e2a753f.jpg"/>]]></description>
+			<pubDate>Fri, 02 Jun 2023 07:10:11 +0000</pubDate>
+		</item>
+		<item>
 			<title>Royal Guard Heavy Armor</title>
 			<link>https://gamebanana.com/mods/447501</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64797cd061fc5.jpg"/>]]></description>
 			<pubDate>Fri, 02 Jun 2023 05:24:54 +0000</pubDate>
+		</item>
+		<item>
+			<title>Bigger Critters</title>
+			<link>https://gamebanana.com/mods/447488</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64797191c0341.jpg"/>]]></description>
+			<pubDate>Fri, 02 Jun 2023 05:04:44 +0000</pubDate>
 		</item>
 		<item>
 			<title>Better Fog (Not a Reshade)</title>
@@ -39,9 +51,9 @@
 			<pubDate>Thu, 01 Jun 2023 23:07:00 +0000</pubDate>
 		</item>
 		<item>
-			<title>Scars and Wounds</title>
+			<title>Scars, Wounds and Optional Automail</title>
 			<link>https://gamebanana.com/mods/447429</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6479232bd586d.jpg"/>]]></description>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6479941d093dc.jpg"/>]]></description>
 			<pubDate>Thu, 01 Jun 2023 23:01:23 +0000</pubDate>
 		</item>
 		<item>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/447403</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6479100164815.jpg"/>]]></description>
 			<pubDate>Thu, 01 Jun 2023 21:39:43 +0000</pubDate>
-		</item>
-		<item>
-			<title>RoyalGuard Durability++</title>
-			<link>https://gamebanana.com/mods/447394</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478fd0e7777a.jpg"/>]]></description>
-			<pubDate>Thu, 01 Jun 2023 20:37:36 +0000</pubDate>
-		</item>
-		<item>
-			<title>Funny Abilities</title>
-			<link>https://gamebanana.com/mods/447389</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478fd30e28db.jpg"/>]]></description>
-			<pubDate>Thu, 01 Jun 2023 20:14:38 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
