@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Trial of the Sword&#039;s Master Sword TOTK</title>
+			<link>https://gamebanana.com/mods/447583</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647a1461bf867.jpg"/>]]></description>
+			<pubDate>Fri, 02 Jun 2023 16:23:35 +0000</pubDate>
+		</item>
+		<item>
 			<title>Quality of Life Mod Pack and More</title>
 			<link>https://gamebanana.com/mods/447510</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6479ad4ec54a3.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447429</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6479941d093dc.jpg"/>]]></description>
 			<pubDate>Thu, 01 Jun 2023 23:01:23 +0000</pubDate>
-		</item>
-		<item>
-			<title>Black Lobster Shirt (no Logo)</title>
-			<link>https://gamebanana.com/mods/447403</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6479100164815.jpg"/>]]></description>
-			<pubDate>Thu, 01 Jun 2023 21:39:43 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
