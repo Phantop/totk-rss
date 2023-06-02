@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Bigger Critters</title>
+			<link>https://gamebanana.com/mods/447488</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64797191c0341.jpg"/>]]></description>
+			<pubDate>Fri, 02 Jun 2023 05:04:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>Better Fog (Not a Reshade)</title>
+			<link>https://gamebanana.com/mods/447492</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647974b1f3b4d.jpg"/>]]></description>
+			<pubDate>Fri, 02 Jun 2023 04:55:34 +0000</pubDate>
+		</item>
+		<item>
 			<title>Eyeliner for Link</title>
 			<link>https://gamebanana.com/mods/447479</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6479623030cf7.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/447389</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478fd30e28db.jpg"/>]]></description>
 			<pubDate>Thu, 01 Jun 2023 20:14:38 +0000</pubDate>
-		</item>
-		<item>
-			<title>Dark Master Sword</title>
-			<link>https://gamebanana.com/mods/447370</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478e2c597ba5.jpg"/>]]></description>
-			<pubDate>Thu, 01 Jun 2023 18:27:19 +0000</pubDate>
-		</item>
-		<item>
-			<title>Glowing White Hair</title>
-			<link>https://gamebanana.com/mods/447369</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478e236bdbf5.jpg"/>]]></description>
-			<pubDate>Thu, 01 Jun 2023 18:24:12 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
