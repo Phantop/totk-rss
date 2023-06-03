@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Exploring opening cutscene</title>
+			<link>https://gamebanana.com/mods/447826</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b8d14c576a.jpg"/>]]></description>
+			<pubDate>Sat, 03 Jun 2023 19:00:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>Loaded and harder ore deposits</title>
+			<link>https://gamebanana.com/mods/447823</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b8a526782e.jpg"/>]]></description>
+			<pubDate>Sat, 03 Jun 2023 18:46:40 +0000</pubDate>
+		</item>
+		<item>
 			<title>Soul of Hylia&#039;s Hero</title>
 			<link>https://gamebanana.com/mods/447812</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b7a6e6f085.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/447711</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ade630b7a7.jpg"/>]]></description>
 			<pubDate>Sat, 03 Jun 2023 06:47:15 +0000</pubDate>
-		</item>
-		<item>
-			<title>Automail Standalone (Over Rarru&#039;s Arm)</title>
-			<link>https://gamebanana.com/mods/447702</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ad596d1904.jpg"/>]]></description>
-			<pubDate>Sat, 03 Jun 2023 05:45:57 +0000</pubDate>
-		</item>
-		<item>
-			<title>Larger Hylian Shield</title>
-			<link>https://gamebanana.com/mods/447700</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647acf118df3c.jpg"/>]]></description>
-			<pubDate>Sat, 03 Jun 2023 05:32:55 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
