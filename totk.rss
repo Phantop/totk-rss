@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Ragnell (Fire Emblem) Over White Sword of the Sky</title>
+			<link>https://gamebanana.com/mods/447873</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647bc27989812.jpg"/>]]></description>
+			<pubDate>Sat, 03 Jun 2023 22:54:18 +0000</pubDate>
+		</item>
+		<item>
+			<title>Buffed Mineru</title>
+			<link>https://gamebanana.com/mods/447869</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647bba32d0c59.jpg"/>]]></description>
+			<pubDate>Sat, 03 Jun 2023 22:25:12 +0000</pubDate>
+		</item>
+		<item>
 			<title>Exploring opening cutscene</title>
 			<link>https://gamebanana.com/mods/447826</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b8d14c576a.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/447735</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b14ae119e8.jpg"/>]]></description>
 			<pubDate>Sat, 03 Jun 2023 10:23:50 +0000</pubDate>
-		</item>
-		<item>
-			<title>Steamdeck UI v7 (Incl.Blackscreen Fix)</title>
-			<link>https://gamebanana.com/mods/447721</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b058b40226.jpg"/>]]></description>
-			<pubDate>Sat, 03 Jun 2023 09:23:48 +0000</pubDate>
-		</item>
-		<item>
-			<title>SLAAAAYEEER!!</title>
-			<link>https://gamebanana.com/mods/447711</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ade630b7a7.jpg"/>]]></description>
-			<pubDate>Sat, 03 Jun 2023 06:47:15 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
