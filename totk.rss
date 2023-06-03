@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Automail Standalone (Over Rarru&#039;s Arm)</title>
+			<link>https://gamebanana.com/mods/447702</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ad596d1904.jpg"/>]]></description>
+			<pubDate>Sat, 03 Jun 2023 05:45:57 +0000</pubDate>
+		</item>
+		<item>
+			<title>Larger Hylian Shield</title>
+			<link>https://gamebanana.com/mods/447700</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647acf118df3c.jpg"/>]]></description>
+			<pubDate>Sat, 03 Jun 2023 05:32:55 +0000</pubDate>
+		</item>
+		<item>
 			<title>Peaceful Immersion (HGStone&#039;s Music Removal++)</title>
 			<link>https://gamebanana.com/mods/447015</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476d89bd4d6f.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/447510</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6479ad4ec54a3.jpg"/>]]></description>
 			<pubDate>Fri, 02 Jun 2023 07:10:11 +0000</pubDate>
-		</item>
-		<item>
-			<title>Royal Guard Heavy Armor</title>
-			<link>https://gamebanana.com/mods/447501</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647a32169436d.jpg"/>]]></description>
-			<pubDate>Fri, 02 Jun 2023 05:24:54 +0000</pubDate>
-		</item>
-		<item>
-			<title>Bigger Critters</title>
-			<link>https://gamebanana.com/mods/447488</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64797191c0341.jpg"/>]]></description>
-			<pubDate>Fri, 02 Jun 2023 05:04:44 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
