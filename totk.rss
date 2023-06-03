@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Soul of Hylia&#039;s Hero</title>
+			<link>https://gamebanana.com/mods/447812</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b7a6e6f085.jpg"/>]]></description>
+			<pubDate>Sat, 03 Jun 2023 17:45:08 +0000</pubDate>
+		</item>
+		<item>
 			<title>Rauru over Sidon</title>
 			<link>https://gamebanana.com/mods/447794</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b6a3100822.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447700</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647acf118df3c.jpg"/>]]></description>
 			<pubDate>Sat, 03 Jun 2023 05:32:55 +0000</pubDate>
-		</item>
-		<item>
-			<title>Peaceful Immersion (HGStone&#039;s Music Removal++)</title>
-			<link>https://gamebanana.com/mods/447015</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476d89bd4d6f.jpg"/>]]></description>
-			<pubDate>Sat, 03 Jun 2023 03:13:34 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
