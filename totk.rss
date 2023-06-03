@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Strong Big Shields</title>
+			<link>https://gamebanana.com/mods/447735</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b14ae119e8.jpg"/>]]></description>
+			<pubDate>Sat, 03 Jun 2023 10:23:50 +0000</pubDate>
+		</item>
+		<item>
 			<title>Steamdeck UI v7 (Incl.Blackscreen Fix)</title>
 			<link>https://gamebanana.com/mods/447721</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b058b40226.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447625</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647a4e59b7d7b.jpg"/>]]></description>
 			<pubDate>Fri, 02 Jun 2023 20:19:23 +0000</pubDate>
-		</item>
-		<item>
-			<title>Black hair Brown eyes</title>
-			<link>https://gamebanana.com/mods/447607</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647a3c62f0fbf.jpg"/>]]></description>
-			<pubDate>Fri, 02 Jun 2023 19:05:22 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
