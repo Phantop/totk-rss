@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>The Rauru Cut</title>
+			<link>https://gamebanana.com/mods/447965</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c3d814eb57.jpg"/>]]></description>
+			<pubDate>Sun, 04 Jun 2023 07:33:13 +0000</pubDate>
+		</item>
+		<item>
 			<title>Link&#039;s Loathsome Lynels - L3</title>
 			<link>https://gamebanana.com/mods/447960</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c33f91c2ed.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447873</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647bc27989812.jpg"/>]]></description>
 			<pubDate>Sat, 03 Jun 2023 22:54:18 +0000</pubDate>
-		</item>
-		<item>
-			<title>Buffed Mineru</title>
-			<link>https://gamebanana.com/mods/447869</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647bba32d0c59.jpg"/>]]></description>
-			<pubDate>Sat, 03 Jun 2023 22:25:12 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
