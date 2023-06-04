@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Korok Mask Transmogrifier</title>
+			<link>https://gamebanana.com/mods/447989</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c697a272ec.jpg"/>]]></description>
+			<pubDate>Sun, 04 Jun 2023 10:56:16 +0000</pubDate>
+		</item>
+		<item>
 			<title>Cece&#039;s New Hairdo (Selectable Colors)</title>
 			<link>https://gamebanana.com/mods/447969</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c4ade95023.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447925</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647bf6f9e074d.jpg"/>]]></description>
 			<pubDate>Sun, 04 Jun 2023 02:43:24 +0000</pubDate>
-		</item>
-		<item>
-			<title>White Sword of the Sky replaced with Skyward Blade</title>
-			<link>https://gamebanana.com/mods/447901</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647be38823f90.jpg"/>]]></description>
-			<pubDate>Sun, 04 Jun 2023 01:06:25 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
