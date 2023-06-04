@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Stronger Evermeans</title>
+			<link>https://gamebanana.com/mods/448025</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c9c17ca076.jpg"/>]]></description>
+			<pubDate>Sun, 04 Jun 2023 14:16:56 +0000</pubDate>
+		</item>
+		<item>
 			<title>Better Fierce Deity Sword</title>
 			<link>https://gamebanana.com/mods/448014</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c8ce602f98.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447935</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c060a0bfd4.jpg"/>]]></description>
 			<pubDate>Sun, 04 Jun 2023 03:34:31 +0000</pubDate>
-		</item>
-		<item>
-			<title>Royal Guard&#039;s Horse Armor</title>
-			<link>https://gamebanana.com/mods/447929</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647bfece95955.jpg"/>]]></description>
-			<pubDate>Sun, 04 Jun 2023 03:03:23 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
