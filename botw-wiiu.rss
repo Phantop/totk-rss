@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Early Travel Medallion</title>
+			<link>https://gamebanana.com/mods/448007</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c8143cbc3a.jpg"/>]]></description>
+			<pubDate>Sun, 04 Jun 2023 12:22:43 +0000</pubDate>
+		</item>
+		<item>
 			<title>Full HD Cutscenes (2023 Edition)</title>
 			<link>https://gamebanana.com/mods/447848</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ba3d127ef9.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446919</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64764ca4c1153.jpg"/>]]></description>
 			<pubDate>Tue, 30 May 2023 19:57:13 +0000</pubDate>
-		</item>
-		<item>
-			<title>Linkle 3.0 Lana Hair and Eye Textures</title>
-			<link>https://gamebanana.com/mods/446874</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476117ceb90a.jpg"/>]]></description>
-			<pubDate>Tue, 30 May 2023 15:09:36 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
