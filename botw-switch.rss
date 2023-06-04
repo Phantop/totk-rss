@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Early Travel Medallion</title>
+			<link>https://gamebanana.com/mods/448012</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c8c502470d.jpg"/>]]></description>
+			<pubDate>Sun, 04 Jun 2023 13:06:55 +0000</pubDate>
+		</item>
+		<item>
 			<title>Heartless</title>
 			<link>https://gamebanana.com/mods/447658</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647a7e8c4acce.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444097</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6465041962a97.jpg"/>]]></description>
 			<pubDate>Wed, 17 May 2023 17:06:09 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hyrule rebalance description stand alone [Switch]</title>
-			<link>https://gamebanana.com/mods/443214</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/645e93773bafd.jpg"/>]]></description>
-			<pubDate>Fri, 12 May 2023 19:29:37 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
