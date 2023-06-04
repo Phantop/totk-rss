@@ -3,13 +3,25 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Cece&#039;s New Hairdo (Selectable Colors)</title>
+			<link>https://gamebanana.com/mods/447969</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c4ade95023.jpg"/>]]></description>
+			<pubDate>Sun, 04 Jun 2023 08:28:56 +0000</pubDate>
+		</item>
+		<item>
+			<title>1080p fixed or dynamic</title>
+			<link>https://gamebanana.com/mods/447967</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c45d872528.jpg"/>]]></description>
+			<pubDate>Sun, 04 Jun 2023 08:18:31 +0000</pubDate>
+		</item>
+		<item>
 			<title>The Rauru Cut</title>
 			<link>https://gamebanana.com/mods/447965</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c3d814eb57.jpg"/>]]></description>
 			<pubDate>Sun, 04 Jun 2023 07:33:13 +0000</pubDate>
 		</item>
 		<item>
-			<title>Link&#039;s Loathsome Lynels - L3</title>
+			<title>Link&#039;s Loathsome Lynels - L3 (Difficulty+ Mod)</title>
 			<link>https://gamebanana.com/mods/447960</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c33f91c2ed.jpg"/>]]></description>
 			<pubDate>Sun, 04 Jun 2023 06:54:36 +0000</pubDate>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/447901</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647be38823f90.jpg"/>]]></description>
 			<pubDate>Sun, 04 Jun 2023 01:06:25 +0000</pubDate>
-		</item>
-		<item>
-			<title>Elemental Finishers</title>
-			<link>https://gamebanana.com/mods/447879</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647bc54fb7cf8.jpg"/>]]></description>
-			<pubDate>Sat, 03 Jun 2023 23:19:36 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ragnell (Fire Emblem) Over White Sword of the Sky</title>
-			<link>https://gamebanana.com/mods/447873</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647bc27989812.jpg"/>]]></description>
-			<pubDate>Sat, 03 Jun 2023 22:54:18 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
