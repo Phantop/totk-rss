@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>River Zora Yona</title>
+			<link>https://gamebanana.com/mods/447952</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c2295a5821.jpg"/>]]></description>
+			<pubDate>Sun, 04 Jun 2023 05:39:50 +0000</pubDate>
+		</item>
+		<item>
 			<title>Ganondorf Over Master Sword</title>
 			<link>https://gamebanana.com/mods/447935</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c060a0bfd4.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447823</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b8a52a0820.jpg"/>]]></description>
 			<pubDate>Sat, 03 Jun 2023 18:46:40 +0000</pubDate>
-		</item>
-		<item>
-			<title>Soul of Hylia&#039;s Hero (!!SPOILER WARNING!!)</title>
-			<link>https://gamebanana.com/mods/447812</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647bcf1181688.jpg"/>]]></description>
-			<pubDate>Sat, 03 Jun 2023 17:45:08 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
