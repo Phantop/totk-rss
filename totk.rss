@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Better Dusk Claymore</title>
+			<link>https://gamebanana.com/mods/448112</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647cfaac1dd1e.jpg"/>]]></description>
+			<pubDate>Sun, 04 Jun 2023 20:58:59 +0000</pubDate>
+		</item>
+		<item>
 			<title>Gerudo Armor Over Voe Set</title>
 			<link>https://gamebanana.com/mods/448103</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647cefd94f0c9.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448014</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c8ce602f98.jpg"/>]]></description>
 			<pubDate>Sun, 04 Jun 2023 13:09:39 +0000</pubDate>
-		</item>
-		<item>
-			<title>Korok Mask Transmogrifier</title>
-			<link>https://gamebanana.com/mods/447989</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c697a272ec.jpg"/>]]></description>
-			<pubDate>Sun, 04 Jun 2023 10:56:16 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
