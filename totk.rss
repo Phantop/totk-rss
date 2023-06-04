@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Royal Guard&#039;s Horse Armor</title>
+			<link>https://gamebanana.com/mods/447929</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647bfece95955.jpg"/>]]></description>
+			<pubDate>Sun, 04 Jun 2023 03:03:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>Dio Voice Over Link</title>
+			<link>https://gamebanana.com/mods/447925</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647bf6f9e074d.jpg"/>]]></description>
+			<pubDate>Sun, 04 Jun 2023 02:43:24 +0000</pubDate>
+		</item>
+		<item>
 			<title>White Sword of the Sky replaced with Skyward Blade</title>
 			<link>https://gamebanana.com/mods/447901</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647be38823f90.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/447794</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b6a3100822.jpg"/>]]></description>
 			<pubDate>Sat, 03 Jun 2023 16:29:04 +0000</pubDate>
-		</item>
-		<item>
-			<title>Links Natural Hair Colours</title>
-			<link>https://gamebanana.com/mods/447788</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b632b9d714.jpg"/>]]></description>
-			<pubDate>Sat, 03 Jun 2023 16:04:12 +0000</pubDate>
-		</item>
-		<item>
-			<title>Golden Master Sword</title>
-			<link>https://gamebanana.com/mods/447781</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b5ca1d754e.jpg"/>]]></description>
-			<pubDate>Sat, 03 Jun 2023 15:33:17 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
