@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Scimitar of the Twilight</title>
+			<link>https://gamebanana.com/mods/448131</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d0f2dec4e0.jpg"/>]]></description>
+			<pubDate>Sun, 04 Jun 2023 22:29:28 +0000</pubDate>
+		</item>
+		<item>
 			<title>The Hero’s Eyeliner [Spoilers]</title>
 			<link>https://gamebanana.com/mods/448120</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d03f627a29.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448062</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647cc6d6ebade.jpg"/>]]></description>
 			<pubDate>Sun, 04 Jun 2023 17:16:23 +0000</pubDate>
-		</item>
-		<item>
-			<title>Stronger Evermeans</title>
-			<link>https://gamebanana.com/mods/448025</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c9c17ca076.jpg"/>]]></description>
-			<pubDate>Sun, 04 Jun 2023 14:16:56 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
