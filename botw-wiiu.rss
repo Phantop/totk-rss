@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Full HD Cutscenes (2023 Edition)</title>
+			<link>https://gamebanana.com/mods/447848</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ba3d127ef9.jpg"/>]]></description>
+			<pubDate>Sun, 04 Jun 2023 00:01:47 +0000</pubDate>
+		</item>
+		<item>
 			<title>Fairy Outfit</title>
 			<link>https://gamebanana.com/mods/447770</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b4c7958ca3.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/446874</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6476117ceb90a.jpg"/>]]></description>
 			<pubDate>Tue, 30 May 2023 15:09:36 +0000</pubDate>
-		</item>
-		<item>
-			<title>Kapustin&#039;s Toccatina instead of Modulga BGM</title>
-			<link>https://gamebanana.com/mods/446864</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6475f940581bc.jpg"/>]]></description>
-			<pubDate>Tue, 30 May 2023 13:29:10 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

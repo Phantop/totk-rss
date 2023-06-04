@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>White Sword of the Sky replaced with Skyward Blade</title>
+			<link>https://gamebanana.com/mods/447901</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647be38823f90.jpg"/>]]></description>
+			<pubDate>Sun, 04 Jun 2023 01:06:25 +0000</pubDate>
+		</item>
+		<item>
+			<title>Elemental Finishers</title>
+			<link>https://gamebanana.com/mods/447879</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647bc54fb7cf8.jpg"/>]]></description>
+			<pubDate>Sat, 03 Jun 2023 23:19:36 +0000</pubDate>
+		</item>
+		<item>
 			<title>Ragnell (Fire Emblem) Over White Sword of the Sky</title>
 			<link>https://gamebanana.com/mods/447873</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647bc27989812.jpg"/>]]></description>
@@ -27,9 +39,9 @@
 			<pubDate>Sat, 03 Jun 2023 18:46:40 +0000</pubDate>
 		</item>
 		<item>
-			<title>Soul of Hylia&#039;s Hero</title>
+			<title>Soul of Hylia&#039;s Hero (!!SPOILER WARNING!!)</title>
 			<link>https://gamebanana.com/mods/447812</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b7a6e6f085.jpg"/>]]></description>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647bcf1181688.jpg"/>]]></description>
 			<pubDate>Sat, 03 Jun 2023 17:45:08 +0000</pubDate>
 		</item>
 		<item>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/447781</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b5ca1d754e.jpg"/>]]></description>
 			<pubDate>Sat, 03 Jun 2023 15:33:17 +0000</pubDate>
-		</item>
-		<item>
-			<title>Aspect Ratio Mods For TOTK 1.0 - 1.1.2</title>
-			<link>https://gamebanana.com/mods/447744</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b27c332dbf.jpg"/>]]></description>
-			<pubDate>Sat, 03 Jun 2023 11:45:17 +0000</pubDate>
-		</item>
-		<item>
-			<title>Strong Big Shields</title>
-			<link>https://gamebanana.com/mods/447735</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b14ae119e8.jpg"/>]]></description>
-			<pubDate>Sat, 03 Jun 2023 10:23:50 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
