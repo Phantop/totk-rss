@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Link&#039;s Longsleeves Collection</title>
+			<link>https://gamebanana.com/mods/448239</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ddd7a27751.jpg"/>]]></description>
+			<pubDate>Mon, 05 Jun 2023 13:09:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>OP Elemental Set Pieces</title>
+			<link>https://gamebanana.com/mods/448235</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647dd872d1ce9.jpg"/>]]></description>
+			<pubDate>Mon, 05 Jun 2023 12:44:21 +0000</pubDate>
+		</item>
+		<item>
 			<title>Korok Surprise MF</title>
 			<link>https://gamebanana.com/mods/448231</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647dd05dcd2af.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/448160</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d435b634a8.jpg"/>]]></description>
 			<pubDate>Mon, 05 Jun 2023 02:08:12 +0000</pubDate>
-		</item>
-		<item>
-			<title>Scimitar of the Twilight</title>
-			<link>https://gamebanana.com/mods/448131</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d0f2dec4e0.jpg"/>]]></description>
-			<pubDate>Sun, 04 Jun 2023 22:29:28 +0000</pubDate>
-		</item>
-		<item>
-			<title>The Hero’s Eyeliner [Spoilers]</title>
-			<link>https://gamebanana.com/mods/448120</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d03f627a29.jpg"/>]]></description>
-			<pubDate>Sun, 04 Jun 2023 21:53:11 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
