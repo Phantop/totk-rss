@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Two-Handed Master Sword</title>
+			<link>https://gamebanana.com/mods/448192</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d7af555213.jpg"/>]]></description>
+			<pubDate>Mon, 05 Jun 2023 06:10:10 +0000</pubDate>
+		</item>
+		<item>
 			<title>The Dark Souls of TOTK Mods (Difficulty+Overhaul)</title>
 			<link>https://gamebanana.com/mods/448185</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d684a07c44.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448103</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647cefd94f0c9.jpg"/>]]></description>
 			<pubDate>Sun, 04 Jun 2023 20:11:49 +0000</pubDate>
-		</item>
-		<item>
-			<title>Visuals Fixed 1.1.2</title>
-			<link>https://gamebanana.com/mods/448096</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647cea4fc7225.jpg"/>]]></description>
-			<pubDate>Sun, 04 Jun 2023 19:49:06 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
