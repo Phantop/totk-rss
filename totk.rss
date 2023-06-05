@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>The Dark Souls of TOTK Mods (Difficulty+Overhaul)</title>
+			<link>https://gamebanana.com/mods/448185</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d684a07c44.jpg"/>]]></description>
+			<pubDate>Mon, 05 Jun 2023 04:45:22 +0000</pubDate>
+		</item>
+		<item>
 			<title>Long Flowy Hair (Like Inuyasha)</title>
 			<link>https://gamebanana.com/mods/448170</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d4bc9385c2.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448096</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647cea4fc7225.jpg"/>]]></description>
 			<pubDate>Sun, 04 Jun 2023 19:49:06 +0000</pubDate>
-		</item>
-		<item>
-			<title>Great Fairy Over Fairy</title>
-			<link>https://gamebanana.com/mods/448091</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ce5cac6f28.jpg"/>]]></description>
-			<pubDate>Sun, 04 Jun 2023 19:40:05 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
