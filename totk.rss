@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Megaton Hammer</title>
+			<link>https://gamebanana.com/mods/448283</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e273730b74.jpg"/>]]></description>
+			<pubDate>Mon, 05 Jun 2023 18:22:57 +0000</pubDate>
+		</item>
+		<item>
+			<title>Cucumber Joe Shirt</title>
+			<link>https://gamebanana.com/mods/448282</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e26f864058.jpg"/>]]></description>
+			<pubDate>Mon, 05 Jun 2023 18:19:38 +0000</pubDate>
+		</item>
+		<item>
 			<title>Mighty Aerocudas</title>
 			<link>https://gamebanana.com/mods/448279</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e1c1690f37.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/448230</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647dd24eb3e11.jpg"/>]]></description>
 			<pubDate>Mon, 05 Jun 2023 12:02:27 +0000</pubDate>
-		</item>
-		<item>
-			<title>Two-Handed Master Sword</title>
-			<link>https://gamebanana.com/mods/448192</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d7af555213.jpg"/>]]></description>
-			<pubDate>Mon, 05 Jun 2023 06:10:10 +0000</pubDate>
-		</item>
-		<item>
-			<title>The Dark Souls of TOTK Mods (Difficulty+Overhaul)</title>
-			<link>https://gamebanana.com/mods/448185</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d684a07c44.jpg"/>]]></description>
-			<pubDate>Mon, 05 Jun 2023 04:45:22 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
