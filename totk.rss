@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Dio! (JoJo&#039;s)</title>
+			<link>https://gamebanana.com/mods/448250</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647df057d54db.jpg"/>]]></description>
+			<pubDate>Mon, 05 Jun 2023 14:28:12 +0000</pubDate>
+		</item>
+		<item>
 			<title>Joe Swanson Shirt</title>
 			<link>https://gamebanana.com/mods/448245</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647de68a5b57d.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448166</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d48c321ebe.jpg"/>]]></description>
 			<pubDate>Mon, 05 Jun 2023 02:35:27 +0000</pubDate>
-		</item>
-		<item>
-			<title>Sleeveless Shirt</title>
-			<link>https://gamebanana.com/mods/448161</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d44d1b8101.jpg"/>]]></description>
-			<pubDate>Mon, 05 Jun 2023 02:16:13 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
