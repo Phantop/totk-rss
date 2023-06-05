@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Darker Black Dyes: Flamebreaker Set</title>
+			<link>https://gamebanana.com/mods/448323</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e4f7d41a2c.jpg"/>]]></description>
+			<pubDate>Mon, 05 Jun 2023 21:13:52 +0000</pubDate>
+		</item>
+		<item>
 			<title>Permanent Glowing Master Sword</title>
 			<link>https://gamebanana.com/mods/448318</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e469f6afbc.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448245</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647de68a5b57d.jpg"/>]]></description>
 			<pubDate>Mon, 05 Jun 2023 13:43:48 +0000</pubDate>
-		</item>
-		<item>
-			<title>Link&#039;s Longsleeves Collection</title>
-			<link>https://gamebanana.com/mods/448239</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ddd7a27751.jpg"/>]]></description>
-			<pubDate>Mon, 05 Jun 2023 13:09:50 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
