@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Unbreakable+ One Hand + All Guard</title>
+			<link>https://gamebanana.com/mods/448312</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e406f33f5f.jpg"/>]]></description>
+			<pubDate>Mon, 05 Jun 2023 20:09:52 +0000</pubDate>
+		</item>
+		<item>
 			<title>Megaton Hammer</title>
 			<link>https://gamebanana.com/mods/448283</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e273730b74.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448231</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647dd05dcd2af.jpg"/>]]></description>
 			<pubDate>Mon, 05 Jun 2023 12:11:06 +0000</pubDate>
-		</item>
-		<item>
-			<title>Crash Bandicoot T-Shirt</title>
-			<link>https://gamebanana.com/mods/448230</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647dd24eb3e11.jpg"/>]]></description>
-			<pubDate>Mon, 05 Jun 2023 12:02:27 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
