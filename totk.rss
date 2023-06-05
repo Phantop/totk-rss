@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Mighty Aerocudas</title>
+			<link>https://gamebanana.com/mods/448279</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e1c1690f37.jpg"/>]]></description>
+			<pubDate>Mon, 05 Jun 2023 17:32:48 +0000</pubDate>
+		</item>
+		<item>
+			<title>Darker Black Dyes: Glide Suit</title>
+			<link>https://gamebanana.com/mods/448278</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e1afa64637.jpg"/>]]></description>
+			<pubDate>Mon, 05 Jun 2023 17:31:54 +0000</pubDate>
+		</item>
+		<item>
 			<title>Dio! (JoJo&#039;s)</title>
 			<link>https://gamebanana.com/mods/448250</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647df057d54db.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/448185</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d684a07c44.jpg"/>]]></description>
 			<pubDate>Mon, 05 Jun 2023 04:45:22 +0000</pubDate>
-		</item>
-		<item>
-			<title>Long Flowy Hair (Like Inuyasha)</title>
-			<link>https://gamebanana.com/mods/448170</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d4bc9385c2.jpg"/>]]></description>
-			<pubDate>Mon, 05 Jun 2023 02:48:30 +0000</pubDate>
-		</item>
-		<item>
-			<title>Link&#039;s New Arm (Pre/Post Upheaval)</title>
-			<link>https://gamebanana.com/mods/448166</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d48c321ebe.jpg"/>]]></description>
-			<pubDate>Mon, 05 Jun 2023 02:35:27 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
