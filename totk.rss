@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Joe Swanson Shirt</title>
+			<link>https://gamebanana.com/mods/448245</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647de68a5b57d.jpg"/>]]></description>
+			<pubDate>Mon, 05 Jun 2023 13:43:48 +0000</pubDate>
+		</item>
+		<item>
 			<title>Link&#039;s Longsleeves Collection</title>
 			<link>https://gamebanana.com/mods/448239</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ddd7a27751.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448161</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d44d1b8101.jpg"/>]]></description>
 			<pubDate>Mon, 05 Jun 2023 02:16:13 +0000</pubDate>
-		</item>
-		<item>
-			<title>Stealth Mask Remodel</title>
-			<link>https://gamebanana.com/mods/448160</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647d435b634a8.jpg"/>]]></description>
-			<pubDate>Mon, 05 Jun 2023 02:08:12 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
