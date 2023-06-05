@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Permanent Glowing Master Sword</title>
+			<link>https://gamebanana.com/mods/448318</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e469f6afbc.jpg"/>]]></description>
+			<pubDate>Mon, 05 Jun 2023 20:44:39 +0000</pubDate>
+		</item>
+		<item>
+			<title>Hylian Trousers with Black Boots</title>
+			<link>https://gamebanana.com/mods/448317</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e481639901.jpg"/>]]></description>
+			<pubDate>Mon, 05 Jun 2023 20:41:34 +0000</pubDate>
+		</item>
+		<item>
 			<title>Unbreakable+ One Hand + All Guard</title>
 			<link>https://gamebanana.com/mods/448312</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e406f33f5f.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/448239</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ddd7a27751.jpg"/>]]></description>
 			<pubDate>Mon, 05 Jun 2023 13:09:50 +0000</pubDate>
-		</item>
-		<item>
-			<title>OP Elemental Set Pieces</title>
-			<link>https://gamebanana.com/mods/448235</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647dd872d1ce9.jpg"/>]]></description>
-			<pubDate>Mon, 05 Jun 2023 12:44:21 +0000</pubDate>
-		</item>
-		<item>
-			<title>Korok Surprise MF</title>
-			<link>https://gamebanana.com/mods/448231</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647dd05dcd2af.jpg"/>]]></description>
-			<pubDate>Mon, 05 Jun 2023 12:11:06 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
