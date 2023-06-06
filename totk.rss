@@ -3,9 +3,15 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>A Tunic Befitting A CHAMPION!</title>
+			<link>https://gamebanana.com/mods/448369</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ec39802cc5.jpg"/>]]></description>
+			<pubDate>Tue, 06 Jun 2023 05:29:18 +0000</pubDate>
+		</item>
+		<item>
 			<title>Gilded Champions Tunic Recolor Pack</title>
 			<link>https://gamebanana.com/mods/448354</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e987da07dc.jpg"/>]]></description>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ec6d9037bf.jpg"/>]]></description>
 			<pubDate>Tue, 06 Jun 2023 02:23:52 +0000</pubDate>
 		</item>
 		<item>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448279</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e1c1690f37.jpg"/>]]></description>
 			<pubDate>Mon, 05 Jun 2023 17:32:48 +0000</pubDate>
-		</item>
-		<item>
-			<title>Darker Black Dyes: Glide Suit</title>
-			<link>https://gamebanana.com/mods/448278</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e1afa64637.jpg"/>]]></description>
-			<pubDate>Mon, 05 Jun 2023 17:31:54 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
