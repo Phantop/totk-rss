@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Tears of the Smol: Dr. Smol over Link</title>
+			<link>https://gamebanana.com/mods/448376</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ed3f7418be.jpg"/>]]></description>
+			<pubDate>Tue, 06 Jun 2023 06:44:38 +0000</pubDate>
+		</item>
+		<item>
 			<title>A Tunic Befitting A CHAMPION!</title>
 			<link>https://gamebanana.com/mods/448369</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ec39802cc5.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448282</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e26f864058.jpg"/>]]></description>
 			<pubDate>Mon, 05 Jun 2023 18:19:38 +0000</pubDate>
-		</item>
-		<item>
-			<title>Mighty Aerocudas</title>
-			<link>https://gamebanana.com/mods/448279</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e1c1690f37.jpg"/>]]></description>
-			<pubDate>Mon, 05 Jun 2023 17:32:48 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
