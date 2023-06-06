@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Link to Wolf Link</title>
+			<link>https://gamebanana.com/mods/448494</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647f9d445ac75.jpg"/>]]></description>
+			<pubDate>Tue, 06 Jun 2023 21:04:12 +0000</pubDate>
+		</item>
+		<item>
 			<title>Steam Controller UI</title>
 			<link>https://gamebanana.com/mods/448437</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647f5f787ccc0.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448312</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e406f33f5f.jpg"/>]]></description>
 			<pubDate>Mon, 05 Jun 2023 20:09:52 +0000</pubDate>
-		</item>
-		<item>
-			<title>Megaton Hammer</title>
-			<link>https://gamebanana.com/mods/448283</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e273730b74.jpg"/>]]></description>
-			<pubDate>Mon, 05 Jun 2023 18:22:57 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
