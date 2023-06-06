@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Gilded Champions Tunic</title>
+			<link>https://gamebanana.com/mods/448354</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e987c2bfc0.jpg"/>]]></description>
+			<pubDate>Tue, 06 Jun 2023 02:23:52 +0000</pubDate>
+		</item>
+		<item>
 			<title>Mute Solve Puzzle Sound</title>
 			<link>https://gamebanana.com/mods/448337</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e7a5287af6.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448278</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e1afa64637.jpg"/>]]></description>
 			<pubDate>Mon, 05 Jun 2023 17:31:54 +0000</pubDate>
-		</item>
-		<item>
-			<title>Dio! (JoJo&#039;s)</title>
-			<link>https://gamebanana.com/mods/448250</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647df057d54db.jpg"/>]]></description>
-			<pubDate>Mon, 05 Jun 2023 14:28:12 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
