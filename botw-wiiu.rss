@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>SAO Alicization Swords</title>
+			<link>https://gamebanana.com/mods/448541</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647fe2f7291f6.jpg"/>]]></description>
+			<pubDate>Wed, 07 Jun 2023 01:53:10 +0000</pubDate>
+		</item>
+		<item>
+			<title>Dual_Wield</title>
+			<link>https://gamebanana.com/mods/448538</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647fdd28f148d.jpg"/>]]></description>
+			<pubDate>Wed, 07 Jun 2023 01:30:25 +0000</pubDate>
+		</item>
+		<item>
 			<title>Project Zero 2</title>
 			<link>https://gamebanana.com/mods/448329</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e5bd852c46.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/447064</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64773f1bee674.jpg"/>]]></description>
 			<pubDate>Wed, 31 May 2023 12:38:43 +0000</pubDate>
-		</item>
-		<item>
-			<title>ALttP style Master Sword v.2</title>
-			<link>https://gamebanana.com/mods/447061</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64773793bcefa.jpg"/>]]></description>
-			<pubDate>Wed, 31 May 2023 12:08:21 +0000</pubDate>
-		</item>
-		<item>
-			<title>Linkle 3.0 Gerudo Vai - Mask Off</title>
-			<link>https://gamebanana.com/mods/446974</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647692bcb5dd1.jpg"/>]]></description>
-			<pubDate>Wed, 31 May 2023 00:21:22 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
