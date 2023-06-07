@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Yona Trans Pride Recolor!</title>
+			<link>https://gamebanana.com/mods/448566</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64802468c90c6.jpg"/>]]></description>
+			<pubDate>Wed, 07 Jun 2023 06:34:20 +0000</pubDate>
+		</item>
+		<item>
 			<title>Hellraiser &quot;Pinhead&quot; Shirt</title>
 			<link>https://gamebanana.com/mods/448546</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647feb9c4c34a.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448323</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e4f7d41a2c.jpg"/>]]></description>
 			<pubDate>Mon, 05 Jun 2023 21:13:52 +0000</pubDate>
-		</item>
-		<item>
-			<title>Permanent Glowing Master Sword</title>
-			<link>https://gamebanana.com/mods/448318</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e469f6afbc.jpg"/>]]></description>
-			<pubDate>Mon, 05 Jun 2023 20:44:39 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
