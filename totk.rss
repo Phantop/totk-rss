@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Invisibow</title>
+			<link>https://gamebanana.com/mods/448865</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6482484bf25d4.jpg"/>]]></description>
+			<pubDate>Thu, 08 Jun 2023 21:46:03 +0000</pubDate>
+		</item>
+		<item>
 			<title>ToTK Gear Recolor</title>
 			<link>https://gamebanana.com/mods/448835</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6482269ba44e1.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448754</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648171b5bda3f.jpg"/>]]></description>
 			<pubDate>Thu, 08 Jun 2023 06:15:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Wild Link - Battle Scarred</title>
-			<link>https://gamebanana.com/mods/448748</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6481651487b4d.jpg"/>]]></description>
-			<pubDate>Thu, 08 Jun 2023 05:21:31 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
