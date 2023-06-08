@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Shorter Demon King Bow</title>
+			<link>https://gamebanana.com/mods/448777</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6481ab4ed903f.jpg"/>]]></description>
+			<pubDate>Thu, 08 Jun 2023 10:21:21 +0000</pubDate>
+		</item>
+		<item>
 			<title>Post Game Higher Enemy HP</title>
 			<link>https://gamebanana.com/mods/448768</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6481919c6c454.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448692</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64810ef73b8da.jpg"/>]]></description>
 			<pubDate>Wed, 07 Jun 2023 23:14:44 +0000</pubDate>
-		</item>
-		<item>
-			<title>X Gon&#039; Give Items To Ya</title>
-			<link>https://gamebanana.com/mods/448668</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6480e57e97ef9.jpg"/>]]></description>
-			<pubDate>Wed, 07 Jun 2023 20:20:22 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
