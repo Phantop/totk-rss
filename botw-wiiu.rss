@@ -3,12 +3,6 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
-			<title>Linkle Mod Pack</title>
-			<link>https://gamebanana.com/mods/448722</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64812e5bd4257.jpg"/>]]></description>
-			<pubDate>Thu, 08 Jun 2023 01:31:35 +0000</pubDate>
-		</item>
-		<item>
 			<title>SAO Alicization Swords</title>
 			<link>https://gamebanana.com/mods/448541</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647fe2f7291f6.jpg"/>]]></description>
@@ -61,6 +55,12 @@
 			<link>https://gamebanana.com/mods/447212</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478e08ac1c0d.jpg"/>]]></description>
 			<pubDate>Thu, 01 Jun 2023 18:36:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>Lynel text over Giant Horse</title>
+			<link>https://gamebanana.com/mods/447064</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64773f1bee674.jpg"/>]]></description>
+			<pubDate>Wed, 31 May 2023 12:38:43 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
