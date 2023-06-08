@@ -3,6 +3,24 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Smaller Demon King&#039;s Bow</title>
+			<link>https://gamebanana.com/mods/448738</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64814777e2180.jpg"/>]]></description>
+			<pubDate>Thu, 08 Jun 2023 03:14:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>Green Hylian Tunic</title>
+			<link>https://gamebanana.com/mods/448737</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648146a71de48.jpg"/>]]></description>
+			<pubDate>Thu, 08 Jun 2023 03:11:26 +0000</pubDate>
+		</item>
+		<item>
+			<title>Green Champion&#039;s Leathers</title>
+			<link>https://gamebanana.com/mods/448736</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64814600048d8.jpg"/>]]></description>
+			<pubDate>Thu, 08 Jun 2023 03:09:03 +0000</pubDate>
+		</item>
+		<item>
 			<title>Dark Fierce Deity Link</title>
 			<link>https://gamebanana.com/mods/448704</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64812074b9176.jpg"/>]]></description>
@@ -43,24 +61,6 @@
 			<link>https://gamebanana.com/mods/448566</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64802483780b8.jpg"/>]]></description>
 			<pubDate>Wed, 07 Jun 2023 06:34:20 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hellraiser &quot;Pinhead&quot; Shirt</title>
-			<link>https://gamebanana.com/mods/448546</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647feb9c4c34a.jpg"/>]]></description>
-			<pubDate>Wed, 07 Jun 2023 02:31:10 +0000</pubDate>
-		</item>
-		<item>
-			<title>Metallica Shirt</title>
-			<link>https://gamebanana.com/mods/448528</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647fd331673d1.jpg"/>]]></description>
-			<pubDate>Wed, 07 Jun 2023 00:47:29 +0000</pubDate>
-		</item>
-		<item>
-			<title>Link to Wolf Link</title>
-			<link>https://gamebanana.com/mods/448494</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647f9d445ac75.jpg"/>]]></description>
-			<pubDate>Tue, 06 Jun 2023 21:04:12 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
