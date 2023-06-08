@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Post Game Higher Enemy HP</title>
+			<link>https://gamebanana.com/mods/448768</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6481919c6c454.jpg"/>]]></description>
+			<pubDate>Thu, 08 Jun 2023 08:51:17 +0000</pubDate>
+		</item>
+		<item>
 			<title>Non-Conductive &amp; More Durable Master Sword</title>
 			<link>https://gamebanana.com/mods/448754</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648171b5bda3f.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448668</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6480e57e97ef9.jpg"/>]]></description>
 			<pubDate>Wed, 07 Jun 2023 20:20:22 +0000</pubDate>
-		</item>
-		<item>
-			<title>Mystic Headpiece Variations</title>
-			<link>https://gamebanana.com/mods/448652</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6480d7ae6d361.jpg"/>]]></description>
-			<pubDate>Wed, 07 Jun 2023 19:07:47 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
