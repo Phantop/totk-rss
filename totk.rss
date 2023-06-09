@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Perfect weather</title>
+			<link>https://gamebanana.com/mods/448980</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648328964944c.jpg"/>]]></description>
+			<pubDate>Fri, 09 Jun 2023 13:37:12 +0000</pubDate>
+		</item>
+		<item>
 			<title>Violent Earthwaker</title>
 			<link>https://gamebanana.com/mods/448970</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64830ae3275f3.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448835</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6482269ba44e1.jpg"/>]]></description>
 			<pubDate>Thu, 08 Jun 2023 19:09:08 +0000</pubDate>
-		</item>
-		<item>
-			<title>Menacing Chuchus</title>
-			<link>https://gamebanana.com/mods/448796</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6481e917b7b1c.jpg"/>]]></description>
-			<pubDate>Thu, 08 Jun 2023 14:46:31 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
