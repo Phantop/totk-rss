@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Warrior Physique Link</title>
+			<link>https://gamebanana.com/mods/448921</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64829876f100a.jpg"/>]]></description>
+			<pubDate>Fri, 09 Jun 2023 03:13:41 +0000</pubDate>
+		</item>
+		<item>
 			<title>QoL Improved Amiibo Drop Tables</title>
 			<link>https://gamebanana.com/mods/448911</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648285c890585.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448777</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6481ab4ed903f.jpg"/>]]></description>
 			<pubDate>Thu, 08 Jun 2023 10:21:21 +0000</pubDate>
-		</item>
-		<item>
-			<title>Post Game Higher Enemy HP</title>
-			<link>https://gamebanana.com/mods/448768</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6481919c6c454.jpg"/>]]></description>
-			<pubDate>Thu, 08 Jun 2023 08:51:17 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
