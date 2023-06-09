@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Violent Earthwaker</title>
+			<link>https://gamebanana.com/mods/448970</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64830ae3275f3.jpg"/>]]></description>
+			<pubDate>Fri, 09 Jun 2023 11:27:13 +0000</pubDate>
+		</item>
+		<item>
 			<title>Glider Pride Pack!</title>
 			<link>https://gamebanana.com/mods/448959</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6482eec5659cf.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448796</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6481e917b7b1c.jpg"/>]]></description>
 			<pubDate>Thu, 08 Jun 2023 14:46:31 +0000</pubDate>
-		</item>
-		<item>
-			<title>Improved Gloom Weapons w/ Wind Razor</title>
-			<link>https://gamebanana.com/mods/448794</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6481e7753aba4.jpg"/>]]></description>
-			<pubDate>Thu, 08 Jun 2023 14:41:34 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
