@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Piscine Silver</title>
+			<link>https://gamebanana.com/mods/448935</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6482c67a17f3a.jpg"/>]]></description>
+			<pubDate>Fri, 09 Jun 2023 06:29:39 +0000</pubDate>
+		</item>
+		<item>
 			<title>Fierce Deity&#039;s Tranquility</title>
 			<link>https://gamebanana.com/mods/448773</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6481a5cbf0763.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/448789</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6481cc6d31d68.jpg"/>]]></description>
 			<pubDate>Thu, 08 Jun 2023 14:19:23 +0000</pubDate>
-		</item>
-		<item>
-			<title>NPA Shirt</title>
-			<link>https://gamebanana.com/mods/448787</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6481de5ff2bdb.jpg"/>]]></description>
-			<pubDate>Thu, 08 Jun 2023 14:13:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
