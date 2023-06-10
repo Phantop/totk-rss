@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>32&#039;9 V2/HUD Fix V7 + Controller UI (Xbox&amp;PS)</title>
+			<link>https://gamebanana.com/mods/449128</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6483f34993188.jpg"/>]]></description>
+			<pubDate>Sat, 10 Jun 2023 03:54:18 +0000</pubDate>
+		</item>
+		<item>
+			<title>Rainbow Tie-Dye Paraglider with Sparkles</title>
+			<link>https://gamebanana.com/mods/449119</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6483eb54adf4c.jpg"/>]]></description>
+			<pubDate>Sat, 10 Jun 2023 03:22:13 +0000</pubDate>
+		</item>
+		<item>
 			<title>True Champion of Hyrule set</title>
 			<link>https://gamebanana.com/mods/449109</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6483d53169447.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/448959</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6482eec5659cf.jpg"/>]]></description>
 			<pubDate>Fri, 09 Jun 2023 09:20:51 +0000</pubDate>
-		</item>
-		<item>
-			<title>True Great Sky Island Save Files</title>
-			<link>https://gamebanana.com/mods/448937</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6482d03709292.jpg"/>]]></description>
-			<pubDate>Fri, 09 Jun 2023 07:13:34 +0000</pubDate>
-		</item>
-		<item>
-			<title>Piscine Silver</title>
-			<link>https://gamebanana.com/mods/448935</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6482c67a17f3a.jpg"/>]]></description>
-			<pubDate>Fri, 09 Jun 2023 06:29:39 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

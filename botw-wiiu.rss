@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>thelynxmod Español ver 1.0</title>
+			<link>https://gamebanana.com/mods/449132</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6483f70709dde.jpg"/>]]></description>
+			<pubDate>Sat, 10 Jun 2023 04:07:38 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ancient Depths Armor</title>
+			<link>https://gamebanana.com/mods/449125</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6483eff167227.jpg"/>]]></description>
+			<pubDate>Sat, 10 Jun 2023 03:46:19 +0000</pubDate>
+		</item>
+		<item>
 			<title>SAO Alicization Swords</title>
 			<link>https://gamebanana.com/mods/448541</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647fe2f7291f6.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/447228</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647fd39b777cd.jpg"/>]]></description>
 			<pubDate>Thu, 01 Jun 2023 19:32:02 +0000</pubDate>
-		</item>
-		<item>
-			<title>[Linkle 3.0][Black] Underwear Retexture</title>
-			<link>https://gamebanana.com/mods/447212</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6478e08ac1c0d.jpg"/>]]></description>
-			<pubDate>Thu, 01 Jun 2023 18:36:28 +0000</pubDate>
-		</item>
-		<item>
-			<title>Lynel text over Giant Horse</title>
-			<link>https://gamebanana.com/mods/447064</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64773f1bee674.jpg"/>]]></description>
-			<pubDate>Wed, 31 May 2023 12:38:43 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
