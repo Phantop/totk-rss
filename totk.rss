@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Reduce Sage Skill Ready Effect</title>
+			<link>https://gamebanana.com/mods/449213</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64848bf8c18eb.jpg"/>]]></description>
+			<pubDate>Sat, 10 Jun 2023 14:44:30 +0000</pubDate>
+		</item>
+		<item>
 			<title>Sandman&#039;s Master Sword &amp; Hylian Shield Reskin Pack</title>
 			<link>https://gamebanana.com/mods/449206</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648476818560f.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449119</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6483eb54adf4c.jpg"/>]]></description>
 			<pubDate>Sat, 10 Jun 2023 03:22:13 +0000</pubDate>
-		</item>
-		<item>
-			<title>True Champion of Hyrule set</title>
-			<link>https://gamebanana.com/mods/449109</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6483d53169447.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 02:18:11 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
