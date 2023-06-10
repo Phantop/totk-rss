@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>No Health Regeneration After Clearing Shrines</title>
+			<link>https://gamebanana.com/mods/449174</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64844b6cf0be3.jpg"/>]]></description>
+			<pubDate>Sat, 10 Jun 2023 10:08:36 +0000</pubDate>
+		</item>
+		<item>
+			<title>Pride Shirts for Link</title>
+			<link>https://gamebanana.com/mods/449172</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64844522e1276.jpg"/>]]></description>
+			<pubDate>Sat, 10 Jun 2023 09:47:20 +0000</pubDate>
+		</item>
+		<item>
 			<title>Pantera 420 Tee</title>
 			<link>https://gamebanana.com/mods/449162</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64842b21a8672.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/449026</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64836cd5e735a.jpg"/>]]></description>
 			<pubDate>Fri, 09 Jun 2023 18:20:23 +0000</pubDate>
-		</item>
-		<item>
-			<title>Dangerous To Go Alone</title>
-			<link>https://gamebanana.com/mods/448997</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64834e26b7568.jpg"/>]]></description>
-			<pubDate>Fri, 09 Jun 2023 16:07:59 +0000</pubDate>
-		</item>
-		<item>
-			<title>Perfect weather</title>
-			<link>https://gamebanana.com/mods/448980</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648328964944c.jpg"/>]]></description>
-			<pubDate>Fri, 09 Jun 2023 13:37:12 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Ancient Depths Horse Armor</title>
+			<link>https://gamebanana.com/mods/449173</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648444b7b4c62.jpg"/>]]></description>
+			<pubDate>Sat, 10 Jun 2023 09:59:18 +0000</pubDate>
+		</item>
+		<item>
 			<title>thelynxmod Español ver 1.0</title>
 			<link>https://gamebanana.com/mods/449132</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6483f70709dde.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447662</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647a8901678a5.jpg"/>]]></description>
 			<pubDate>Sat, 03 Jun 2023 00:29:45 +0000</pubDate>
-		</item>
-		<item>
-			<title>[Linkle 3.0][Colors] Tingle&#039;s Set Retexture</title>
-			<link>https://gamebanana.com/mods/447228</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647fd39b777cd.jpg"/>]]></description>
-			<pubDate>Thu, 01 Jun 2023 19:32:02 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
