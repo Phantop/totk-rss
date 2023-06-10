@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>TOTK 100 Percent Save</title>
+			<link>https://gamebanana.com/mods/449304</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6484f1068176b.jpg"/>]]></description>
+			<pubDate>Sat, 10 Jun 2023 22:13:56 +0000</pubDate>
+		</item>
+		<item>
 			<title>Blood Moon Sky</title>
 			<link>https://gamebanana.com/mods/449283</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6484d980e4090.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449162</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64842b21a8672.jpg"/>]]></description>
 			<pubDate>Sat, 10 Jun 2023 07:51:19 +0000</pubDate>
-		</item>
-		<item>
-			<title>QoL Improved Amiibo Drop Tables</title>
-			<link>https://gamebanana.com/mods/449149</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64840ecc85553.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 05:50:52 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
