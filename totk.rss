@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Mummy link</title>
+			<link>https://gamebanana.com/mods/449184</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64845a7e1c636.jpg"/>]]></description>
+			<pubDate>Sat, 10 Jun 2023 11:19:20 +0000</pubDate>
+		</item>
+		<item>
 			<title>Puffy Jacket</title>
 			<link>https://gamebanana.com/mods/449179</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648454647e6e8.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449076</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64839ec210c90.jpg"/>]]></description>
 			<pubDate>Fri, 09 Jun 2023 21:52:20 +0000</pubDate>
-		</item>
-		<item>
-			<title>Matching Hero Outfits</title>
-			<link>https://gamebanana.com/mods/449041</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6483777eea6fe.jpg"/>]]></description>
-			<pubDate>Fri, 09 Jun 2023 19:24:26 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
