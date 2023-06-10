@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Flurry Rush Nerf</title>
+			<link>https://gamebanana.com/mods/449251</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6484baebdce18.jpg"/>]]></description>
+			<pubDate>Sat, 10 Jun 2023 18:03:26 +0000</pubDate>
+		</item>
+		<item>
 			<title>Reduce Sage Skill Ready Effect</title>
 			<link>https://gamebanana.com/mods/449213</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64848bf8c18eb.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449128</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6483f34993188.jpg"/>]]></description>
 			<pubDate>Sat, 10 Jun 2023 03:54:18 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rainbow Tie-Dye Paraglider with Sparkles</title>
-			<link>https://gamebanana.com/mods/449119</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6483eb54adf4c.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 03:22:13 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
