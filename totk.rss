@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Blood Moon Sky</title>
+			<link>https://gamebanana.com/mods/449283</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6484d980e4090.jpg"/>]]></description>
+			<pubDate>Sat, 10 Jun 2023 20:30:51 +0000</pubDate>
+		</item>
+		<item>
 			<title>Flurry Rush Nerf</title>
 			<link>https://gamebanana.com/mods/449251</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6484bd79435be.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449149</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64840ecc85553.jpg"/>]]></description>
 			<pubDate>Sat, 10 Jun 2023 05:50:52 +0000</pubDate>
-		</item>
-		<item>
-			<title>32&#039;9 V2/HUD Fix V7 + Controller UI (Xbox&amp;PS)</title>
-			<link>https://gamebanana.com/mods/449128</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6483f34993188.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 03:54:18 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
