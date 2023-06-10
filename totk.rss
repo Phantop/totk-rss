@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Puffy Jacket</title>
+			<link>https://gamebanana.com/mods/449179</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648454647e6e8.jpg"/>]]></description>
+			<pubDate>Sat, 10 Jun 2023 10:49:14 +0000</pubDate>
+		</item>
+		<item>
 			<title>No Health Regeneration After Clearing Shrines</title>
 			<link>https://gamebanana.com/mods/449174</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64844b6cf0be3.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449041</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6483777eea6fe.jpg"/>]]></description>
 			<pubDate>Fri, 09 Jun 2023 19:24:26 +0000</pubDate>
-		</item>
-		<item>
-			<title>Soviet Flag Glider</title>
-			<link>https://gamebanana.com/mods/449026</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64836cd5e735a.jpg"/>]]></description>
-			<pubDate>Fri, 09 Jun 2023 18:20:23 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
