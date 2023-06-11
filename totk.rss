@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>KBM UI + Keymap config</title>
+			<link>https://gamebanana.com/mods/449427</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6485c470e4d5d.jpg"/>]]></description>
+			<pubDate>Sun, 11 Jun 2023 14:58:29 +0000</pubDate>
+		</item>
+		<item>
 			<title>Stronger Champion Weapons</title>
 			<link>https://gamebanana.com/mods/449430</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6485d0c035e4b.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449331</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6485158ba8685.jpg"/>]]></description>
 			<pubDate>Sun, 11 Jun 2023 00:30:28 +0000</pubDate>
-		</item>
-		<item>
-			<title>TOTK 100 Percent Save</title>
-			<link>https://gamebanana.com/mods/449304</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6484f1068176b.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 22:13:56 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
