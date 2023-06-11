@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Invisible Large Zonai Charge</title>
+			<link>https://gamebanana.com/mods/449515</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64863caf91f08.jpg"/>]]></description>
+			<pubDate>Sun, 11 Jun 2023 21:30:05 +0000</pubDate>
+		</item>
+		<item>
+			<title>Hyrulean Knights Armour</title>
+			<link>https://gamebanana.com/mods/449514</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64863c3812c6d.jpg"/>]]></description>
+			<pubDate>Sun, 11 Jun 2023 21:27:39 +0000</pubDate>
+		</item>
+		<item>
 			<title>Trump Shirt</title>
 			<link>https://gamebanana.com/mods/449507</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648632d6112ce.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/449382</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64857e9beeba8.jpg"/>]]></description>
 			<pubDate>Sun, 11 Jun 2023 08:00:12 +0000</pubDate>
-		</item>
-		<item>
-			<title>Chainmail Hylian Tunic</title>
-			<link>https://gamebanana.com/mods/449372</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64861a2e977ea.jpg"/>]]></description>
-			<pubDate>Sun, 11 Jun 2023 05:44:36 +0000</pubDate>
-		</item>
-		<item>
-			<title>Fierce Deity Remake</title>
-			<link>https://gamebanana.com/mods/449370</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64855b8ae34d8.jpg"/>]]></description>
-			<pubDate>Sun, 11 Jun 2023 05:29:19 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
