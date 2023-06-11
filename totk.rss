@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Stronger Champion Weapons</title>
+			<link>https://gamebanana.com/mods/449430</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6485d0c035e4b.jpg"/>]]></description>
+			<pubDate>Sun, 11 Jun 2023 13:53:44 +0000</pubDate>
+		</item>
+		<item>
 			<title>Royal Knight&#039;s Crest Cloak</title>
 			<link>https://gamebanana.com/mods/449383</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64858038e7bf2.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449304</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6484f1068176b.jpg"/>]]></description>
 			<pubDate>Sat, 10 Jun 2023 22:13:56 +0000</pubDate>
-		</item>
-		<item>
-			<title>Blood Moon Sky</title>
-			<link>https://gamebanana.com/mods/449283</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6484d980e4090.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 20:30:51 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
