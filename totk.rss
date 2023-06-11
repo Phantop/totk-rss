@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Chainmail Hylian Tunic</title>
+			<link>https://gamebanana.com/mods/449372</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64855c318424b.jpg"/>]]></description>
+			<pubDate>Sun, 11 Jun 2023 05:44:36 +0000</pubDate>
+		</item>
+		<item>
+			<title>Fierce Deity Remake</title>
+			<link>https://gamebanana.com/mods/449370</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64855b8ae34d8.jpg"/>]]></description>
+			<pubDate>Sun, 11 Jun 2023 05:29:19 +0000</pubDate>
+		</item>
+		<item>
 			<title>Spec-Ops Glide Suit</title>
 			<link>https://gamebanana.com/mods/449365</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6485520c570ac.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/449213</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64848bf8c18eb.jpg"/>]]></description>
 			<pubDate>Sat, 10 Jun 2023 14:44:30 +0000</pubDate>
-		</item>
-		<item>
-			<title>Sandman&#039;s Master Sword &amp; Hylian Shield Reskin Pack</title>
-			<link>https://gamebanana.com/mods/449206</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648476818560f.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 13:38:16 +0000</pubDate>
-		</item>
-		<item>
-			<title>Mummy link</title>
-			<link>https://gamebanana.com/mods/449184</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64845a7e1c636.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 11:19:20 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
