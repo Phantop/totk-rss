@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Harder Bone Enemies</title>
+			<link>https://gamebanana.com/mods/449335</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64851c0e86aa8.jpg"/>]]></description>
+			<pubDate>Sun, 11 Jun 2023 01:02:18 +0000</pubDate>
+		</item>
+		<item>
+			<title>Infinite Zonaite Forge Stock</title>
+			<link>https://gamebanana.com/mods/449331</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6485158ba8685.jpg"/>]]></description>
+			<pubDate>Sun, 11 Jun 2023 00:30:28 +0000</pubDate>
+		</item>
+		<item>
 			<title>TOTK 100 Percent Save</title>
 			<link>https://gamebanana.com/mods/449304</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6484f1068176b.jpg"/>]]></description>
@@ -21,7 +33,7 @@
 			<pubDate>Sat, 10 Jun 2023 18:03:26 +0000</pubDate>
 		</item>
 		<item>
-			<title>Reduce Sage Skill Ready Effect</title>
+			<title>Reduce &quot;Sage Skill Ready&quot; Effect</title>
 			<link>https://gamebanana.com/mods/449213</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64848bf8c18eb.jpg"/>]]></description>
 			<pubDate>Sat, 10 Jun 2023 14:44:30 +0000</pubDate>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/449174</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64844b6cf0be3.jpg"/>]]></description>
 			<pubDate>Sat, 10 Jun 2023 10:08:36 +0000</pubDate>
-		</item>
-		<item>
-			<title>Pride Shirts for Link</title>
-			<link>https://gamebanana.com/mods/449172</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64844522e1276.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 09:47:20 +0000</pubDate>
-		</item>
-		<item>
-			<title>Pantera 420 Tee</title>
-			<link>https://gamebanana.com/mods/449162</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64842b21a8672.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 07:51:19 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
