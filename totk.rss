@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Royal Knight&#039;s Crest Cloak</title>
+			<link>https://gamebanana.com/mods/449383</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64858038e7bf2.jpg"/>]]></description>
+			<pubDate>Sun, 11 Jun 2023 08:05:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>Royal Knight&#039;s Hylian Shield</title>
+			<link>https://gamebanana.com/mods/449382</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64857e9beeba8.jpg"/>]]></description>
+			<pubDate>Sun, 11 Jun 2023 08:00:12 +0000</pubDate>
+		</item>
+		<item>
 			<title>Chainmail Hylian Tunic</title>
 			<link>https://gamebanana.com/mods/449372</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64855c318424b.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/449283</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6484d980e4090.jpg"/>]]></description>
 			<pubDate>Sat, 10 Jun 2023 20:30:51 +0000</pubDate>
-		</item>
-		<item>
-			<title>Flurry Rush Nerf</title>
-			<link>https://gamebanana.com/mods/449251</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6484bd79435be.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 18:03:26 +0000</pubDate>
-		</item>
-		<item>
-			<title>Reduce &quot;Sage Skill Ready&quot; Effect</title>
-			<link>https://gamebanana.com/mods/449213</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64848bf8c18eb.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 14:44:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
