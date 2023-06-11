@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Trump Shirt</title>
+			<link>https://gamebanana.com/mods/449507</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648632d6112ce.jpg"/>]]></description>
+			<pubDate>Sun, 11 Jun 2023 20:48:05 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gilded Master Sword</title>
+			<link>https://gamebanana.com/mods/449506</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486323d5fdbd.jpg"/>]]></description>
+			<pubDate>Sun, 11 Jun 2023 20:47:02 +0000</pubDate>
+		</item>
+		<item>
 			<title>Para-CLoth</title>
 			<link>https://gamebanana.com/mods/449479</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64860c9ded4e6.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/449370</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64855b8ae34d8.jpg"/>]]></description>
 			<pubDate>Sun, 11 Jun 2023 05:29:19 +0000</pubDate>
-		</item>
-		<item>
-			<title>Spec-Ops Glide Suit</title>
-			<link>https://gamebanana.com/mods/449365</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6485520c570ac.jpg"/>]]></description>
-			<pubDate>Sun, 11 Jun 2023 04:50:57 +0000</pubDate>
-		</item>
-		<item>
-			<title>Improved Mining Suit</title>
-			<link>https://gamebanana.com/mods/449349</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648538e06d727.jpg"/>]]></description>
-			<pubDate>Sun, 11 Jun 2023 03:14:06 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
