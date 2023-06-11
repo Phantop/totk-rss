@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Para-CLoth</title>
+			<link>https://gamebanana.com/mods/449479</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64860c9ded4e6.jpg"/>]]></description>
+			<pubDate>Sun, 11 Jun 2023 18:04:36 +0000</pubDate>
+		</item>
+		<item>
+			<title>Elucidator</title>
+			<link>https://gamebanana.com/mods/449478</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64860afb36563.jpg"/>]]></description>
+			<pubDate>Sun, 11 Jun 2023 17:58:16 +0000</pubDate>
+		</item>
+		<item>
 			<title>KBM UI + Keymap config</title>
 			<link>https://gamebanana.com/mods/449427</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6485c470e4d5d.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/449349</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648538e06d727.jpg"/>]]></description>
 			<pubDate>Sun, 11 Jun 2023 03:14:06 +0000</pubDate>
-		</item>
-		<item>
-			<title>Harder Bone Enemies</title>
-			<link>https://gamebanana.com/mods/449335</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64851c0e86aa8.jpg"/>]]></description>
-			<pubDate>Sun, 11 Jun 2023 01:02:18 +0000</pubDate>
-		</item>
-		<item>
-			<title>Infinite Zonaite Forge Stock</title>
-			<link>https://gamebanana.com/mods/449331</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6485158ba8685.jpg"/>]]></description>
-			<pubDate>Sun, 11 Jun 2023 00:30:28 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
