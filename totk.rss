@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Spec-Ops Glide Suit</title>
+			<link>https://gamebanana.com/mods/449365</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6485520c570ac.jpg"/>]]></description>
+			<pubDate>Sun, 11 Jun 2023 04:50:57 +0000</pubDate>
+		</item>
+		<item>
 			<title>Improved Mining Suit</title>
 			<link>https://gamebanana.com/mods/449349</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648538e06d727.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449184</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64845a7e1c636.jpg"/>]]></description>
 			<pubDate>Sat, 10 Jun 2023 11:19:20 +0000</pubDate>
-		</item>
-		<item>
-			<title>Puffy Jacket</title>
-			<link>https://gamebanana.com/mods/449179</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648454647e6e8.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 10:49:14 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
