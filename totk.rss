@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Blood Moon Nights (Serfrost Defogger Compatible)</title>
+			<link>https://gamebanana.com/mods/449574</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486a2546be6f.jpg"/>]]></description>
+			<pubDate>Mon, 12 Jun 2023 04:43:53 +0000</pubDate>
+		</item>
+		<item>
 			<title>Nintendo Switch Shirt over Island Lobster Shirt</title>
 			<link>https://gamebanana.com/mods/449559</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64868a81ba3ee.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449479</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64860c9ded4e6.jpg"/>]]></description>
 			<pubDate>Sun, 11 Jun 2023 18:04:36 +0000</pubDate>
-		</item>
-		<item>
-			<title>Elucidator</title>
-			<link>https://gamebanana.com/mods/449478</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64860afb36563.jpg"/>]]></description>
-			<pubDate>Sun, 11 Jun 2023 17:58:16 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
