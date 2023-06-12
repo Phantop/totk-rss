@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Balanced Unbreakable Gerudo Weapons</title>
+			<link>https://gamebanana.com/mods/449591</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486cdbf8e1b6.jpg"/>]]></description>
+			<pubDate>Mon, 12 Jun 2023 07:48:40 +0000</pubDate>
+		</item>
+		<item>
 			<title>Nintendo Switch Shirt Over Island Lobster Shirt</title>
 			<link>https://gamebanana.com/mods/449582</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486add35df86.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449514</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64863c3812c6d.jpg"/>]]></description>
 			<pubDate>Sun, 11 Jun 2023 21:27:39 +0000</pubDate>
-		</item>
-		<item>
-			<title>Trump Shirt</title>
-			<link>https://gamebanana.com/mods/449507</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648632d6112ce.jpg"/>]]></description>
-			<pubDate>Sun, 11 Jun 2023 20:48:05 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
