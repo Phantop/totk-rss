@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Free Autobuild (No Zonite Cost)</title>
+			<link>https://gamebanana.com/mods/449615</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648713d840fe7.jpg"/>]]></description>
+			<pubDate>Mon, 12 Jun 2023 12:47:45 +0000</pubDate>
+		</item>
+		<item>
 			<title>Ryzo&#039;s Rebalance</title>
 			<link>https://gamebanana.com/mods/449604</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486f50d08d93.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449548</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64866f0d1f2bb.jpg"/>]]></description>
 			<pubDate>Mon, 12 Jun 2023 01:33:24 +0000</pubDate>
-		</item>
-		<item>
-			<title>Top Surgery Scars [Spoilers]</title>
-			<link>https://gamebanana.com/mods/449532</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64865fb4ad960.jpg"/>]]></description>
-			<pubDate>Mon, 12 Jun 2023 00:16:31 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
