@@ -3,6 +3,24 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Hylian Shield (Green)</title>
+			<link>https://gamebanana.com/mods/449659</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64875eb77cacd.jpg"/>]]></description>
+			<pubDate>Mon, 12 Jun 2023 18:13:25 +0000</pubDate>
+		</item>
+		<item>
+			<title>Beach Bikini W/Sandals</title>
+			<link>https://gamebanana.com/mods/449658</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64875595e0286.jpg"/>]]></description>
+			<pubDate>Mon, 12 Jun 2023 18:12:03 +0000</pubDate>
+		</item>
+		<item>
+			<title>Bigger Lynels</title>
+			<link>https://gamebanana.com/mods/449653</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6487585985bdd.jpg"/>]]></description>
+			<pubDate>Mon, 12 Jun 2023 17:43:29 +0000</pubDate>
+		</item>
+		<item>
 			<title>Unbreakable Champions&#039; Equipment</title>
 			<link>https://gamebanana.com/mods/449584</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486ba773f830.jpg"/>]]></description>
@@ -43,24 +61,6 @@
 			<link>https://gamebanana.com/mods/448538</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647fdd28f148d.jpg"/>]]></description>
 			<pubDate>Wed, 07 Jun 2023 01:30:25 +0000</pubDate>
-		</item>
-		<item>
-			<title>Project Zero 2</title>
-			<link>https://gamebanana.com/mods/448329</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647e5bd852c46.jpg"/>]]></description>
-			<pubDate>Tue, 06 Jun 2023 22:10:52 +0000</pubDate>
-		</item>
-		<item>
-			<title>Early Travel Medallion [WII U]</title>
-			<link>https://gamebanana.com/mods/448007</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c8143cbc3a.jpg"/>]]></description>
-			<pubDate>Sun, 04 Jun 2023 12:22:43 +0000</pubDate>
-		</item>
-		<item>
-			<title>Full HD Cutscenes (2023 Edition)</title>
-			<link>https://gamebanana.com/mods/447848</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ba3d127ef9.jpg"/>]]></description>
-			<pubDate>Sun, 04 Jun 2023 00:01:47 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
