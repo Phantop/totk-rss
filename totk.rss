@@ -3,13 +3,25 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Nintendo Switch Shirt Over Island Lobster Shirt</title>
+			<link>https://gamebanana.com/mods/449582</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486add35df86.jpg"/>]]></description>
+			<pubDate>Mon, 12 Jun 2023 05:29:35 +0000</pubDate>
+		</item>
+		<item>
+			<title>Nintendo Switch Shirt over Climbing Gear</title>
+			<link>https://gamebanana.com/mods/449579</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486aade5ceda.jpg"/>]]></description>
+			<pubDate>Mon, 12 Jun 2023 05:21:51 +0000</pubDate>
+		</item>
+		<item>
 			<title>Blood Moon Nights (Serfrost Defogger Compatible)</title>
 			<link>https://gamebanana.com/mods/449574</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486a2546be6f.jpg"/>]]></description>
 			<pubDate>Mon, 12 Jun 2023 04:43:53 +0000</pubDate>
 		</item>
 		<item>
-			<title>Nintendo Switch Shirt over Island Lobster Shirt</title>
+			<title>Island Nintendo Switch Shirt</title>
 			<link>https://gamebanana.com/mods/449559</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64868a81ba3ee.jpg"/>]]></description>
 			<pubDate>Mon, 12 Jun 2023 03:01:24 +0000</pubDate>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/449507</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648632d6112ce.jpg"/>]]></description>
 			<pubDate>Sun, 11 Jun 2023 20:48:05 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gilded Master Sword</title>
-			<link>https://gamebanana.com/mods/449506</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486323d5fdbd.jpg"/>]]></description>
-			<pubDate>Sun, 11 Jun 2023 20:47:02 +0000</pubDate>
-		</item>
-		<item>
-			<title>Para-CLoth</title>
-			<link>https://gamebanana.com/mods/449479</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64860c9ded4e6.jpg"/>]]></description>
-			<pubDate>Sun, 11 Jun 2023 18:04:36 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
