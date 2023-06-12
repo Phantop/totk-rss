@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Sheaths Begone</title>
+			<link>https://gamebanana.com/mods/449557</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648687c56dde1.jpg"/>]]></description>
+			<pubDate>Mon, 12 Jun 2023 02:52:16 +0000</pubDate>
+		</item>
+		<item>
+			<title>Broken Master Sword to Traveler Sword</title>
+			<link>https://gamebanana.com/mods/449548</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64866f0d1f2bb.jpg"/>]]></description>
+			<pubDate>Mon, 12 Jun 2023 01:33:24 +0000</pubDate>
+		</item>
+		<item>
 			<title>Top Surgery Scars [Spoilers]</title>
 			<link>https://gamebanana.com/mods/449532</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64865fb4ad960.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/449427</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6485c470e4d5d.jpg"/>]]></description>
 			<pubDate>Sun, 11 Jun 2023 14:58:29 +0000</pubDate>
-		</item>
-		<item>
-			<title>Stronger Champion Weapons</title>
-			<link>https://gamebanana.com/mods/449430</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6485d0c035e4b.jpg"/>]]></description>
-			<pubDate>Sun, 11 Jun 2023 13:53:44 +0000</pubDate>
-		</item>
-		<item>
-			<title>Royal Knight&#039;s Crest Cloak</title>
-			<link>https://gamebanana.com/mods/449383</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64858038e7bf2.jpg"/>]]></description>
-			<pubDate>Sun, 11 Jun 2023 08:05:19 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
