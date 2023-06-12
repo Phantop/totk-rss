@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Unbreakable Champions&#039; Equipment</title>
+			<link>https://gamebanana.com/mods/449584</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486ba773f830.jpg"/>]]></description>
+			<pubDate>Mon, 12 Jun 2023 06:28:12 +0000</pubDate>
+		</item>
+		<item>
 			<title>Master Sword (Green)</title>
 			<link>https://gamebanana.com/mods/449475</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648601d90e07b.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/447848</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647ba3d127ef9.jpg"/>]]></description>
 			<pubDate>Sun, 04 Jun 2023 00:01:47 +0000</pubDate>
-		</item>
-		<item>
-			<title>Fairy Outfit</title>
-			<link>https://gamebanana.com/mods/447770</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647b4c7958ca3.jpg"/>]]></description>
-			<pubDate>Sat, 03 Jun 2023 14:27:47 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
