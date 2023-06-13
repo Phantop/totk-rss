@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Vah Medoh Paraglider</title>
+			<link>https://gamebanana.com/mods/449844</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488b2bf3b98b.jpg"/>]]></description>
+			<pubDate>Tue, 13 Jun 2023 18:17:52 +0000</pubDate>
+		</item>
+		<item>
 			<title>Link Beard</title>
 			<link>https://gamebanana.com/mods/449843</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488b1a925915.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449729</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6487d2702ed6b.jpg"/>]]></description>
 			<pubDate>Tue, 13 Jun 2023 02:22:48 +0000</pubDate>
-		</item>
-		<item>
-			<title>Infinite Autobuild - No cost</title>
-			<link>https://gamebanana.com/mods/449721</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6487cb0721bb3.jpg"/>]]></description>
-			<pubDate>Tue, 13 Jun 2023 01:53:15 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
