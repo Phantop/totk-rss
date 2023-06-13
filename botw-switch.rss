@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Unbreakable Champions&#039; Weapons</title>
+			<link>https://gamebanana.com/mods/449772</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648822bcccf43.jpg"/>]]></description>
+			<pubDate>Tue, 13 Jun 2023 08:06:53 +0000</pubDate>
+		</item>
+		<item>
 			<title>Early Travel Medallion [SWITCH]</title>
 			<link>https://gamebanana.com/mods/448012</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c8c502470d.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444300</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64667f11c6699.jpg"/>]]></description>
 			<pubDate>Thu, 18 May 2023 19:40:59 +0000</pubDate>
-		</item>
-		<item>
-			<title>No Loot Boxes (Guaranteed amiibo Items)</title>
-			<link>https://gamebanana.com/mods/444097</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6465041962a97.jpg"/>]]></description>
-			<pubDate>Wed, 17 May 2023 17:06:09 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
