@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Zelda - v2.2 Dialogue &amp; Cutscene-Audio Adjustments</title>
+			<link>https://gamebanana.com/mods/446714</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6474f3b794600.jpg"/>]]></description>
+			<pubDate>Tue, 13 Jun 2023 20:55:50 +0000</pubDate>
+		</item>
+		<item>
 			<title>Unbreakable Champions&#039; Weapons</title>
 			<link>https://gamebanana.com/mods/449772</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648822bcccf43.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/444301</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646682ed409c0.jpg"/>]]></description>
 			<pubDate>Thu, 18 May 2023 19:57:30 +0000</pubDate>
-		</item>
-		<item>
-			<title>Playstation UI v1</title>
-			<link>https://gamebanana.com/mods/444300</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64667f11c6699.jpg"/>]]></description>
-			<pubDate>Thu, 18 May 2023 19:40:59 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
