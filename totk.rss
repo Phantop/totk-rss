@@ -3,6 +3,30 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Link Beard</title>
+			<link>https://gamebanana.com/mods/449843</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488b1a925915.jpg"/>]]></description>
+			<pubDate>Tue, 13 Jun 2023 18:13:20 +0000</pubDate>
+		</item>
+		<item>
+			<title>Kass Companion</title>
+			<link>https://gamebanana.com/mods/449840</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488b0642d4d9.jpg"/>]]></description>
+			<pubDate>Tue, 13 Jun 2023 18:08:41 +0000</pubDate>
+		</item>
+		<item>
+			<title>Box Construct</title>
+			<link>https://gamebanana.com/mods/449839</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488ae9fd75f2.jpg"/>]]></description>
+			<pubDate>Tue, 13 Jun 2023 18:03:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>Opal Earrings can Climb Waterfalls.</title>
+			<link>https://gamebanana.com/mods/449837</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488a9c0a51e1.jpg"/>]]></description>
+			<pubDate>Tue, 13 Jun 2023 17:42:14 +0000</pubDate>
+		</item>
+		<item>
 			<title>Celestial Soldier Armor</title>
 			<link>https://gamebanana.com/mods/449808</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64887519c3fa4.jpg"/>]]></description>
@@ -37,30 +61,6 @@
 			<link>https://gamebanana.com/mods/449721</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6487cb0721bb3.jpg"/>]]></description>
 			<pubDate>Tue, 13 Jun 2023 01:53:15 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rainbow Eyeshadows for Link (or eyebags...)</title>
-			<link>https://gamebanana.com/mods/449719</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6487c552bf905.jpg"/>]]></description>
-			<pubDate>Tue, 13 Jun 2023 01:42:57 +0000</pubDate>
-		</item>
-		<item>
-			<title>Monado and Shulk&#039;s Outfit</title>
-			<link>https://gamebanana.com/mods/449685</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648773275e801.jpg"/>]]></description>
-			<pubDate>Mon, 12 Jun 2023 22:10:35 +0000</pubDate>
-		</item>
-		<item>
-			<title>Free Autobuild (No Zonite Cost)</title>
-			<link>https://gamebanana.com/mods/449615</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648713d840fe7.jpg"/>]]></description>
-			<pubDate>Mon, 12 Jun 2023 12:47:45 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ryzo&#039;s Rebalance</title>
-			<link>https://gamebanana.com/mods/449604</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486f50d08d93.jpg"/>]]></description>
-			<pubDate>Mon, 12 Jun 2023 10:38:35 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
