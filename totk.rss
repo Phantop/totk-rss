@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Remove Certain Fuses</title>
+			<link>https://gamebanana.com/mods/449762</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488036ab2627.jpg"/>]]></description>
+			<pubDate>Tue, 13 Jun 2023 06:09:45 +0000</pubDate>
+		</item>
+		<item>
 			<title>No Autobuild Cost</title>
 			<link>https://gamebanana.com/mods/449749</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6487f45c3ee7e.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449591</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486cdbf8e1b6.jpg"/>]]></description>
 			<pubDate>Mon, 12 Jun 2023 07:48:40 +0000</pubDate>
-		</item>
-		<item>
-			<title>Nintendo Switch Shirt Over Island Lobster Shirt</title>
-			<link>https://gamebanana.com/mods/449582</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486add35df86.jpg"/>]]></description>
-			<pubDate>Mon, 12 Jun 2023 05:29:35 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
