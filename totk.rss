@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>No Autobuild Cost</title>
+			<link>https://gamebanana.com/mods/449749</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6487f45c3ee7e.jpg"/>]]></description>
+			<pubDate>Tue, 13 Jun 2023 04:47:48 +0000</pubDate>
+		</item>
+		<item>
 			<title>Battle Shield</title>
 			<link>https://gamebanana.com/mods/449729</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6487d2702ed6b.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449582</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486add35df86.jpg"/>]]></description>
 			<pubDate>Mon, 12 Jun 2023 05:29:35 +0000</pubDate>
-		</item>
-		<item>
-			<title>Nintendo Switch Shirt over Climbing Gear</title>
-			<link>https://gamebanana.com/mods/449579</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486aade5ceda.jpg"/>]]></description>
-			<pubDate>Mon, 12 Jun 2023 05:21:51 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
