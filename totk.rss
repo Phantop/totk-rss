@@ -3,6 +3,24 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Battle Shield</title>
+			<link>https://gamebanana.com/mods/449729</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6487d2702ed6b.jpg"/>]]></description>
+			<pubDate>Tue, 13 Jun 2023 02:22:48 +0000</pubDate>
+		</item>
+		<item>
+			<title>Infinite Autobuild - No cost</title>
+			<link>https://gamebanana.com/mods/449721</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6487cb0721bb3.jpg"/>]]></description>
+			<pubDate>Tue, 13 Jun 2023 01:53:15 +0000</pubDate>
+		</item>
+		<item>
+			<title>Rainbow Eyeshadows for Link (or eyebags...)</title>
+			<link>https://gamebanana.com/mods/449719</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6487c552bf905.jpg"/>]]></description>
+			<pubDate>Tue, 13 Jun 2023 01:42:57 +0000</pubDate>
+		</item>
+		<item>
 			<title>Monado and Shulk&#039;s Outfit</title>
 			<link>https://gamebanana.com/mods/449685</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648773275e801.jpg"/>]]></description>
@@ -43,24 +61,6 @@
 			<link>https://gamebanana.com/mods/449579</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486aade5ceda.jpg"/>]]></description>
 			<pubDate>Mon, 12 Jun 2023 05:21:51 +0000</pubDate>
-		</item>
-		<item>
-			<title>Blood Moon Nights (Serfrost Defogger Compatible)</title>
-			<link>https://gamebanana.com/mods/449574</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486a2546be6f.jpg"/>]]></description>
-			<pubDate>Mon, 12 Jun 2023 04:43:53 +0000</pubDate>
-		</item>
-		<item>
-			<title>Island Nintendo Switch Shirt</title>
-			<link>https://gamebanana.com/mods/449559</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64868a81ba3ee.jpg"/>]]></description>
-			<pubDate>Mon, 12 Jun 2023 03:01:24 +0000</pubDate>
-		</item>
-		<item>
-			<title>Sheaths Begone</title>
-			<link>https://gamebanana.com/mods/449557</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648687c56dde1.jpg"/>]]></description>
-			<pubDate>Mon, 12 Jun 2023 02:52:16 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
