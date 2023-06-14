@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Resize some shields</title>
+			<link>https://gamebanana.com/mods/450069</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a441ac4208.jpg"/>]]></description>
+			<pubDate>Wed, 14 Jun 2023 22:56:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>All Large Weapons Are Spears</title>
+			<link>https://gamebanana.com/mods/450068</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a477a4e18b.jpg"/>]]></description>
+			<pubDate>Wed, 14 Jun 2023 22:53:27 +0000</pubDate>
+		</item>
+		<item>
 			<title>Angel Wings Paraglider 2.0</title>
 			<link>https://gamebanana.com/mods/450057</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a2c899d821.jpg"/>]]></description>
@@ -21,7 +33,7 @@
 			<pubDate>Wed, 14 Jun 2023 16:22:34 +0000</pubDate>
 		</item>
 		<item>
-			<title>Unlocked Decayed Master Sword</title>
+			<title>Unlocked + Fusible Decayed Master Sword</title>
 			<link>https://gamebanana.com/mods/450014</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6489e13b93002.jpg"/>]]></description>
 			<pubDate>Wed, 14 Jun 2023 15:59:14 +0000</pubDate>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/449911</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648918fb0b025.jpg"/>]]></description>
 			<pubDate>Wed, 14 Jun 2023 01:38:12 +0000</pubDate>
-		</item>
-		<item>
-			<title>Vah Medoh Paraglider</title>
-			<link>https://gamebanana.com/mods/449844</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488b2bf3b98b.jpg"/>]]></description>
-			<pubDate>Tue, 13 Jun 2023 18:17:52 +0000</pubDate>
-		</item>
-		<item>
-			<title>Link Beard</title>
-			<link>https://gamebanana.com/mods/449843</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488b1a925915.jpg"/>]]></description>
-			<pubDate>Tue, 13 Jun 2023 18:13:20 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
