@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Master Sword (Glitched) can Fuse</title>
+			<link>https://gamebanana.com/mods/449927</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64893ffc0a98e.jpg"/>]]></description>
+			<pubDate>Wed, 14 Jun 2023 04:26:07 +0000</pubDate>
+		</item>
+		<item>
 			<title>Royalty In Red</title>
 			<link>https://gamebanana.com/mods/449911</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648918fb0b025.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449762</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488036ab2627.jpg"/>]]></description>
 			<pubDate>Tue, 13 Jun 2023 06:09:45 +0000</pubDate>
-		</item>
-		<item>
-			<title>No Autobuild Cost</title>
-			<link>https://gamebanana.com/mods/449749</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6487f45c3ee7e.jpg"/>]]></description>
-			<pubDate>Tue, 13 Jun 2023 04:47:48 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
