@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Improved Ancient hero&#039;s aspect armor</title>
+			<link>https://gamebanana.com/mods/450030</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6489ff2e031e5.jpg"/>]]></description>
+			<pubDate>Wed, 14 Jun 2023 17:58:09 +0000</pubDate>
+		</item>
+		<item>
 			<title>Alchoholink: Thing of the Kingdom</title>
 			<link>https://gamebanana.com/mods/450017</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6489ec6573f27.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449840</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488b0642d4d9.jpg"/>]]></description>
 			<pubDate>Tue, 13 Jun 2023 18:08:41 +0000</pubDate>
-		</item>
-		<item>
-			<title>Box Construct</title>
-			<link>https://gamebanana.com/mods/449839</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488ae9fd75f2.jpg"/>]]></description>
-			<pubDate>Tue, 13 Jun 2023 18:03:28 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
