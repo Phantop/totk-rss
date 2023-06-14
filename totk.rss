@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>invisible horse gear + mane</title>
+			<link>https://gamebanana.com/mods/449947</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64896489c4b05.jpg"/>]]></description>
+			<pubDate>Wed, 14 Jun 2023 07:03:46 +0000</pubDate>
+		</item>
+		<item>
 			<title>DS Game</title>
 			<link>https://gamebanana.com/mods/449936</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64895360343cf.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449808</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64887519c3fa4.jpg"/>]]></description>
 			<pubDate>Tue, 13 Jun 2023 14:01:55 +0000</pubDate>
-		</item>
-		<item>
-			<title>Well Worn Hyrule Warrior Tunic</title>
-			<link>https://gamebanana.com/mods/449787</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488476915d26.jpg"/>]]></description>
-			<pubDate>Tue, 13 Jun 2023 10:41:33 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
