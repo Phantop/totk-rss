@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Project Zero 2</title>
+			<link>https://gamebanana.com/mods/449919</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648928f532661.jpg"/>]]></description>
+			<pubDate>Wed, 14 Jun 2023 02:46:33 +0000</pubDate>
+		</item>
+		<item>
 			<title>Zelda - v2.2 Dialogue &amp; Cutscene-Audio Adjustments</title>
 			<link>https://gamebanana.com/mods/446714</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6474f3b794600.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/445777</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646fb47b566c4.jpg"/>]]></description>
 			<pubDate>Thu, 25 May 2023 19:51:29 +0000</pubDate>
-		</item>
-		<item>
-			<title>Xbox UI v1</title>
-			<link>https://gamebanana.com/mods/444301</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646682ed409c0.jpg"/>]]></description>
-			<pubDate>Thu, 18 May 2023 19:57:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
