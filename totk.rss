@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Unlocked Decayed Master Sword</title>
+			<link>https://gamebanana.com/mods/450014</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6489e13b93002.jpg"/>]]></description>
+			<pubDate>Wed, 14 Jun 2023 15:59:14 +0000</pubDate>
+		</item>
+		<item>
 			<title>invisible horse gear + mane</title>
 			<link>https://gamebanana.com/mods/449947</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64896489c4b05.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449837</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488a9c0a51e1.jpg"/>]]></description>
 			<pubDate>Tue, 13 Jun 2023 17:42:14 +0000</pubDate>
-		</item>
-		<item>
-			<title>Celestial Soldier Armor</title>
-			<link>https://gamebanana.com/mods/449808</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64887519c3fa4.jpg"/>]]></description>
-			<pubDate>Tue, 13 Jun 2023 14:01:55 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
