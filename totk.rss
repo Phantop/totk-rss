@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Alchoholink: Thing of the Kingdom</title>
+			<link>https://gamebanana.com/mods/450017</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6489ec6573f27.jpg"/>]]></description>
+			<pubDate>Wed, 14 Jun 2023 16:22:34 +0000</pubDate>
+		</item>
+		<item>
 			<title>Unlocked Decayed Master Sword</title>
 			<link>https://gamebanana.com/mods/450014</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6489e13b93002.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449839</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488ae9fd75f2.jpg"/>]]></description>
 			<pubDate>Tue, 13 Jun 2023 18:03:28 +0000</pubDate>
-		</item>
-		<item>
-			<title>Opal Earrings can Climb Waterfalls.</title>
-			<link>https://gamebanana.com/mods/449837</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6488a9c0a51e1.jpg"/>]]></description>
-			<pubDate>Tue, 13 Jun 2023 17:42:14 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
