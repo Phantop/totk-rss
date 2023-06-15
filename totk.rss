@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Minecraft Wooden Sword</title>
+			<link>https://gamebanana.com/mods/450141</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648acb756070f.jpg"/>]]></description>
+			<pubDate>Thu, 15 Jun 2023 08:28:32 +0000</pubDate>
+		</item>
+		<item>
 			<title>No Energy Consumption (1.0.0-1.1.1)</title>
 			<link>https://gamebanana.com/mods/450126</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648aa1371f21b.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450057</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a2c899d821.jpg"/>]]></description>
 			<pubDate>Wed, 14 Jun 2023 21:46:17 +0000</pubDate>
-		</item>
-		<item>
-			<title>Improved Ancient hero&#039;s aspect armor</title>
-			<link>https://gamebanana.com/mods/450030</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6489ff2e031e5.jpg"/>]]></description>
-			<pubDate>Wed, 14 Jun 2023 17:58:09 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
