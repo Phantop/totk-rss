@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>No Energy Consumption (1.0.0-1.1.1)</title>
+			<link>https://gamebanana.com/mods/450126</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648aa1371f21b.jpg"/>]]></description>
+			<pubDate>Thu, 15 Jun 2023 05:29:30 +0000</pubDate>
+		</item>
+		<item>
 			<title>Black Belt Pouches</title>
 			<link>https://gamebanana.com/mods/450121</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a92660c4c0.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450030</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6489ff2e031e5.jpg"/>]]></description>
 			<pubDate>Wed, 14 Jun 2023 17:58:09 +0000</pubDate>
-		</item>
-		<item>
-			<title>Alchoholink: Thing of the Kingdom</title>
-			<link>https://gamebanana.com/mods/450017</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6489ec6573f27.jpg"/>]]></description>
-			<pubDate>Wed, 14 Jun 2023 16:22:34 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
