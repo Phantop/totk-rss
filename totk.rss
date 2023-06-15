@@ -3,6 +3,30 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Champion&#039;s Black Chainmail</title>
+			<link>https://gamebanana.com/mods/450118</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a8a20719aa.jpg"/>]]></description>
+			<pubDate>Thu, 15 Jun 2023 03:52:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>More Glide Suit Mobility</title>
+			<link>https://gamebanana.com/mods/450112</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a8827d9851.jpg"/>]]></description>
+			<pubDate>Thu, 15 Jun 2023 03:41:14 +0000</pubDate>
+		</item>
+		<item>
+			<title>Very Fast Zora Armor</title>
+			<link>https://gamebanana.com/mods/450108</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a8574c64d5.jpg"/>]]></description>
+			<pubDate>Thu, 15 Jun 2023 03:29:16 +0000</pubDate>
+		</item>
+		<item>
+			<title>Clean Interface Mod</title>
+			<link>https://gamebanana.com/mods/450103</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a80a0cb4d5.jpg"/>]]></description>
+			<pubDate>Thu, 15 Jun 2023 03:14:41 +0000</pubDate>
+		</item>
+		<item>
 			<title>Resize some shields (Unbreakable)</title>
 			<link>https://gamebanana.com/mods/450069</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a441ac4208.jpg"/>]]></description>
@@ -37,30 +61,6 @@
 			<link>https://gamebanana.com/mods/450014</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6489e13b93002.jpg"/>]]></description>
 			<pubDate>Wed, 14 Jun 2023 15:59:14 +0000</pubDate>
-		</item>
-		<item>
-			<title>invisible horse gear + mane</title>
-			<link>https://gamebanana.com/mods/449947</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64896489c4b05.jpg"/>]]></description>
-			<pubDate>Wed, 14 Jun 2023 07:03:46 +0000</pubDate>
-		</item>
-		<item>
-			<title>DS Game</title>
-			<link>https://gamebanana.com/mods/449936</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64895360343cf.jpg"/>]]></description>
-			<pubDate>Wed, 14 Jun 2023 05:53:37 +0000</pubDate>
-		</item>
-		<item>
-			<title>Master Sword (Glitched) can Fuse</title>
-			<link>https://gamebanana.com/mods/449927</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64893ffc0a98e.jpg"/>]]></description>
-			<pubDate>Wed, 14 Jun 2023 04:26:07 +0000</pubDate>
-		</item>
-		<item>
-			<title>Royalty In Red</title>
-			<link>https://gamebanana.com/mods/449911</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648918fb0b025.jpg"/>]]></description>
-			<pubDate>Wed, 14 Jun 2023 01:38:12 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
