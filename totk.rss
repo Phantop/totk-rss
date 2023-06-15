@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Less Grindy Korok Expansions</title>
+			<link>https://gamebanana.com/mods/450191</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648b2b0225282.jpg"/>]]></description>
+			<pubDate>Thu, 15 Jun 2023 15:15:29 +0000</pubDate>
+		</item>
+		<item>
 			<title>Devastating Depths bosses</title>
 			<link>https://gamebanana.com/mods/450174</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648b0c29201ec.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450103</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a80a0cb4d5.jpg"/>]]></description>
 			<pubDate>Thu, 15 Jun 2023 03:14:41 +0000</pubDate>
-		</item>
-		<item>
-			<title>Resize some shields (Unbreakable)</title>
-			<link>https://gamebanana.com/mods/450069</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a441ac4208.jpg"/>]]></description>
-			<pubDate>Wed, 14 Jun 2023 22:56:21 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
