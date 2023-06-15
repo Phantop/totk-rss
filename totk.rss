@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Golden Hair</title>
+			<link>https://gamebanana.com/mods/450260</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648b8180d313c.jpg"/>]]></description>
+			<pubDate>Thu, 15 Jun 2023 21:25:27 +0000</pubDate>
+		</item>
+		<item>
 			<title>Black Waist Belt (with Pouches)</title>
 			<link>https://gamebanana.com/mods/450237</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648b5ecbdedf5.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450121</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a92660c4c0.jpg"/>]]></description>
 			<pubDate>Thu, 15 Jun 2023 04:24:51 +0000</pubDate>
-		</item>
-		<item>
-			<title>Champion&#039;s Black Chainmail</title>
-			<link>https://gamebanana.com/mods/450118</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a8a20719aa.jpg"/>]]></description>
-			<pubDate>Thu, 15 Jun 2023 03:52:08 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
