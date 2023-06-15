@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Ninja Mask (black sheikh mask)</title>
+			<link>https://gamebanana.com/mods/450219</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648b4c810e03f.jpg"/>]]></description>
+			<pubDate>Thu, 15 Jun 2023 17:42:56 +0000</pubDate>
+		</item>
+		<item>
+			<title>Champion’s Armor (Trailer 2019) - With Normal Arm</title>
+			<link>https://gamebanana.com/mods/450218</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648b4cfd1734a.jpg"/>]]></description>
+			<pubDate>Thu, 15 Jun 2023 17:42:21 +0000</pubDate>
+		</item>
+		<item>
 			<title>Less Grindy Korok Expansions</title>
 			<link>https://gamebanana.com/mods/450191</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648b2b0225282.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/450112</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a8827d9851.jpg"/>]]></description>
 			<pubDate>Thu, 15 Jun 2023 03:41:14 +0000</pubDate>
-		</item>
-		<item>
-			<title>Very Fast Zora Armor</title>
-			<link>https://gamebanana.com/mods/450108</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a8574c64d5.jpg"/>]]></description>
-			<pubDate>Thu, 15 Jun 2023 03:29:16 +0000</pubDate>
-		</item>
-		<item>
-			<title>Clean Interface Mod</title>
-			<link>https://gamebanana.com/mods/450103</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a80a0cb4d5.jpg"/>]]></description>
-			<pubDate>Thu, 15 Jun 2023 03:14:41 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
