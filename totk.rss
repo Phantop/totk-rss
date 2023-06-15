@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Black Waist Belt (with Pouches)</title>
+			<link>https://gamebanana.com/mods/450237</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648b5ecbdedf5.jpg"/>]]></description>
+			<pubDate>Thu, 15 Jun 2023 18:57:34 +0000</pubDate>
+		</item>
+		<item>
 			<title>Ninja Mask (black sheikh mask)</title>
 			<link>https://gamebanana.com/mods/450219</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648b4c810e03f.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450118</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a8a20719aa.jpg"/>]]></description>
 			<pubDate>Thu, 15 Jun 2023 03:52:08 +0000</pubDate>
-		</item>
-		<item>
-			<title>More Glide Suit Mobility</title>
-			<link>https://gamebanana.com/mods/450112</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a8827d9851.jpg"/>]]></description>
-			<pubDate>Thu, 15 Jun 2023 03:41:14 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
