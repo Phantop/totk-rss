@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Black Belt Pouches</title>
+			<link>https://gamebanana.com/mods/450121</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a92660c4c0.jpg"/>]]></description>
+			<pubDate>Thu, 15 Jun 2023 04:24:51 +0000</pubDate>
+		</item>
+		<item>
 			<title>Champion&#039;s Black Chainmail</title>
 			<link>https://gamebanana.com/mods/450118</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648a8a20719aa.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450017</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6489ec6573f27.jpg"/>]]></description>
 			<pubDate>Wed, 14 Jun 2023 16:22:34 +0000</pubDate>
-		</item>
-		<item>
-			<title>Unlocked + Fusible Decayed Master Sword</title>
-			<link>https://gamebanana.com/mods/450014</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6489e13b93002.jpg"/>]]></description>
-			<pubDate>Wed, 14 Jun 2023 15:59:14 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
