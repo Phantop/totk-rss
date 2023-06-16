@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Knightly Arms</title>
+			<link>https://gamebanana.com/mods/450319</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648be848ce818.jpg"/>]]></description>
+			<pubDate>Fri, 16 Jun 2023 04:43:56 +0000</pubDate>
+		</item>
+		<item>
 			<title>Long Hair Hylian Hood</title>
 			<link>https://gamebanana.com/mods/450292</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648ba66d05a47.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450147</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648ad5530e5f6.jpg"/>]]></description>
 			<pubDate>Thu, 15 Jun 2023 10:18:15 +0000</pubDate>
-		</item>
-		<item>
-			<title>Minecraft Wooden Sword</title>
-			<link>https://gamebanana.com/mods/450141</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648acb756070f.jpg"/>]]></description>
-			<pubDate>Thu, 15 Jun 2023 08:28:32 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
