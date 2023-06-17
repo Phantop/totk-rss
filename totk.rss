@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Remove Challenge Icon</title>
+			<link>https://gamebanana.com/mods/450632</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e00e9cba21.jpg"/>]]></description>
+			<pubDate>Sat, 17 Jun 2023 18:55:51 +0000</pubDate>
+		</item>
+		<item>
+			<title>Fantasy Hair Colors for Link</title>
+			<link>https://gamebanana.com/mods/450623</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648df920c9261.jpg"/>]]></description>
+			<pubDate>Sat, 17 Jun 2023 18:22:40 +0000</pubDate>
+		</item>
+		<item>
 			<title>Majora&#039;s Mask with Skull Kid&#039;s hat</title>
 			<link>https://gamebanana.com/mods/450606</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648ddb1738a14.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/450496</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d17f62b2bb.jpg"/>]]></description>
 			<pubDate>Sat, 17 Jun 2023 02:20:11 +0000</pubDate>
-		</item>
-		<item>
-			<title>Link&#039;s Accessories of Time (Pouch Replacer)</title>
-			<link>https://gamebanana.com/mods/450495</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d164cba461.jpg"/>]]></description>
-			<pubDate>Sat, 17 Jun 2023 02:14:02 +0000</pubDate>
-		</item>
-		<item>
-			<title>Royal Guard Durability Up</title>
-			<link>https://gamebanana.com/mods/450487</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d09ae98ccc.jpg"/>]]></description>
-			<pubDate>Sat, 17 Jun 2023 01:23:03 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
