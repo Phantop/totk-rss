@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Link&#039;s New Look</title>
+			<link>https://gamebanana.com/mods/450575</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d963fcaa08.jpg"/>]]></description>
+			<pubDate>Sat, 17 Jun 2023 11:19:05 +0000</pubDate>
+		</item>
+		<item>
 			<title>No Ancient Blade extinction ability</title>
 			<link>https://gamebanana.com/mods/450542</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d57991ade6.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450485</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d080dab962.jpg"/>]]></description>
 			<pubDate>Sat, 17 Jun 2023 01:13:20 +0000</pubDate>
-		</item>
-		<item>
-			<title>Lazy Sexy Purah</title>
-			<link>https://gamebanana.com/mods/450477</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648cf9ba065b0.jpg"/>]]></description>
-			<pubDate>Sat, 17 Jun 2023 00:12:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
