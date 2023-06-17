@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Captains Broadsword</title>
+			<link>https://gamebanana.com/mods/450491</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d1291d4edc.jpg"/>]]></description>
+			<pubDate>Sat, 17 Jun 2023 01:55:53 +0000</pubDate>
+		</item>
+		<item>
 			<title>OoT3D Giant&#039;s Knife</title>
 			<link>https://gamebanana.com/mods/450372</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648c6cd4b2134.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449173</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64881f764266b.jpg"/>]]></description>
 			<pubDate>Sat, 10 Jun 2023 09:59:18 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ancient Depths Armor</title>
-			<link>https://gamebanana.com/mods/449125</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6483eff167227.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 03:46:19 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
