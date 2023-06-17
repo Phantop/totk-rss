@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Lipstick Link</title>
+			<link>https://gamebanana.com/mods/450519</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d2ce76fca1.jpg"/>]]></description>
+			<pubDate>Sat, 17 Jun 2023 03:57:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>Simplified Silver Lynel Horn Recolor</title>
+			<link>https://gamebanana.com/mods/450514</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d2a06f17ab.jpg"/>]]></description>
+			<pubDate>Sat, 17 Jun 2023 03:37:34 +0000</pubDate>
+		</item>
+		<item>
 			<title>Well Worn Hyrule Warrior Knight Arms</title>
 			<link>https://gamebanana.com/mods/450498</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d198bd4c9f.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/450440</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648cc862e0a3e.jpg"/>]]></description>
 			<pubDate>Fri, 16 Jun 2023 20:39:10 +0000</pubDate>
-		</item>
-		<item>
-			<title>Short OOT Hair</title>
-			<link>https://gamebanana.com/mods/450421</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648ca5825e755.jpg"/>]]></description>
-			<pubDate>Fri, 16 Jun 2023 18:10:46 +0000</pubDate>
-		</item>
-		<item>
-			<title>Short Hair</title>
-			<link>https://gamebanana.com/mods/450344</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648c383c86878.jpg"/>]]></description>
-			<pubDate>Fri, 16 Jun 2023 10:24:07 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
