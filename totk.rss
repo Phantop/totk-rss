@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Sage Helmet On</title>
+			<link>https://gamebanana.com/mods/450672</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e303a58bf8.jpg"/>]]></description>
+			<pubDate>Sat, 17 Jun 2023 22:15:25 +0000</pubDate>
+		</item>
+		<item>
 			<title>100 Percent</title>
 			<link>https://gamebanana.com/mods/450649</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e163e4eb85.jpg"/>]]></description>
@@ -11,7 +17,7 @@
 		<item>
 			<title>Unbreakable + Removed Toll Gloom Weapons</title>
 			<link>https://gamebanana.com/mods/450636</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e085d71e95.jpg"/>]]></description>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e372a6bc5f.jpg"/>]]></description>
 			<pubDate>Sat, 17 Jun 2023 19:27:38 +0000</pubDate>
 		</item>
 		<item>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450519</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d2ce76fca1.jpg"/>]]></description>
 			<pubDate>Sat, 17 Jun 2023 03:57:49 +0000</pubDate>
-		</item>
-		<item>
-			<title>Simplified Silver Lynel Horn Recolor</title>
-			<link>https://gamebanana.com/mods/450514</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d2a06f17ab.jpg"/>]]></description>
-			<pubDate>Sat, 17 Jun 2023 03:37:34 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
