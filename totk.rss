@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Majora&#039;s Mask with Skull Kid&#039;s hat</title>
+			<link>https://gamebanana.com/mods/450606</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648ddb1738a14.jpg"/>]]></description>
+			<pubDate>Sat, 17 Jun 2023 16:18:46 +0000</pubDate>
+		</item>
+		<item>
 			<title>Link&#039;s New Look</title>
 			<link>https://gamebanana.com/mods/450575</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d963fcaa08.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450487</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d09ae98ccc.jpg"/>]]></description>
 			<pubDate>Sat, 17 Jun 2023 01:23:03 +0000</pubDate>
-		</item>
-		<item>
-			<title>CLOSE YOUR MOUTH, LINK!</title>
-			<link>https://gamebanana.com/mods/450485</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d080dab962.jpg"/>]]></description>
-			<pubDate>Sat, 17 Jun 2023 01:13:20 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
