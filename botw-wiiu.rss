@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Get the bow of light EARLY</title>
+			<link>https://gamebanana.com/mods/450764</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648ef11bc1f7d.jpg"/>]]></description>
+			<pubDate>Sun, 18 Jun 2023 11:58:35 +0000</pubDate>
+		</item>
+		<item>
 			<title>Standalone Items Pack</title>
 			<link>https://gamebanana.com/mods/450694</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e5738259ba.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449475</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648601d90e07b.jpg"/>]]></description>
 			<pubDate>Sun, 11 Jun 2023 17:45:37 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ancient Set Skirt Removal [linkle 3]</title>
-			<link>https://gamebanana.com/mods/449285</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6484de0873970.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 20:33:42 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
