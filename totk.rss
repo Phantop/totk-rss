@@ -3,6 +3,24 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Rauru arm - No more green Sage rings</title>
+			<link>https://gamebanana.com/mods/450688</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e4ff2261ac.jpg"/>]]></description>
+			<pubDate>Sun, 18 Jun 2023 00:38:54 +0000</pubDate>
+		</item>
+		<item>
+			<title>Rusty and Pristine Phantom Armor</title>
+			<link>https://gamebanana.com/mods/450684</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e3be5049fe.jpg"/>]]></description>
+			<pubDate>Sat, 17 Jun 2023 23:59:10 +0000</pubDate>
+		</item>
+		<item>
+			<title>Alt. Blue/Green/Derpy Eyes</title>
+			<link>https://gamebanana.com/mods/450683</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e54b92f34a.jpg"/>]]></description>
+			<pubDate>Sat, 17 Jun 2023 23:57:30 +0000</pubDate>
+		</item>
+		<item>
 			<title>Sage Helmet On</title>
 			<link>https://gamebanana.com/mods/450672</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e303a58bf8.jpg"/>]]></description>
@@ -43,24 +61,6 @@
 			<link>https://gamebanana.com/mods/450575</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d963fcaa08.jpg"/>]]></description>
 			<pubDate>Sat, 17 Jun 2023 11:19:05 +0000</pubDate>
-		</item>
-		<item>
-			<title>No Ancient Blade extinction ability</title>
-			<link>https://gamebanana.com/mods/450542</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d57991ade6.jpg"/>]]></description>
-			<pubDate>Sat, 17 Jun 2023 07:02:10 +0000</pubDate>
-		</item>
-		<item>
-			<title>Better Chuchus</title>
-			<link>https://gamebanana.com/mods/450522</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d2dd606ed5.jpg"/>]]></description>
-			<pubDate>Sat, 17 Jun 2023 04:19:11 +0000</pubDate>
-		</item>
-		<item>
-			<title>Lipstick Link</title>
-			<link>https://gamebanana.com/mods/450519</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d2ce76fca1.jpg"/>]]></description>
-			<pubDate>Sat, 17 Jun 2023 03:57:49 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

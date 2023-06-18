@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Standalone Items Pack</title>
+			<link>https://gamebanana.com/mods/450694</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e5738259ba.jpg"/>]]></description>
+			<pubDate>Sun, 18 Jun 2023 01:08:23 +0000</pubDate>
+		</item>
+		<item>
 			<title>Captains Broadsword</title>
 			<link>https://gamebanana.com/mods/450491</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d1291d4edc.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449285</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6484de0873970.jpg"/>]]></description>
 			<pubDate>Sat, 10 Jun 2023 20:33:42 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ancient Depths Horse Armor</title>
-			<link>https://gamebanana.com/mods/449173</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64881f764266b.jpg"/>]]></description>
-			<pubDate>Sat, 10 Jun 2023 09:59:18 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
