@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Focused Eyes</title>
+			<link>https://gamebanana.com/mods/450877</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648f8dcad9b25.jpg"/>]]></description>
+			<pubDate>Sun, 18 Jun 2023 23:06:05 +0000</pubDate>
+		</item>
+		<item>
 			<title>Botw Sellprices for Gems</title>
 			<link>https://gamebanana.com/mods/450860</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648f6ede12124.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450684</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e3be5049fe.jpg"/>]]></description>
 			<pubDate>Sat, 17 Jun 2023 23:59:10 +0000</pubDate>
-		</item>
-		<item>
-			<title>Alt. Blue/Green/Derpy Eyes</title>
-			<link>https://gamebanana.com/mods/450683</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e54b92f34a.jpg"/>]]></description>
-			<pubDate>Sat, 17 Jun 2023 23:57:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
