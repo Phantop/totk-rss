@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Golden Champion&#039;s Leathers</title>
+			<link>https://gamebanana.com/mods/450702</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e65651c994.jpg"/>]]></description>
+			<pubDate>Sun, 18 Jun 2023 02:07:30 +0000</pubDate>
+		</item>
+		<item>
 			<title>Rauru arm - No more green Sage rings</title>
 			<link>https://gamebanana.com/mods/450688</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e4ff2261ac.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450606</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648ddb1738a14.jpg"/>]]></description>
 			<pubDate>Sat, 17 Jun 2023 16:18:46 +0000</pubDate>
-		</item>
-		<item>
-			<title>Link&#039;s New Look</title>
-			<link>https://gamebanana.com/mods/450575</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d963fcaa08.jpg"/>]]></description>
-			<pubDate>Sat, 17 Jun 2023 11:19:05 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
