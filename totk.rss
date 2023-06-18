@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>100% Save File</title>
+			<link>https://gamebanana.com/mods/450784</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648eff83f1fba.jpg"/>]]></description>
+			<pubDate>Sun, 18 Jun 2023 13:04:13 +0000</pubDate>
+		</item>
+		<item>
 			<title>Fierce Deity&#039;s Rebirth</title>
 			<link>https://gamebanana.com/mods/450767</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648ef59a4eb14.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450636</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e372a6bc5f.jpg"/>]]></description>
 			<pubDate>Sat, 17 Jun 2023 19:27:38 +0000</pubDate>
-		</item>
-		<item>
-			<title>Remove Challenge Icon</title>
-			<link>https://gamebanana.com/mods/450632</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e00e9cba21.jpg"/>]]></description>
-			<pubDate>Sat, 17 Jun 2023 18:55:51 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
