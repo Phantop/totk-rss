@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Delete Sword</title>
+			<link>https://gamebanana.com/mods/450969</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6490342fd0be4.jpg"/>]]></description>
+			<pubDate>Mon, 19 Jun 2023 10:56:38 +0000</pubDate>
+		</item>
+		<item>
 			<title>Get the bow of light EARLY</title>
 			<link>https://gamebanana.com/mods/450764</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648ef11bc1f7d.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/449584</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6486ba773f830.jpg"/>]]></description>
 			<pubDate>Mon, 12 Jun 2023 06:28:12 +0000</pubDate>
-		</item>
-		<item>
-			<title>Master Sword (Green)</title>
-			<link>https://gamebanana.com/mods/449475</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648601d90e07b.jpg"/>]]></description>
-			<pubDate>Sun, 11 Jun 2023 17:45:37 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
