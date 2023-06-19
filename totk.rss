@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>More Interesting Enemies v1.1.2</title>
+			<link>https://gamebanana.com/mods/450978</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64904a71d6266.jpg"/>]]></description>
+			<pubDate>Mon, 19 Jun 2023 12:38:16 +0000</pubDate>
+		</item>
+		<item>
 			<title>True Champions Leathers</title>
 			<link>https://gamebanana.com/mods/450947</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64900c98ab29a.jpg"/>]]></description>
@@ -23,7 +29,7 @@
 		<item>
 			<title>CerisaCo&#039;s Stronger Enemies</title>
 			<link>https://gamebanana.com/mods/450904</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648fbcd27fb67.jpg"/>]]></description>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64904e893675e.jpg"/>]]></description>
 			<pubDate>Mon, 19 Jun 2023 02:13:43 +0000</pubDate>
 		</item>
 		<item>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450784</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648eff83f1fba.jpg"/>]]></description>
 			<pubDate>Sun, 18 Jun 2023 13:04:13 +0000</pubDate>
-		</item>
-		<item>
-			<title>Fierce Deity&#039;s Rebirth</title>
-			<link>https://gamebanana.com/mods/450767</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648ef59a4eb14.jpg"/>]]></description>
-			<pubDate>Sun, 18 Jun 2023 12:20:55 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
