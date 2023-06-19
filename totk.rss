@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Skull Kid Outfit</title>
+			<link>https://gamebanana.com/mods/451010</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649086fa1cb9f.jpg"/>]]></description>
+			<pubDate>Mon, 19 Jun 2023 17:03:56 +0000</pubDate>
+		</item>
+		<item>
 			<title>Sheikah Techniques</title>
 			<link>https://gamebanana.com/mods/450989</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64905a3bad9a9.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450851</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648f6817301a6.jpg"/>]]></description>
 			<pubDate>Sun, 18 Jun 2023 20:34:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Invisible Attachments Shop</title>
-			<link>https://gamebanana.com/mods/450826</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648f470c88f7c.jpg"/>]]></description>
-			<pubDate>Sun, 18 Jun 2023 18:31:27 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
