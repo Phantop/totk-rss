@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>True Champions Leathers</title>
+			<link>https://gamebanana.com/mods/450947</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64900c98ab29a.jpg"/>]]></description>
+			<pubDate>Mon, 19 Jun 2023 08:16:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>Truly Divine Helmets</title>
+			<link>https://gamebanana.com/mods/450945</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6490057ad7982.jpg"/>]]></description>
+			<pubDate>Mon, 19 Jun 2023 07:57:16 +0000</pubDate>
+		</item>
+		<item>
 			<title>Hero&#039;s Coat (DragonQuest VIII)</title>
 			<link>https://gamebanana.com/mods/450926</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648fdbab8a1aa.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/450767</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648ef59a4eb14.jpg"/>]]></description>
 			<pubDate>Sun, 18 Jun 2023 12:20:55 +0000</pubDate>
-		</item>
-		<item>
-			<title>Cute Bokoblins</title>
-			<link>https://gamebanana.com/mods/450727</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648ee63466d76.jpg"/>]]></description>
-			<pubDate>Sun, 18 Jun 2023 05:24:43 +0000</pubDate>
-		</item>
-		<item>
-			<title>Golden Champion&#039;s Leathers</title>
-			<link>https://gamebanana.com/mods/450702</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e65651c994.jpg"/>]]></description>
-			<pubDate>Sun, 18 Jun 2023 02:07:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
