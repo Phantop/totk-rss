@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>CerisaCo&#039;s Stronger Enemies</title>
+			<link>https://gamebanana.com/mods/450904</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648fbcd27fb67.jpg"/>]]></description>
+			<pubDate>Mon, 19 Jun 2023 02:13:43 +0000</pubDate>
+		</item>
+		<item>
 			<title>Focused Eyes</title>
 			<link>https://gamebanana.com/mods/450877</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648f8dcad9b25.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450688</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e4ff2261ac.jpg"/>]]></description>
 			<pubDate>Sun, 18 Jun 2023 00:38:54 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rusty and Pristine Phantom Armor</title>
-			<link>https://gamebanana.com/mods/450684</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e3be5049fe.jpg"/>]]></description>
-			<pubDate>Sat, 17 Jun 2023 23:59:10 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
