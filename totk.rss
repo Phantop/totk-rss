@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Hero&#039;s Coat (DragonQuest VIII)</title>
+			<link>https://gamebanana.com/mods/450926</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648fdbab8a1aa.jpg"/>]]></description>
+			<pubDate>Mon, 19 Jun 2023 04:40:12 +0000</pubDate>
+		</item>
+		<item>
 			<title>CerisaCo&#039;s Stronger Enemies</title>
 			<link>https://gamebanana.com/mods/450904</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648fbcd27fb67.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450702</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e65651c994.jpg"/>]]></description>
 			<pubDate>Sun, 18 Jun 2023 02:07:30 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rauru arm - No more green Sage rings</title>
-			<link>https://gamebanana.com/mods/450688</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648e4ff2261ac.jpg"/>]]></description>
-			<pubDate>Sun, 18 Jun 2023 00:38:54 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
