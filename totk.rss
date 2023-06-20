@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Truly Divine Jewelry</title>
+			<link>https://gamebanana.com/mods/451162</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64914459d4859.jpg"/>]]></description>
+			<pubDate>Tue, 20 Jun 2023 06:21:09 +0000</pubDate>
+		</item>
+		<item>
 			<title>New Archaic Colors</title>
 			<link>https://gamebanana.com/mods/451134</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649124b4712ed.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450947</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64900c98ab29a.jpg"/>]]></description>
 			<pubDate>Mon, 19 Jun 2023 08:16:44 +0000</pubDate>
-		</item>
-		<item>
-			<title>Truly Divine Helmets</title>
-			<link>https://gamebanana.com/mods/450945</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6490057ad7982.jpg"/>]]></description>
-			<pubDate>Mon, 19 Jun 2023 07:57:16 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
