@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Matching Hylian Hood</title>
+			<link>https://gamebanana.com/mods/451227</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6491d55be1b87.jpg"/>]]></description>
+			<pubDate>Tue, 20 Jun 2023 16:55:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>The Hero&#039;s Bow</title>
+			<link>https://gamebanana.com/mods/451221</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6491d10e17e61.jpg"/>]]></description>
+			<pubDate>Tue, 20 Jun 2023 16:18:49 +0000</pubDate>
+		</item>
+		<item>
 			<title>Celestial Master Sword</title>
 			<link>https://gamebanana.com/mods/451189</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6491864f36cf5.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/451090</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6490e5ea3e8c7.jpg"/>]]></description>
 			<pubDate>Mon, 19 Jun 2023 23:34:56 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rebalanced scaling &amp; Modifiers</title>
-			<link>https://gamebanana.com/mods/451077</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6490d16ae5830.jpg"/>]]></description>
-			<pubDate>Mon, 19 Jun 2023 22:20:25 +0000</pubDate>
-		</item>
-		<item>
-			<title>Amiibo Summons Bokoblin Party</title>
-			<link>https://gamebanana.com/mods/451027</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6490905b99d76.jpg"/>]]></description>
-			<pubDate>Mon, 19 Jun 2023 18:40:21 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
