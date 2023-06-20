@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>[REQUEST] Green Tunic of Memories</title>
+			<link>https://gamebanana.com/mods/451274</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6492214fa99a9.jpg"/>]]></description>
+			<pubDate>Tue, 20 Jun 2023 21:59:57 +0000</pubDate>
+		</item>
+		<item>
 			<title>Downfall Tunic of the Wild</title>
 			<link>https://gamebanana.com/mods/451254</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6492068a71da4.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451134</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649124b4712ed.jpg"/>]]></description>
 			<pubDate>Tue, 20 Jun 2023 04:03:31 +0000</pubDate>
-		</item>
-		<item>
-			<title>Champion&#039;s Leathers Recolor Pack</title>
-			<link>https://gamebanana.com/mods/451132</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6491e91cd9196.jpg"/>]]></description>
-			<pubDate>Tue, 20 Jun 2023 04:00:41 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
