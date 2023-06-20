@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>New Archaic Colors</title>
+			<link>https://gamebanana.com/mods/451134</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649124b4712ed.jpg"/>]]></description>
+			<pubDate>Tue, 20 Jun 2023 04:03:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>Champion&#039;s Leathers Recolor Pack</title>
+			<link>https://gamebanana.com/mods/451132</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649122371c885.jpg"/>]]></description>
+			<pubDate>Tue, 20 Jun 2023 04:00:41 +0000</pubDate>
+		</item>
+		<item>
 			<title>Rico&#039;s Custom Assassin Creed Attire</title>
 			<link>https://gamebanana.com/mods/451090</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6490e5ea3e8c7.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/450945</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6490057ad7982.jpg"/>]]></description>
 			<pubDate>Mon, 19 Jun 2023 07:57:16 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hero&#039;s Coat (DragonQuest VIII)</title>
-			<link>https://gamebanana.com/mods/450926</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648fdbab8a1aa.jpg"/>]]></description>
-			<pubDate>Mon, 19 Jun 2023 04:40:12 +0000</pubDate>
-		</item>
-		<item>
-			<title>CerisaCo&#039;s Stronger Enemies</title>
-			<link>https://gamebanana.com/mods/450904</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64904e893675e.jpg"/>]]></description>
-			<pubDate>Mon, 19 Jun 2023 02:13:43 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
