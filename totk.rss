@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>BenthovenMusic Mod</title>
+			<link>https://gamebanana.com/mods/451441</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649359ba0f211.jpg"/>]]></description>
+			<pubDate>Wed, 21 Jun 2023 20:14:11 +0000</pubDate>
+		</item>
+		<item>
 			<title>Soldier&#039;s Helmet Redesign</title>
 			<link>https://gamebanana.com/mods/451392</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6492f8c606d64.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451180</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6491747f0bcb7.jpg"/>]]></description>
 			<pubDate>Tue, 20 Jun 2023 09:43:37 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ultra Green Hand</title>
-			<link>https://gamebanana.com/mods/451175</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649190a9aac3c.jpg"/>]]></description>
-			<pubDate>Tue, 20 Jun 2023 09:05:21 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
