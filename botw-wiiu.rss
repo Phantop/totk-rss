@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Linkle Cap of the Hero: Simple Ponytail Replacer</title>
+			<link>https://gamebanana.com/mods/451411</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6493337fa5d3f.jpg"/>]]></description>
+			<pubDate>Wed, 21 Jun 2023 17:34:19 +0000</pubDate>
+		</item>
+		<item>
 			<title>Link&#039;s Flying Machine</title>
 			<link>https://gamebanana.com/mods/451241</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6491f7440e174.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450243</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648b67f50e8ae.jpg"/>]]></description>
 			<pubDate>Thu, 15 Jun 2023 19:36:53 +0000</pubDate>
-		</item>
-		<item>
-			<title>Hylian Shield (Green)</title>
-			<link>https://gamebanana.com/mods/449659</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64875eb77cacd.jpg"/>]]></description>
-			<pubDate>Mon, 12 Jun 2023 18:13:25 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
