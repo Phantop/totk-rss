@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>[LINKLE] Rosalina&#039;s Quest (Cosplay)</title>
+			<link>https://gamebanana.com/mods/451372</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6492c2452cb5e.jpg"/>]]></description>
+			<pubDate>Wed, 21 Jun 2023 09:30:29 +0000</pubDate>
+		</item>
+		<item>
 			<title>Project Zero 2</title>
 			<link>https://gamebanana.com/mods/449919</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648928f532661.jpg"/>]]></description>
@@ -49,12 +55,6 @@
 			<link>https://gamebanana.com/mods/445890</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64706b5282f3f.jpg"/>]]></description>
 			<pubDate>Fri, 26 May 2023 08:28:32 +0000</pubDate>
-		</item>
-		<item>
-			<title>Wind Waker Weapon - Standalone</title>
-			<link>https://gamebanana.com/mods/445802</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/646fce1ac42c9.jpg"/>]]></description>
-			<pubDate>Thu, 25 May 2023 21:38:34 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
