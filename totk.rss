@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>New Mystic Top</title>
+			<link>https://gamebanana.com/mods/451336</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649281e99c7c1.jpg"/>]]></description>
+			<pubDate>Wed, 21 Jun 2023 04:52:33 +0000</pubDate>
+		</item>
+		<item>
 			<title>Glide Mask - Flipped up</title>
 			<link>https://gamebanana.com/mods/451306</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649248dc084ea.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451171</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64925649cf106.jpg"/>]]></description>
 			<pubDate>Tue, 20 Jun 2023 08:11:04 +0000</pubDate>
-		</item>
-		<item>
-			<title>Truly Divine Jewelry</title>
-			<link>https://gamebanana.com/mods/451162</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64914459d4859.jpg"/>]]></description>
-			<pubDate>Tue, 20 Jun 2023 06:21:09 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
