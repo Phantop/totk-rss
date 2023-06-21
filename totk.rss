@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Soldier&#039;s Helmet Redesign</title>
+			<link>https://gamebanana.com/mods/451392</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6492f8c606d64.jpg"/>]]></description>
+			<pubDate>Wed, 21 Jun 2023 13:19:41 +0000</pubDate>
+		</item>
+		<item>
 			<title>New Mystic Top</title>
 			<link>https://gamebanana.com/mods/451336</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649281e99c7c1.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451175</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649190a9aac3c.jpg"/>]]></description>
 			<pubDate>Tue, 20 Jun 2023 09:05:21 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rinkuru (Rico&#039;s Linkette V2.6)</title>
-			<link>https://gamebanana.com/mods/451171</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64925649cf106.jpg"/>]]></description>
-			<pubDate>Tue, 20 Jun 2023 08:11:04 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
