@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Improved Resized Royal Shields</title>
+			<link>https://gamebanana.com/mods/451479</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6493994bc6444.jpg"/>]]></description>
+			<pubDate>Thu, 22 Jun 2023 00:50:09 +0000</pubDate>
+		</item>
+		<item>
+			<title>Zelda TotK VR mix</title>
+			<link>https://gamebanana.com/mods/451471</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64938777132fa.jpg"/>]]></description>
+			<pubDate>Wed, 21 Jun 2023 23:34:26 +0000</pubDate>
+		</item>
+		<item>
 			<title>Aged Up Finley (TotK)</title>
 			<link>https://gamebanana.com/mods/451456</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6493792c0ca3a.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/451227</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6491d55be1b87.jpg"/>]]></description>
 			<pubDate>Tue, 20 Jun 2023 16:55:44 +0000</pubDate>
-		</item>
-		<item>
-			<title>The Hero&#039;s Bow</title>
-			<link>https://gamebanana.com/mods/451221</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6491d10e17e61.jpg"/>]]></description>
-			<pubDate>Tue, 20 Jun 2023 16:18:49 +0000</pubDate>
-		</item>
-		<item>
-			<title>Celestial Master Sword</title>
-			<link>https://gamebanana.com/mods/451189</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6491864f36cf5.jpg"/>]]></description>
-			<pubDate>Tue, 20 Jun 2023 11:23:38 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
