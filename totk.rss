@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>save file with op loot in the beginning</title>
+			<link>https://gamebanana.com/mods/451519</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6493fbc807c76.jpg"/>]]></description>
+			<pubDate>Thu, 22 Jun 2023 07:45:36 +0000</pubDate>
+		</item>
+		<item>
 			<title>[NPC] Purah Kokoro Kimono (cosplay)</title>
 			<link>https://gamebanana.com/mods/451508</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6493d7945a74f.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451274</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64922d156bb65.jpg"/>]]></description>
 			<pubDate>Tue, 20 Jun 2023 21:59:57 +0000</pubDate>
-		</item>
-		<item>
-			<title>Downfall Tunic of the Wild</title>
-			<link>https://gamebanana.com/mods/451254</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6492068a71da4.jpg"/>]]></description>
-			<pubDate>Tue, 20 Jun 2023 20:09:23 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
