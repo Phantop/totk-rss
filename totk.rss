@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Promotional Champion&#039;s Leathers</title>
+			<link>https://gamebanana.com/mods/451537</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649445cc7b714.jpg"/>]]></description>
+			<pubDate>Thu, 22 Jun 2023 13:04:25 +0000</pubDate>
+		</item>
+		<item>
 			<title>save file with op loot in the beginning</title>
 			<link>https://gamebanana.com/mods/451519</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6493fbc807c76.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451306</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649248dc084ea.jpg"/>]]></description>
 			<pubDate>Wed, 21 Jun 2023 00:55:13 +0000</pubDate>
-		</item>
-		<item>
-			<title>[REQUEST] Green Tunic of Memories</title>
-			<link>https://gamebanana.com/mods/451274</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64922d156bb65.jpg"/>]]></description>
-			<pubDate>Tue, 20 Jun 2023 21:59:57 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
