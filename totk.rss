@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Archaic Cap</title>
+			<link>https://gamebanana.com/mods/451617</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6494afe2a93e5.jpg"/>]]></description>
+			<pubDate>Thu, 22 Jun 2023 20:35:27 +0000</pubDate>
+		</item>
+		<item>
 			<title>Promotional Champion&#039;s Leathers</title>
 			<link>https://gamebanana.com/mods/451537</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649445cc7b714.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451336</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649281e99c7c1.jpg"/>]]></description>
 			<pubDate>Wed, 21 Jun 2023 04:52:33 +0000</pubDate>
-		</item>
-		<item>
-			<title>Glide Mask - Flipped up</title>
-			<link>https://gamebanana.com/mods/451306</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649248dc084ea.jpg"/>]]></description>
-			<pubDate>Wed, 21 Jun 2023 00:55:13 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
