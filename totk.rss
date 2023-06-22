@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>[NPC] Purah Kokoro Kimono (cosplay)</title>
+			<link>https://gamebanana.com/mods/451508</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6493d7945a74f.jpg"/>]]></description>
+			<pubDate>Thu, 22 Jun 2023 05:18:27 +0000</pubDate>
+		</item>
+		<item>
 			<title>Improved Resized Royal Shields</title>
 			<link>https://gamebanana.com/mods/451479</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6493994bc6444.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451254</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6492068a71da4.jpg"/>]]></description>
 			<pubDate>Tue, 20 Jun 2023 20:09:23 +0000</pubDate>
-		</item>
-		<item>
-			<title>Matching Hylian Hood</title>
-			<link>https://gamebanana.com/mods/451227</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6491d55be1b87.jpg"/>]]></description>
-			<pubDate>Tue, 20 Jun 2023 16:55:44 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
