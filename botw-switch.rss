@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Pink Master Sword Glow</title>
+			<link>https://gamebanana.com/mods/451774</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6495c092cfd2a.jpg"/>]]></description>
+			<pubDate>Fri, 23 Jun 2023 16:38:51 +0000</pubDate>
+		</item>
+		<item>
 			<title>Linkle&#039;s Wild Set Revisited_NX</title>
 			<link>https://gamebanana.com/mods/451507</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6493d5f51fef8.jpg"/>]]></description>
@@ -49,12 +55,6 @@
 			<link>https://gamebanana.com/mods/447221</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647806e38d0c2.jpg"/>]]></description>
 			<pubDate>Thu, 01 Jun 2023 02:48:37 +0000</pubDate>
-		</item>
-		<item>
-			<title>Street Smart Jeanne Outfit for Linkle</title>
-			<link>https://gamebanana.com/mods/446186</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64722b9334ca0.jpg"/>]]></description>
-			<pubDate>Sat, 27 May 2023 16:25:20 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
