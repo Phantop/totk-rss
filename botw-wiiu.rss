@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Shimamura Yu Voice for Zelda (Japanese Voice Pack)</title>
+			<link>https://gamebanana.com/mods/451649</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6494e202b6aa4.jpg"/>]]></description>
+			<pubDate>Thu, 22 Jun 2023 23:53:34 +0000</pubDate>
+		</item>
+		<item>
 			<title>Project Zero 2 UAR Patch</title>
 			<link>https://gamebanana.com/mods/451632</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6494c21fcaeb4.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/450694</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64947d4746eea.jpg"/>]]></description>
 			<pubDate>Sun, 18 Jun 2023 01:08:23 +0000</pubDate>
-		</item>
-		<item>
-			<title>Captains Broadsword</title>
-			<link>https://gamebanana.com/mods/450491</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/648d1291d4edc.jpg"/>]]></description>
-			<pubDate>Sat, 17 Jun 2023 01:55:53 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
