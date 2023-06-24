@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Rebalanced Hero Outfits</title>
+			<link>https://gamebanana.com/mods/452026</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64971e98d7ffd.jpg"/>]]></description>
+			<pubDate>Sat, 24 Jun 2023 20:12:00 +0000</pubDate>
+		</item>
+		<item>
 			<title>Gerudo Warrior Ganondorf</title>
 			<link>https://gamebanana.com/mods/452012</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64973e594ecde.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451642</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6494d3738cdc6.jpg"/>]]></description>
 			<pubDate>Thu, 22 Jun 2023 23:08:18 +0000</pubDate>
-		</item>
-		<item>
-			<title>Archaic Cap</title>
-			<link>https://gamebanana.com/mods/451617</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6494afe2a93e5.jpg"/>]]></description>
-			<pubDate>Thu, 22 Jun 2023 20:35:27 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
