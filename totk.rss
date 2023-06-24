@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>16:10 Aspect Ratio (Steam Deck)</title>
+			<link>https://gamebanana.com/mods/451846</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649628bd1b297.jpg"/>]]></description>
+			<pubDate>Fri, 23 Jun 2023 23:23:58 +0000</pubDate>
+		</item>
+		<item>
 			<title>Dangerous 2 Go Alone: The Vagrant&#039;s Sword</title>
 			<link>https://gamebanana.com/mods/451802</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6495f150b7ed3.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451508</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64947fc808a0e.jpg"/>]]></description>
 			<pubDate>Thu, 22 Jun 2023 05:18:27 +0000</pubDate>
-		</item>
-		<item>
-			<title>Improved Resized Royal Shields</title>
-			<link>https://gamebanana.com/mods/451479</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6493994bc6444.jpg"/>]]></description>
-			<pubDate>Thu, 22 Jun 2023 00:50:09 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
