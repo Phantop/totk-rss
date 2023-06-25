@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Unbreakable Tree Branch</title>
+			<link>https://gamebanana.com/mods/452121</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649800e403958.jpg"/>]]></description>
+			<pubDate>Sun, 25 Jun 2023 08:55:37 +0000</pubDate>
+		</item>
+		<item>
 			<title>No Tutorial Pop-Ups</title>
 			<link>https://gamebanana.com/mods/452104</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6497ced9d27e3.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452060</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6497833b478c3.jpg"/>]]></description>
 			<pubDate>Sun, 25 Jun 2023 00:07:10 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rebalanced Hero Outfits</title>
-			<link>https://gamebanana.com/mods/452026</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64971e98d7ffd.jpg"/>]]></description>
-			<pubDate>Sat, 24 Jun 2023 20:12:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
