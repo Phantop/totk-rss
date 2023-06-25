@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>No Tutorial Pop-Ups</title>
+			<link>https://gamebanana.com/mods/452104</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6497ced9d27e3.jpg"/>]]></description>
+			<pubDate>Sun, 25 Jun 2023 05:27:39 +0000</pubDate>
+		</item>
+		<item>
 			<title>Skip Any Cutscene</title>
 			<link>https://gamebanana.com/mods/452100</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6497c90417540.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452026</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64971e98d7ffd.jpg"/>]]></description>
 			<pubDate>Sat, 24 Jun 2023 20:12:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gerudo Warrior Ganondorf</title>
-			<link>https://gamebanana.com/mods/452012</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64973e594ecde.jpg"/>]]></description>
-			<pubDate>Sat, 24 Jun 2023 19:06:39 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
