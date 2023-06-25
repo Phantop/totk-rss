@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Chainmail of the Wild - Tunic and Cap Retexture</title>
+			<link>https://gamebanana.com/mods/452079</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6497a65f1d444.jpg"/>]]></description>
+			<pubDate>Sun, 25 Jun 2023 02:30:50 +0000</pubDate>
+		</item>
+		<item>
 			<title>Dangerous 2 Go Alone: The First Gadget</title>
 			<link>https://gamebanana.com/mods/452070</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649794820dde9.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451738</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64959f9b39785.jpg"/>]]></description>
 			<pubDate>Fri, 23 Jun 2023 13:48:53 +0000</pubDate>
-		</item>
-		<item>
-			<title>Champion Weapon Repair and Modification</title>
-			<link>https://gamebanana.com/mods/451659</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6494ecf271958.jpg"/>]]></description>
-			<pubDate>Fri, 23 Jun 2023 00:53:44 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
