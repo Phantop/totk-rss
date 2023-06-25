@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Lavaimp&#039;s Autocollection Pack</title>
+			<link>https://gamebanana.com/mods/452186</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649870a9e8838.jpg"/>]]></description>
+			<pubDate>Sun, 25 Jun 2023 16:53:09 +0000</pubDate>
+		</item>
+		<item>
 			<title>Wolf Link</title>
 			<link>https://gamebanana.com/mods/452172</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649858cfefb62.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452088</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6497b14f7c969.jpg"/>]]></description>
 			<pubDate>Sun, 25 Jun 2023 03:29:58 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gloom to Miasma</title>
-			<link>https://gamebanana.com/mods/452087</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6497b383dab0c.jpg"/>]]></description>
-			<pubDate>Sun, 25 Jun 2023 03:25:59 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
