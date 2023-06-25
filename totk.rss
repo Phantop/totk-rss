@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Model Edit - Silver Bokoblin Horn</title>
+			<link>https://gamebanana.com/mods/452163</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64984886bc348.jpg"/>]]></description>
+			<pubDate>Sun, 25 Jun 2023 14:08:35 +0000</pubDate>
+		</item>
+		<item>
 			<title>[SotK] Scimitar of the Twilight Standalone</title>
 			<link>https://gamebanana.com/mods/452132</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6498141aa6cac.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452070</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649794820dde9.jpg"/>]]></description>
 			<pubDate>Sun, 25 Jun 2023 01:13:14 +0000</pubDate>
-		</item>
-		<item>
-			<title>Pocket Wheel</title>
-			<link>https://gamebanana.com/mods/452060</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6497833b478c3.jpg"/>]]></description>
-			<pubDate>Sun, 25 Jun 2023 00:07:10 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
