@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Zelda-centric Loading Screen</title>
+			<link>https://gamebanana.com/mods/452165</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64984c4a2863b.jpg"/>]]></description>
+			<pubDate>Sun, 25 Jun 2023 14:30:29 +0000</pubDate>
+		</item>
+		<item>
 			<title>Model Edit - Silver Bokoblin Horn</title>
 			<link>https://gamebanana.com/mods/452163</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64984886bc348.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452079</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6497a65f1d444.jpg"/>]]></description>
 			<pubDate>Sun, 25 Jun 2023 02:30:50 +0000</pubDate>
-		</item>
-		<item>
-			<title>Dangerous 2 Go Alone: The First Gadget</title>
-			<link>https://gamebanana.com/mods/452070</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649794820dde9.jpg"/>]]></description>
-			<pubDate>Sun, 25 Jun 2023 01:13:14 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
