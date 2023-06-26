@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Zonaite Helm - Flipped up</title>
+			<link>https://gamebanana.com/mods/452314</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6498f5ea294bf.jpg"/>]]></description>
+			<pubDate>Mon, 26 Jun 2023 02:24:20 +0000</pubDate>
+		</item>
+		<item>
 			<title>Lavaimp&#039;s Autocollection Pack</title>
 			<link>https://gamebanana.com/mods/452186</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649870a9e8838.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452094</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6497bdbc52996.jpg"/>]]></description>
 			<pubDate>Sun, 25 Jun 2023 04:12:41 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ganondorf&#039;s Demise Sword</title>
-			<link>https://gamebanana.com/mods/452088</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6497b14f7c969.jpg"/>]]></description>
-			<pubDate>Sun, 25 Jun 2023 03:29:58 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
