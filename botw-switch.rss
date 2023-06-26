@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Shimamura Yu Voice for Zelda NX (Japanese Voice)</title>
+			<link>https://gamebanana.com/mods/452293</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6498dd753ebe2.jpg"/>]]></description>
+			<pubDate>Mon, 26 Jun 2023 00:39:32 +0000</pubDate>
+		</item>
+		<item>
 			<title>Ancient Armor Redesign NX</title>
 			<link>https://gamebanana.com/mods/452123</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649802cd9ef4d.jpg"/>]]></description>
@@ -49,12 +55,6 @@
 			<link>https://gamebanana.com/mods/448012</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647c8c502470d.jpg"/>]]></description>
 			<pubDate>Sun, 04 Jun 2023 13:06:55 +0000</pubDate>
-		</item>
-		<item>
-			<title>Heartless</title>
-			<link>https://gamebanana.com/mods/447658</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/647a7e8c4acce.jpg"/>]]></description>
-			<pubDate>Fri, 02 Jun 2023 23:54:53 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
