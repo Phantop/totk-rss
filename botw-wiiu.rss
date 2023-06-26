@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>T-Shirt &amp; Thicc Boots</title>
+			<link>https://gamebanana.com/mods/452434</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6499dedea57d8.jpg"/>]]></description>
+			<pubDate>Mon, 26 Jun 2023 18:58:54 +0000</pubDate>
+		</item>
+		<item>
 			<title>R.A.S.S. (Random “Animal Spawner” Spawner)</title>
 			<link>https://gamebanana.com/mods/452004</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6497367bcf0b5.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451040</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6490aeb7983a3.jpg"/>]]></description>
 			<pubDate>Mon, 19 Jun 2023 19:37:13 +0000</pubDate>
-		</item>
-		<item>
-			<title>Delete Sword</title>
-			<link>https://gamebanana.com/mods/450969</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6490342fd0be4.jpg"/>]]></description>
-			<pubDate>Mon, 19 Jun 2023 10:56:38 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
