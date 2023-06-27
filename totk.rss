@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Ancient Divine Helms</title>
+			<link>https://gamebanana.com/mods/452561</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649aa0e41bee6.jpg"/>]]></description>
+			<pubDate>Tue, 27 Jun 2023 08:50:37 +0000</pubDate>
+		</item>
+		<item>
 			<title>Gilded Night - ZERO</title>
 			<link>https://gamebanana.com/mods/452548</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649a6a04cb20c.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452336</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64992122d653f.jpg"/>]]></description>
 			<pubDate>Mon, 26 Jun 2023 04:19:30 +0000</pubDate>
-		</item>
-		<item>
-			<title>Zonaite Helm - Flipped up</title>
-			<link>https://gamebanana.com/mods/452314</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6498f5ea294bf.jpg"/>]]></description>
-			<pubDate>Mon, 26 Jun 2023 02:24:20 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
