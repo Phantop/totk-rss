@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Horse upgrade without food</title>
+			<link>https://gamebanana.com/mods/452667</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649b447951c85.jpg"/>]]></description>
+			<pubDate>Tue, 27 Jun 2023 20:20:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>Horse upgrade without food</title>
+			<link>https://gamebanana.com/mods/452665</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649b43ffabce9.jpg"/>]]></description>
+			<pubDate>Tue, 27 Jun 2023 20:18:32 +0000</pubDate>
+		</item>
+		<item>
 			<title>Kingdom Key Replace Sea-Breeze Boomerang</title>
 			<link>https://gamebanana.com/mods/452607</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649aeaa0a3156.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/452352</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6499307f558af.jpg"/>]]></description>
 			<pubDate>Mon, 26 Jun 2023 06:31:04 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ancient Sage&#039;s Leathers</title>
-			<link>https://gamebanana.com/mods/452351</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64992f24a69a9.jpg"/>]]></description>
-			<pubDate>Mon, 26 Jun 2023 06:27:08 +0000</pubDate>
-		</item>
-		<item>
-			<title>No Item Sparkles</title>
-			<link>https://gamebanana.com/mods/452340</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6499159e80e19.jpg"/>]]></description>
-			<pubDate>Mon, 26 Jun 2023 04:45:16 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

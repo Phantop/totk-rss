@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>CHAoOS: Windblight Replace Squirrel</title>
+			<link>https://gamebanana.com/mods/452668</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649b448fc8e40.jpg"/>]]></description>
+			<pubDate>Tue, 27 Jun 2023 20:22:58 +0000</pubDate>
+		</item>
+		<item>
 			<title>DOOM Eternal Crucible [Standalone]</title>
 			<link>https://gamebanana.com/mods/452444</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6499e822458f3.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451241</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6491f7440e174.jpg"/>]]></description>
 			<pubDate>Tue, 20 Jun 2023 19:00:34 +0000</pubDate>
-		</item>
-		<item>
-			<title>T-Shirt W/THICC Black leggings</title>
-			<link>https://gamebanana.com/mods/451144</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649130c04fae0.jpg"/>]]></description>
-			<pubDate>Tue, 20 Jun 2023 04:51:58 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
