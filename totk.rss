@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Kingdom Key Replace Sea-Breeze Boomerang</title>
+			<link>https://gamebanana.com/mods/452607</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649aeaa0a3156.jpg"/>]]></description>
+			<pubDate>Tue, 27 Jun 2023 13:57:52 +0000</pubDate>
+		</item>
+		<item>
 			<title>Ancient Divine Helms</title>
 			<link>https://gamebanana.com/mods/452561</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649aa0e41bee6.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452340</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6499159e80e19.jpg"/>]]></description>
 			<pubDate>Mon, 26 Jun 2023 04:45:16 +0000</pubDate>
-		</item>
-		<item>
-			<title>Tears of The Kingdom First Person +</title>
-			<link>https://gamebanana.com/mods/452336</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64992122d653f.jpg"/>]]></description>
-			<pubDate>Mon, 26 Jun 2023 04:19:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
