@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>MsgFound - A Glitched Master Sword Fix</title>
+			<link>https://gamebanana.com/mods/452534</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649a52c8dcae5.jpg"/>]]></description>
+			<pubDate>Tue, 27 Jun 2023 03:08:06 +0000</pubDate>
+		</item>
+		<item>
 			<title>Instant Sky Rubble</title>
 			<link>https://gamebanana.com/mods/452501</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649a2110ef381.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452186</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649870a9e8838.jpg"/>]]></description>
 			<pubDate>Sun, 25 Jun 2023 16:53:09 +0000</pubDate>
-		</item>
-		<item>
-			<title>Wolf Link</title>
-			<link>https://gamebanana.com/mods/452172</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649883b86f514.jpg"/>]]></description>
-			<pubDate>Sun, 25 Jun 2023 15:28:47 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
