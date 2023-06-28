@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Hero&#039;s Bow texture for Traveler&#039;s Bow</title>
+			<link>https://gamebanana.com/mods/452867</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649c9ec9b4d04.jpg"/>]]></description>
+			<pubDate>Wed, 28 Jun 2023 20:56:39 +0000</pubDate>
+		</item>
+		<item>
 			<title>[SotK] Zonai Replica Standalone</title>
 			<link>https://gamebanana.com/mods/452788</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649bfaa103b17.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452501</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649a2110ef381.jpg"/>]]></description>
 			<pubDate>Mon, 26 Jun 2023 23:46:40 +0000</pubDate>
-		</item>
-		<item>
-			<title>Eightfold Longerblade</title>
-			<link>https://gamebanana.com/mods/452396</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6499a4c8ccdf5.jpg"/>]]></description>
-			<pubDate>Mon, 26 Jun 2023 14:47:15 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
