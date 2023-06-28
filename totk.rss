@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>[SotK] Zonai Replica Standalone</title>
+			<link>https://gamebanana.com/mods/452788</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649bfaa103b17.jpg"/>]]></description>
+			<pubDate>Wed, 28 Jun 2023 09:15:31 +0000</pubDate>
+		</item>
+		<item>
 			<title>Elemental Armors Always Glow</title>
 			<link>https://gamebanana.com/mods/452758</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649bc9f405b25.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452396</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6499a4c8ccdf5.jpg"/>]]></description>
 			<pubDate>Mon, 26 Jun 2023 14:47:15 +0000</pubDate>
-		</item>
-		<item>
-			<title>Celestial Hylian Shield</title>
-			<link>https://gamebanana.com/mods/452366</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64995d4d569fe.jpg"/>]]></description>
-			<pubDate>Mon, 26 Jun 2023 09:41:43 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
