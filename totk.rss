@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Short Twilight Hair</title>
+			<link>https://gamebanana.com/mods/452876</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649ca9871855d.jpg"/>]]></description>
+			<pubDate>Wed, 28 Jun 2023 21:44:26 +0000</pubDate>
+		</item>
+		<item>
 			<title>Hero&#039;s Bow texture for Traveler&#039;s Bow</title>
 			<link>https://gamebanana.com/mods/452867</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649c9ec9b4d04.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452534</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649a52c8dcae5.jpg"/>]]></description>
 			<pubDate>Tue, 27 Jun 2023 03:08:06 +0000</pubDate>
-		</item>
-		<item>
-			<title>Instant Sky Rubble</title>
-			<link>https://gamebanana.com/mods/452501</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649a2110ef381.jpg"/>]]></description>
-			<pubDate>Mon, 26 Jun 2023 23:46:40 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
