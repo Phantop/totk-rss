@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Elemental Armors Always Glow</title>
+			<link>https://gamebanana.com/mods/452758</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649bc9f405b25.jpg"/>]]></description>
+			<pubDate>Wed, 28 Jun 2023 05:50:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>MsgNotFound of the Sky</title>
+			<link>https://gamebanana.com/mods/452752</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649bbe0ce1560.jpg"/>]]></description>
+			<pubDate>Wed, 28 Jun 2023 05:17:35 +0000</pubDate>
+		</item>
+		<item>
 			<title>Horse upgrade without food</title>
 			<link>https://gamebanana.com/mods/452667</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649b447951c85.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/452366</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64995d4d569fe.jpg"/>]]></description>
 			<pubDate>Mon, 26 Jun 2023 09:41:43 +0000</pubDate>
-		</item>
-		<item>
-			<title>Better hair color for rinkuru</title>
-			<link>https://gamebanana.com/mods/452352</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6499307f558af.jpg"/>]]></description>
-			<pubDate>Mon, 26 Jun 2023 06:31:04 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ancient Sage&#039;s Leathers</title>
-			<link>https://gamebanana.com/mods/452351</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64992f24a69a9.jpg"/>]]></description>
-			<pubDate>Mon, 26 Jun 2023 06:27:08 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
