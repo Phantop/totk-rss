@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Kunoichi Kimono Extra Thicc</title>
+			<link>https://gamebanana.com/mods/452711</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649b7b6533233.jpg"/>]]></description>
+			<pubDate>Wed, 28 Jun 2023 00:11:09 +0000</pubDate>
+		</item>
+		<item>
 			<title>CHAoOS: Windblight Replace Squirrel</title>
 			<link>https://gamebanana.com/mods/452668</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649b448fc8e40.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451411</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6493337fa5d3f.jpg"/>]]></description>
 			<pubDate>Wed, 21 Jun 2023 17:34:19 +0000</pubDate>
-		</item>
-		<item>
-			<title>Link&#039;s Flying Machine</title>
-			<link>https://gamebanana.com/mods/451241</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6491f7440e174.jpg"/>]]></description>
-			<pubDate>Tue, 20 Jun 2023 19:00:34 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
