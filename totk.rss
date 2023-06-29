@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Model Edit - Silver Lizalfos Horn</title>
+			<link>https://gamebanana.com/mods/453069</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649dbc1294be2.jpg"/>]]></description>
+			<pubDate>Thu, 29 Jun 2023 17:16:51 +0000</pubDate>
+		</item>
+		<item>
 			<title>Better Zonaite Weapons</title>
 			<link>https://gamebanana.com/mods/453047</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649da5f679e90.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452905</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649ccae2a9c5a.jpg"/>]]></description>
 			<pubDate>Thu, 29 Jun 2023 00:06:15 +0000</pubDate>
-		</item>
-		<item>
-			<title>Better Bows Pack</title>
-			<link>https://gamebanana.com/mods/452902</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649cc92e997ab.jpg"/>]]></description>
-			<pubDate>Wed, 28 Jun 2023 23:59:16 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
