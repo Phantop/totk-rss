@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Larger Hylian Shield</title>
+			<link>https://gamebanana.com/mods/452937</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649cfbed23e6e.jpg"/>]]></description>
+			<pubDate>Thu, 29 Jun 2023 03:38:35 +0000</pubDate>
+		</item>
+		<item>
 			<title>Increase in stealth set defense stat</title>
 			<link>https://gamebanana.com/mods/452928</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649ce842ae3b1.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452788</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649bfaa103b17.jpg"/>]]></description>
 			<pubDate>Wed, 28 Jun 2023 09:15:31 +0000</pubDate>
-		</item>
-		<item>
-			<title>Elemental Armors Always Glow</title>
-			<link>https://gamebanana.com/mods/452758</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649bc9f405b25.jpg"/>]]></description>
-			<pubDate>Wed, 28 Jun 2023 05:50:31 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
