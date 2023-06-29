@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Dusk Bow = Twilight Bow</title>
+			<link>https://gamebanana.com/mods/452956</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649d10070ae11.jpg"/>]]></description>
+			<pubDate>Thu, 29 Jun 2023 05:07:46 +0000</pubDate>
+		</item>
+		<item>
 			<title>Larger Hylian Shield</title>
 			<link>https://gamebanana.com/mods/452937</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649cfbed23e6e.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452867</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649c9ec9b4d04.jpg"/>]]></description>
 			<pubDate>Wed, 28 Jun 2023 20:56:39 +0000</pubDate>
-		</item>
-		<item>
-			<title>[SotK] Zonai Replica Standalone</title>
-			<link>https://gamebanana.com/mods/452788</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649bfaa103b17.jpg"/>]]></description>
-			<pubDate>Wed, 28 Jun 2023 09:15:31 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

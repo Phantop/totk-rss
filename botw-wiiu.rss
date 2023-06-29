@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Butter Blight</title>
+			<link>https://gamebanana.com/mods/452952</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649d0a56a3ff0.jpg"/>]]></description>
+			<pubDate>Thu, 29 Jun 2023 04:42:49 +0000</pubDate>
+		</item>
+		<item>
 			<title>LARC - Fierce Deity Set</title>
 			<link>https://gamebanana.com/mods/452885</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649cbdb5dbcc4.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451649</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6494e202b6aa4.jpg"/>]]></description>
 			<pubDate>Thu, 22 Jun 2023 23:53:34 +0000</pubDate>
-		</item>
-		<item>
-			<title>Project Zero 2 UAR Patch</title>
-			<link>https://gamebanana.com/mods/451632</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6494c21fcaeb4.jpg"/>]]></description>
-			<pubDate>Thu, 22 Jun 2023 21:55:20 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
