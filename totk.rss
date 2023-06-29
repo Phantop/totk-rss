@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Better Buff Bonuses</title>
+			<link>https://gamebanana.com/mods/453085</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649dd41118623.jpg"/>]]></description>
+			<pubDate>Thu, 29 Jun 2023 18:56:36 +0000</pubDate>
+		</item>
+		<item>
 			<title>Model Edit - Silver Lizalfos Horn</title>
 			<link>https://gamebanana.com/mods/453069</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649dbc1294be2.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452907</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649cccaebe908.jpg"/>]]></description>
 			<pubDate>Thu, 29 Jun 2023 00:16:17 +0000</pubDate>
-		</item>
-		<item>
-			<title>Better Champion Weapons</title>
-			<link>https://gamebanana.com/mods/452905</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649ccae2a9c5a.jpg"/>]]></description>
-			<pubDate>Thu, 29 Jun 2023 00:06:15 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
