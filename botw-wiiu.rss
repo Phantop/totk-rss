@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>LARC - Fierce Deity Set</title>
+			<link>https://gamebanana.com/mods/452885</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649cbdb5dbcc4.jpg"/>]]></description>
+			<pubDate>Wed, 28 Jun 2023 23:35:23 +0000</pubDate>
+		</item>
+		<item>
 			<title>CHAoOS: The Satori Sentinals</title>
 			<link>https://gamebanana.com/mods/452877</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649ca75040be5.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/451632</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6494c21fcaeb4.jpg"/>]]></description>
 			<pubDate>Thu, 22 Jun 2023 21:55:20 +0000</pubDate>
-		</item>
-		<item>
-			<title>Over 9000!</title>
-			<link>https://gamebanana.com/mods/451620</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6494b174ccee1.jpg"/>]]></description>
-			<pubDate>Thu, 22 Jun 2023 20:41:52 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
