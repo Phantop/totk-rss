@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Visible Rauru&#039;s arm for all armors</title>
+			<link>https://gamebanana.com/mods/453232</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649ecc27b929f.jpg"/>]]></description>
+			<pubDate>Fri, 30 Jun 2023 13:47:26 +0000</pubDate>
+		</item>
+		<item>
 			<title>Expressive Koroks</title>
 			<link>https://gamebanana.com/mods/453201</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649e8a4b85557.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452937</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649cfbed23e6e.jpg"/>]]></description>
 			<pubDate>Thu, 29 Jun 2023 03:38:35 +0000</pubDate>
-		</item>
-		<item>
-			<title>Increase in stealth set defense stat</title>
-			<link>https://gamebanana.com/mods/452928</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649ce842ae3b1.jpg"/>]]></description>
-			<pubDate>Thu, 29 Jun 2023 02:12:55 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
