@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Winter Clothes</title>
+			<link>https://gamebanana.com/mods/453284</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649f206ba8e1e.jpg"/>]]></description>
+			<pubDate>Fri, 30 Jun 2023 18:33:39 +0000</pubDate>
+		</item>
+		<item>
 			<title>Euro Currency(Rupees)</title>
 			<link>https://gamebanana.com/mods/453146</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649e214d9ce89.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452004</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6497367bcf0b5.jpg"/>]]></description>
 			<pubDate>Sat, 24 Jun 2023 18:41:57 +0000</pubDate>
-		</item>
-		<item>
-			<title>Bards of the Wild</title>
-			<link>https://gamebanana.com/mods/451070</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649141a65fb8f.jpg"/>]]></description>
-			<pubDate>Fri, 23 Jun 2023 16:11:13 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
