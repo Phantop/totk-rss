@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Master Spear</title>
+			<link>https://gamebanana.com/mods/453335</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649f54e496b4f.jpg"/>]]></description>
+			<pubDate>Fri, 30 Jun 2023 22:19:36 +0000</pubDate>
+		</item>
+		<item>
 			<title>Pink Underwear</title>
 			<link>https://gamebanana.com/mods/453281</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649f18a314562.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/453069</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649dbc1294be2.jpg"/>]]></description>
 			<pubDate>Thu, 29 Jun 2023 17:16:51 +0000</pubDate>
-		</item>
-		<item>
-			<title>Better Zonaite Weapons</title>
-			<link>https://gamebanana.com/mods/453047</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649da5f679e90.jpg"/>]]></description>
-			<pubDate>Thu, 29 Jun 2023 15:42:23 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

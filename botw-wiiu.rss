@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>CHAoOS: Talus Lord&#039;s Woods</title>
+			<link>https://gamebanana.com/mods/453334</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649f5403382dd.jpg"/>]]></description>
+			<pubDate>Fri, 30 Jun 2023 22:19:32 +0000</pubDate>
+		</item>
+		<item>
 			<title>Winter Clothes</title>
 			<link>https://gamebanana.com/mods/453284</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649f206ba8e1e.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452434</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6499dedea57d8.jpg"/>]]></description>
 			<pubDate>Mon, 26 Jun 2023 18:58:54 +0000</pubDate>
-		</item>
-		<item>
-			<title>R.A.S.S. (Random “Animal Spawner” Spawner)</title>
-			<link>https://gamebanana.com/mods/452004</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6497367bcf0b5.jpg"/>]]></description>
-			<pubDate>Sat, 24 Jun 2023 18:41:57 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
