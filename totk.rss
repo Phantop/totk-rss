@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Quick and Peaceful Cooking</title>
+			<link>https://gamebanana.com/mods/453426</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649ff104d47d0.jpg"/>]]></description>
+			<pubDate>Sat, 01 Jul 2023 09:44:09 +0000</pubDate>
+		</item>
+		<item>
 			<title>Dark Army Resurrection</title>
 			<link>https://gamebanana.com/mods/453422</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649fe48b65e10.jpg"/>]]></description>
@@ -49,12 +55,6 @@
 			<link>https://gamebanana.com/mods/453242</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649ee7b02a437.jpg"/>]]></description>
 			<pubDate>Fri, 30 Jun 2023 14:36:22 +0000</pubDate>
-		</item>
-		<item>
-			<title>Visible Rauru&#039;s arm for all armors</title>
-			<link>https://gamebanana.com/mods/453232</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649ecc27b929f.jpg"/>]]></description>
-			<pubDate>Fri, 30 Jun 2023 13:47:26 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
