@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Dark Army Resurrection</title>
+			<link>https://gamebanana.com/mods/453422</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649fe48b65e10.jpg"/>]]></description>
+			<pubDate>Sat, 01 Jul 2023 08:41:32 +0000</pubDate>
+		</item>
+		<item>
 			<title>Legend of Zelda: Tears of the Obfuscation</title>
 			<link>https://gamebanana.com/mods/453397</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649fa4893b8a2.jpg"/>]]></description>
@@ -49,12 +55,6 @@
 			<link>https://gamebanana.com/mods/453232</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649ecc27b929f.jpg"/>]]></description>
 			<pubDate>Fri, 30 Jun 2023 13:47:26 +0000</pubDate>
-		</item>
-		<item>
-			<title>Expressive Koroks</title>
-			<link>https://gamebanana.com/mods/453201</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649e8a4b85557.jpg"/>]]></description>
-			<pubDate>Fri, 30 Jun 2023 07:55:12 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
