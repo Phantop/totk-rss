@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Legend of Zelda: Tears of the Obfuscation</title>
+			<link>https://gamebanana.com/mods/453397</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649fa4893b8a2.jpg"/>]]></description>
+			<pubDate>Sat, 01 Jul 2023 04:04:13 +0000</pubDate>
+		</item>
+		<item>
+			<title>Quiet Mystic Pants</title>
+			<link>https://gamebanana.com/mods/453391</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649f98e9c14b8.jpg"/>]]></description>
+			<pubDate>Sat, 01 Jul 2023 03:21:16 +0000</pubDate>
+		</item>
+		<item>
 			<title>Master Spear</title>
 			<link>https://gamebanana.com/mods/453335</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649f54e496b4f.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/453177</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649e538ef1f72.jpg"/>]]></description>
 			<pubDate>Fri, 30 Jun 2023 04:11:14 +0000</pubDate>
-		</item>
-		<item>
-			<title>Better Buff Bonuses</title>
-			<link>https://gamebanana.com/mods/453085</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649dd41118623.jpg"/>]]></description>
-			<pubDate>Thu, 29 Jun 2023 18:56:36 +0000</pubDate>
-		</item>
-		<item>
-			<title>Model Edit - Silver Lizalfos Horn</title>
-			<link>https://gamebanana.com/mods/453069</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649dbc1294be2.jpg"/>]]></description>
-			<pubDate>Thu, 29 Jun 2023 17:16:51 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
