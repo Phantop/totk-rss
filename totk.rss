@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>[ITEM] Sockpoppet Jersey+Plushy (merch)</title>
+			<link>https://gamebanana.com/mods/453510</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a085ff1a093.jpg"/>]]></description>
+			<pubDate>Sat, 01 Jul 2023 20:01:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>Better Set Bonuses</title>
+			<link>https://gamebanana.com/mods/453509</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a08411ad443.jpg"/>]]></description>
+			<pubDate>Sat, 01 Jul 2023 19:55:46 +0000</pubDate>
+		</item>
+		<item>
 			<title>Tulin&#039;s Sniper Rifle (Bow Replacement)</title>
 			<link>https://gamebanana.com/mods/453493</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a06f3a11913.jpg"/>]]></description>
@@ -43,18 +55,6 @@
 			<link>https://gamebanana.com/mods/453335</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649f54e496b4f.jpg"/>]]></description>
 			<pubDate>Fri, 30 Jun 2023 22:19:36 +0000</pubDate>
-		</item>
-		<item>
-			<title>Pink Underwear</title>
-			<link>https://gamebanana.com/mods/453281</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649f18a314562.jpg"/>]]></description>
-			<pubDate>Fri, 30 Jun 2023 18:11:07 +0000</pubDate>
-		</item>
-		<item>
-			<title>Sage&#039;s Tunic and Leathers</title>
-			<link>https://gamebanana.com/mods/453251</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649ef40adf007.jpg"/>]]></description>
-			<pubDate>Fri, 30 Jun 2023 15:27:34 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
