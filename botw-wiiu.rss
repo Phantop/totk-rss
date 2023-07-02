@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>CHAoOS: Guardian Apples</title>
+			<link>https://gamebanana.com/mods/453574</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a0e941a7151.jpg"/>]]></description>
+			<pubDate>Sun, 02 Jul 2023 03:10:26 +0000</pubDate>
+		</item>
+		<item>
 			<title>(3.0 REFIT STANDALONE) Champion Tunic Cosplay</title>
 			<link>https://gamebanana.com/mods/453540</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a0ac918419c.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452668</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649b448fc8e40.jpg"/>]]></description>
 			<pubDate>Tue, 27 Jun 2023 20:22:58 +0000</pubDate>
-		</item>
-		<item>
-			<title>DOOM Eternal Crucible [Standalone]</title>
-			<link>https://gamebanana.com/mods/452444</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/6499e822458f3.jpg"/>]]></description>
-			<pubDate>Mon, 26 Jun 2023 19:37:45 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
