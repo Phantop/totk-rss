@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Link&#039;s original arm restored</title>
+			<link>https://gamebanana.com/mods/453950</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a32f7b80430.jpg"/>]]></description>
+			<pubDate>Mon, 03 Jul 2023 20:44:26 +0000</pubDate>
+		</item>
+		<item>
 			<title>Bald Link</title>
 			<link>https://gamebanana.com/mods/453939</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a327f48357e.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/453560</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a0d0ad6ba77.jpg"/>]]></description>
 			<pubDate>Sun, 02 Jul 2023 01:22:53 +0000</pubDate>
-		</item>
-		<item>
-			<title>[ITEM] Sockpoppet Jersey+Plushy (merch)</title>
-			<link>https://gamebanana.com/mods/453510</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a085ff1a093.jpg"/>]]></description>
-			<pubDate>Sat, 01 Jul 2023 20:01:21 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
