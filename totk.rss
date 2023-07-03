@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>save for people who don&#039;t want to do the tutorial</title>
+			<link>https://gamebanana.com/mods/453870</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a2d34c02d51.jpg"/>]]></description>
+			<pubDate>Mon, 03 Jul 2023 13:56:44 +0000</pubDate>
+		</item>
+		<item>
 			<title>Warm Doublet (BOTW) replaces Tunic of Awakening</title>
 			<link>https://gamebanana.com/mods/453788</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a22be20882c.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/453426</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649ff104d47d0.jpg"/>]]></description>
 			<pubDate>Sat, 01 Jul 2023 09:44:09 +0000</pubDate>
-		</item>
-		<item>
-			<title>Dark Army Resurrection</title>
-			<link>https://gamebanana.com/mods/453422</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649fe48b65e10.jpg"/>]]></description>
-			<pubDate>Sat, 01 Jul 2023 08:41:32 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
