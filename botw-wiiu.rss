@@ -3,6 +3,30 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Sky octorock paraglider</title>
+			<link>https://gamebanana.com/mods/454049</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3c077217b9.jpg"/>]]></description>
+			<pubDate>Tue, 04 Jul 2023 06:50:27 +0000</pubDate>
+		</item>
+		<item>
+			<title>Teba paraglider</title>
+			<link>https://gamebanana.com/mods/454045</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3be94a8d93.jpg"/>]]></description>
+			<pubDate>Tue, 04 Jul 2023 06:39:35 +0000</pubDate>
+		</item>
+		<item>
+			<title>Revali paraglider</title>
+			<link>https://gamebanana.com/mods/454043</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3bd60db0b5.jpg"/>]]></description>
+			<pubDate>Tue, 04 Jul 2023 06:34:30 +0000</pubDate>
+		</item>
+		<item>
+			<title>Obliterator Spear</title>
+			<link>https://gamebanana.com/mods/454041</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3baf2071d8.jpg"/>]]></description>
+			<pubDate>Tue, 04 Jul 2023 06:24:47 +0000</pubDate>
+		</item>
+		<item>
 			<title>Loftwing paraglider</title>
 			<link>https://gamebanana.com/mods/454038</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3b9b6cf838.jpg"/>]]></description>
@@ -37,30 +61,6 @@
 			<link>https://gamebanana.com/mods/453334</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649f5403382dd.jpg"/>]]></description>
 			<pubDate>Fri, 30 Jun 2023 22:19:32 +0000</pubDate>
-		</item>
-		<item>
-			<title>Winter Clothes</title>
-			<link>https://gamebanana.com/mods/453284</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649f206ba8e1e.jpg"/>]]></description>
-			<pubDate>Fri, 30 Jun 2023 18:33:39 +0000</pubDate>
-		</item>
-		<item>
-			<title>Euro Currency(Rupees)</title>
-			<link>https://gamebanana.com/mods/453146</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649e214d9ce89.jpg"/>]]></description>
-			<pubDate>Fri, 30 Jun 2023 00:33:54 +0000</pubDate>
-		</item>
-		<item>
-			<title>Butter Blight</title>
-			<link>https://gamebanana.com/mods/452952</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649d0a56a3ff0.jpg"/>]]></description>
-			<pubDate>Thu, 29 Jun 2023 04:42:49 +0000</pubDate>
-		</item>
-		<item>
-			<title>LARC - Fierce Deity Set</title>
-			<link>https://gamebanana.com/mods/452885</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649cbdb5dbcc4.jpg"/>]]></description>
-			<pubDate>Wed, 28 Jun 2023 23:35:23 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
