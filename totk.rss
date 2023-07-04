@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Weapons of Twilight -Twilight Princess Weapon Pack</title>
+			<link>https://gamebanana.com/mods/454024</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a39407da210.jpg"/>]]></description>
+			<pubDate>Tue, 04 Jul 2023 04:51:01 +0000</pubDate>
+		</item>
+		<item>
 			<title>Demon Slayer - Muichiro&#039;s Sword</title>
 			<link>https://gamebanana.com/mods/454017</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3708fa48ee.jpg"/>]]></description>
@@ -17,7 +23,7 @@
 		<item>
 			<title>A Link to the Past Themed Master Sword</title>
 			<link>https://gamebanana.com/mods/453987</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a36443c2b8d.jpg"/>]]></description>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3aacfdfa3f.jpg"/>]]></description>
 			<pubDate>Tue, 04 Jul 2023 00:44:00 +0000</pubDate>
 		</item>
 		<item>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/453870</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a2d34c02d51.jpg"/>]]></description>
 			<pubDate>Mon, 03 Jul 2023 13:56:44 +0000</pubDate>
-		</item>
-		<item>
-			<title>Warm Doublet (BOTW) replaces Tunic of Awakening</title>
-			<link>https://gamebanana.com/mods/453788</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a22be20882c.jpg"/>]]></description>
-			<pubDate>Mon, 03 Jul 2023 02:01:59 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
