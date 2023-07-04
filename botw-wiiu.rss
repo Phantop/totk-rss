@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Loftwing paraglider</title>
+			<link>https://gamebanana.com/mods/454038</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3b9b6cf838.jpg"/>]]></description>
+			<pubDate>Tue, 04 Jul 2023 06:18:49 +0000</pubDate>
+		</item>
+		<item>
 			<title>Zonai Gun - Artemis</title>
 			<link>https://gamebanana.com/mods/453951</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a331dd2b0a5.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/452885</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649cbdb5dbcc4.jpg"/>]]></description>
 			<pubDate>Wed, 28 Jun 2023 23:35:23 +0000</pubDate>
-		</item>
-		<item>
-			<title>CHAoOS: The Satori Sentinals</title>
-			<link>https://gamebanana.com/mods/452877</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/649ca75040be5.jpg"/>]]></description>
-			<pubDate>Wed, 28 Jun 2023 21:51:02 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
