@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Beam Emitter Damage Options</title>
+			<link>https://gamebanana.com/mods/454157</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a489404adb5.jpg"/>]]></description>
+			<pubDate>Tue, 04 Jul 2023 21:06:30 +0000</pubDate>
+		</item>
+		<item>
 			<title>Human Ears</title>
 			<link>https://gamebanana.com/mods/454128</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a4684851f23.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/453939</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a327f48357e.jpg"/>]]></description>
 			<pubDate>Mon, 03 Jul 2023 19:57:11 +0000</pubDate>
-		</item>
-		<item>
-			<title>OTT Tunic Rework</title>
-			<link>https://gamebanana.com/mods/453937</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a323d6cf36a.jpg"/>]]></description>
-			<pubDate>Mon, 03 Jul 2023 19:40:09 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
