@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>A Link to the Past Themed Master Sword</title>
+			<link>https://gamebanana.com/mods/453987</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a36443c2b8d.jpg"/>]]></description>
+			<pubDate>Tue, 04 Jul 2023 00:44:00 +0000</pubDate>
+		</item>
+		<item>
 			<title>Link&#039;s original arm restored</title>
 			<link>https://gamebanana.com/mods/453950</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a32f7b80430.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/453671</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a2c28fab923.jpg"/>]]></description>
 			<pubDate>Sun, 02 Jul 2023 14:49:23 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rauru over Tulin</title>
-			<link>https://gamebanana.com/mods/453560</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a0d0ad6ba77.jpg"/>]]></description>
-			<pubDate>Sun, 02 Jul 2023 01:22:53 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
