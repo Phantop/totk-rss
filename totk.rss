@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Demon Slayer - Muichiro&#039;s Sword</title>
+			<link>https://gamebanana.com/mods/454017</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3708fa48ee.jpg"/>]]></description>
+			<pubDate>Tue, 04 Jul 2023 04:13:40 +0000</pubDate>
+		</item>
+		<item>
 			<title>Paya Over Sidon</title>
 			<link>https://gamebanana.com/mods/454004</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a38cf4a1c4f.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/453788</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a22be20882c.jpg"/>]]></description>
 			<pubDate>Mon, 03 Jul 2023 02:01:59 +0000</pubDate>
-		</item>
-		<item>
-			<title>Old Clothes (BOTW) replaces Tingle&#039;s Set</title>
-			<link>https://gamebanana.com/mods/453678</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a19718e138a.jpg"/>]]></description>
-			<pubDate>Sun, 02 Jul 2023 15:34:43 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
