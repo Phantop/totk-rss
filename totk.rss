@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Ordon Shield (Traveler Shield Reskin)</title>
+			<link>https://gamebanana.com/mods/454058</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3e4d6384d8.jpg"/>]]></description>
+			<pubDate>Tue, 04 Jul 2023 09:22:47 +0000</pubDate>
+		</item>
+		<item>
 			<title>Weapons of Twilight -Twilight Princess Weapon Pack</title>
 			<link>https://gamebanana.com/mods/454024</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3b6e70a6b2.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/453885</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a2e4bc3d3c8.jpg"/>]]></description>
 			<pubDate>Mon, 03 Jul 2023 15:10:06 +0000</pubDate>
-		</item>
-		<item>
-			<title>save for people who don&#039;t want to do the tutorial</title>
-			<link>https://gamebanana.com/mods/453870</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a2d34c02d51.jpg"/>]]></description>
-			<pubDate>Mon, 03 Jul 2023 13:56:44 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
