@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Human Ears</title>
+			<link>https://gamebanana.com/mods/454128</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a4684851f23.jpg"/>]]></description>
+			<pubDate>Tue, 04 Jul 2023 18:45:52 +0000</pubDate>
+		</item>
+		<item>
+			<title>Mystic Armor Disable RGB</title>
+			<link>https://gamebanana.com/mods/454121</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a46339950ff.jpg"/>]]></description>
+			<pubDate>Tue, 04 Jul 2023 18:24:14 +0000</pubDate>
+		</item>
+		<item>
 			<title>Ordon Shield (Traveler Shield Reskin)</title>
 			<link>https://gamebanana.com/mods/454058</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3e4d6384d8.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/453937</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a323d6cf36a.jpg"/>]]></description>
 			<pubDate>Mon, 03 Jul 2023 19:40:09 +0000</pubDate>
-		</item>
-		<item>
-			<title>Invisible Belts and Accessories</title>
-			<link>https://gamebanana.com/mods/453897</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a2f42ca9187.jpg"/>]]></description>
-			<pubDate>Mon, 03 Jul 2023 16:27:13 +0000</pubDate>
-		</item>
-		<item>
-			<title>Invisible Batteries</title>
-			<link>https://gamebanana.com/mods/453885</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a2e4bc3d3c8.jpg"/>]]></description>
-			<pubDate>Mon, 03 Jul 2023 15:10:06 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
