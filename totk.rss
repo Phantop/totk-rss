@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Master Sword: Blue-Tinted Blade</title>
+			<link>https://gamebanana.com/mods/454292</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a5a91edc646.jpg"/>]]></description>
+			<pubDate>Wed, 05 Jul 2023 17:33:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>Twilight Princess HD Hylian Shield</title>
+			<link>https://gamebanana.com/mods/454288</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a5a14a7beaa.jpg"/>]]></description>
+			<pubDate>Wed, 05 Jul 2023 17:27:51 +0000</pubDate>
+		</item>
+		<item>
 			<title>Halo-Zonai Sword</title>
 			<link>https://gamebanana.com/mods/454252</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a55bc86d282.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/454058</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3e4d6384d8.jpg"/>]]></description>
 			<pubDate>Tue, 04 Jul 2023 09:22:47 +0000</pubDate>
-		</item>
-		<item>
-			<title>Weapons of Twilight -Twilight Princess Weapon Pack</title>
-			<link>https://gamebanana.com/mods/454024</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3b6e70a6b2.jpg"/>]]></description>
-			<pubDate>Tue, 04 Jul 2023 04:51:01 +0000</pubDate>
-		</item>
-		<item>
-			<title>Demon Slayer - Muichiro&#039;s Sword</title>
-			<link>https://gamebanana.com/mods/454017</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3708fa48ee.jpg"/>]]></description>
-			<pubDate>Tue, 04 Jul 2023 04:13:40 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
