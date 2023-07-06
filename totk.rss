@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Weebs Custom Ost - Unfinished</title>
+			<link>https://gamebanana.com/mods/454544</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a73cc1e4fdd.jpg"/>]]></description>
+			<pubDate>Thu, 06 Jul 2023 22:14:42 +0000</pubDate>
+		</item>
+		<item>
 			<title>TOTK Save file: Paraglider+gear</title>
 			<link>https://gamebanana.com/mods/454529</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a72b90ec681.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/454251</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a5575b96bfd.jpg"/>]]></description>
 			<pubDate>Wed, 05 Jul 2023 11:51:04 +0000</pubDate>
-		</item>
-		<item>
-			<title>Wooden Ordon Sword over Wooden Stick</title>
-			<link>https://gamebanana.com/mods/454222</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a5092dbdbea.jpg"/>]]></description>
-			<pubDate>Wed, 05 Jul 2023 06:10:36 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
