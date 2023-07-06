@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>QoL Best Drops v1.1.2 &amp; V1.2.0. No RSTB</title>
+			<link>https://gamebanana.com/mods/454414</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a653f5f0dfc.jpg"/>]]></description>
+			<pubDate>Thu, 06 Jul 2023 05:47:49 +0000</pubDate>
+		</item>
+		<item>
 			<title>New Gloom Sword</title>
 			<link>https://gamebanana.com/mods/454386</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a619282b13a.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/454157</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a493c0409d3.jpg"/>]]></description>
 			<pubDate>Tue, 04 Jul 2023 21:06:30 +0000</pubDate>
-		</item>
-		<item>
-			<title>Human Ears</title>
-			<link>https://gamebanana.com/mods/454128</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a4684851f23.jpg"/>]]></description>
-			<pubDate>Tue, 04 Jul 2023 18:45:52 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
