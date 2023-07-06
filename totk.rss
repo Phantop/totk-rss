@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Demon Slayer - Tanjiro&#039;s Sword</title>
+			<link>https://gamebanana.com/mods/454441</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a68939c2c4e.jpg"/>]]></description>
+			<pubDate>Thu, 06 Jul 2023 09:43:29 +0000</pubDate>
+		</item>
+		<item>
 			<title>QoL Best Drops v1.1.2 &amp; V1.2.0. No RSTB</title>
 			<link>https://gamebanana.com/mods/454414</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a653f5f0dfc.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/454176</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a4a8110c9dc.jpg"/>]]></description>
 			<pubDate>Tue, 04 Jul 2023 23:17:08 +0000</pubDate>
-		</item>
-		<item>
-			<title>Beam Emitter Damage Options</title>
-			<link>https://gamebanana.com/mods/454157</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a493c0409d3.jpg"/>]]></description>
-			<pubDate>Tue, 04 Jul 2023 21:06:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
