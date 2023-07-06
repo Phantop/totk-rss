@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Evil Demonking Ganondorf v.0.1</title>
+			<link>https://gamebanana.com/mods/454374</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a5e6ecc8533.jpg"/>]]></description>
+			<pubDate>Thu, 06 Jul 2023 00:23:05 +0000</pubDate>
+		</item>
+		<item>
 			<title>Master Sword: Blue-Tinted Blade</title>
 			<link>https://gamebanana.com/mods/454292</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a5a91edc646.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/454121</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a46339950ff.jpg"/>]]></description>
 			<pubDate>Tue, 04 Jul 2023 18:24:14 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ordon Shield (Traveler Shield Reskin)</title>
-			<link>https://gamebanana.com/mods/454058</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3e4d6384d8.jpg"/>]]></description>
-			<pubDate>Tue, 04 Jul 2023 09:22:47 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
