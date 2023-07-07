@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Capsule standalone device package</title>
+			<link>https://gamebanana.com/mods/454718</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a868709519b.jpg"/>]]></description>
+			<pubDate>Fri, 07 Jul 2023 19:37:48 +0000</pubDate>
+		</item>
+		<item>
+			<title>Royal Guard&#039;s Mystic Armor Re-texture</title>
+			<link>https://gamebanana.com/mods/454716</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a867df300d7.jpg"/>]]></description>
+			<pubDate>Fri, 07 Jul 2023 19:37:18 +0000</pubDate>
+		</item>
+		<item>
 			<title>Ocarina of Time Hylian Shield</title>
 			<link>https://gamebanana.com/mods/454680</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a83ad7b6318.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/454593</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a77c8246a1e.jpg"/>]]></description>
 			<pubDate>Fri, 07 Jul 2023 02:46:38 +0000</pubDate>
-		</item>
-		<item>
-			<title>Phantom Ganon Over Sidon</title>
-			<link>https://gamebanana.com/mods/454591</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a777877ef57.jpg"/>]]></description>
-			<pubDate>Fri, 07 Jul 2023 02:27:08 +0000</pubDate>
-		</item>
-		<item>
-			<title>Auto-collector Collection</title>
-			<link>https://gamebanana.com/mods/454577</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a76541d1e44.jpg"/>]]></description>
-			<pubDate>Fri, 07 Jul 2023 01:07:45 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
