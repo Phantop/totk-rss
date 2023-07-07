@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>CHAoOS: The Neon Lynels</title>
+			<link>https://gamebanana.com/mods/454748</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a88d5ad226a.jpg"/>]]></description>
+			<pubDate>Fri, 07 Jul 2023 22:12:12 +0000</pubDate>
+		</item>
+		<item>
 			<title>Steel Broadsword</title>
 			<link>https://gamebanana.com/mods/454702</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a85b7b8bd15.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/453947</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3306a6917d.jpg"/>]]></description>
 			<pubDate>Mon, 03 Jul 2023 20:33:56 +0000</pubDate>
-		</item>
-		<item>
-			<title>CHAoOS: Guardian Apples</title>
-			<link>https://gamebanana.com/mods/453574</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a0e941a7151.jpg"/>]]></description>
-			<pubDate>Sun, 02 Jul 2023 03:10:26 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
