@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Demon Slayer - Uzui&#039;s Dual Blades</title>
+			<link>https://gamebanana.com/mods/454621</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a7b73b0772f.jpg"/>]]></description>
+			<pubDate>Fri, 07 Jul 2023 06:59:58 +0000</pubDate>
+		</item>
+		<item>
 			<title>Mirror Shield HD (MM) over Royal Guard&#039;s Shield</title>
 			<link>https://gamebanana.com/mods/454603</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a795a1da671.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/454414</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a653f5f0dfc.jpg"/>]]></description>
 			<pubDate>Thu, 06 Jul 2023 05:47:49 +0000</pubDate>
-		</item>
-		<item>
-			<title>New Gloom Sword</title>
-			<link>https://gamebanana.com/mods/454386</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a619282b13a.jpg"/>]]></description>
-			<pubDate>Thu, 06 Jul 2023 01:39:17 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
