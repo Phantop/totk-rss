@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>&quot;Pray&quot; Alternatives</title>
+			<link>https://gamebanana.com/mods/454793</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a8eec36667f.jpg"/>]]></description>
+			<pubDate>Sat, 08 Jul 2023 05:15:33 +0000</pubDate>
+		</item>
+		<item>
 			<title>Ocarina of Time Mirror Shield (Fully Functional)</title>
 			<link>https://gamebanana.com/mods/454760</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a8ab468a6db.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/454621</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a7b73b0772f.jpg"/>]]></description>
 			<pubDate>Fri, 07 Jul 2023 06:59:58 +0000</pubDate>
-		</item>
-		<item>
-			<title>Mirror Shield HD (MM) over Royal Guard&#039;s Shield</title>
-			<link>https://gamebanana.com/mods/454603</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a795a1da671.jpg"/>]]></description>
-			<pubDate>Fri, 07 Jul 2023 04:51:15 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
