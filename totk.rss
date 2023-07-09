@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>FuseablesEX</title>
+			<link>https://gamebanana.com/mods/454956</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64aa11177a684.jpg"/>]]></description>
+			<pubDate>Sun, 09 Jul 2023 01:45:24 +0000</pubDate>
+		</item>
+		<item>
 			<title>Tulin&#039;s Alternate Outfits</title>
 			<link>https://gamebanana.com/mods/454909</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a9cf3917d15.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/454667</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a829a49bc51.jpg"/>]]></description>
 			<pubDate>Fri, 07 Jul 2023 15:05:43 +0000</pubDate>
-		</item>
-		<item>
-			<title>Better Knights</title>
-			<link>https://gamebanana.com/mods/454666</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a82772a4469.jpg"/>]]></description>
-			<pubDate>Fri, 07 Jul 2023 14:56:42 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
