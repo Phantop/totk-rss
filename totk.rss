@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Dusk Claymore has Wind Blade</title>
+			<link>https://gamebanana.com/mods/455029</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64aaa6be9c827.jpg"/>]]></description>
+			<pubDate>Sun, 09 Jul 2023 12:24:49 +0000</pubDate>
+		</item>
+		<item>
 			<title>Rinkuru&#039;s Champion Leathers</title>
 			<link>https://gamebanana.com/mods/455015</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64aa9337222be.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/454718</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a868709519b.jpg"/>]]></description>
 			<pubDate>Fri, 07 Jul 2023 19:37:48 +0000</pubDate>
-		</item>
-		<item>
-			<title>Royal Guard&#039;s Mystic Armor Re-texture</title>
-			<link>https://gamebanana.com/mods/454716</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a867df300d7.jpg"/>]]></description>
-			<pubDate>Fri, 07 Jul 2023 19:37:18 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
