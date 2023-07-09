@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Sheik&#039;s Mask Set Bonus</title>
+			<link>https://gamebanana.com/mods/455129</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab20682c8c1.jpg"/>]]></description>
+			<pubDate>Sun, 09 Jul 2023 21:03:14 +0000</pubDate>
+		</item>
+		<item>
+			<title>Tougher Gibdos</title>
+			<link>https://gamebanana.com/mods/455122</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab0a83aa264.jpg"/>]]></description>
+			<pubDate>Sun, 09 Jul 2023 20:15:18 +0000</pubDate>
+		</item>
+		<item>
 			<title>Invisible MS Fuse Runes</title>
 			<link>https://gamebanana.com/mods/455120</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab12ad35d3f.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/454895</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a9bb8657fbb.jpg"/>]]></description>
 			<pubDate>Sat, 08 Jul 2023 19:47:38 +0000</pubDate>
-		</item>
-		<item>
-			<title>&quot;Pray&quot; Alternatives</title>
-			<link>https://gamebanana.com/mods/454793</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a8eec36667f.jpg"/>]]></description>
-			<pubDate>Sat, 08 Jul 2023 05:15:33 +0000</pubDate>
-		</item>
-		<item>
-			<title>Ocarina of Time Mirror Shield (Fully Functional)</title>
-			<link>https://gamebanana.com/mods/454760</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64aa0ae0c950d.jpg"/>]]></description>
-			<pubDate>Sat, 08 Jul 2023 00:21:46 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
