@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>[NPC] Purah Kokoro Gown (cosplay)</title>
+			<link>https://gamebanana.com/mods/455219</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab92d682dca.jpg"/>]]></description>
+			<pubDate>Mon, 10 Jul 2023 05:21:56 +0000</pubDate>
+		</item>
+		<item>
 			<title>Dragons&#039; Horns - ReBLADE</title>
 			<link>https://gamebanana.com/mods/455196</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab6d8148d34.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/455013</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64aa90b373b5a.jpg"/>]]></description>
 			<pubDate>Sun, 09 Jul 2023 10:51:05 +0000</pubDate>
-		</item>
-		<item>
-			<title>FuseablesEX</title>
-			<link>https://gamebanana.com/mods/454956</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64aa11177a684.jpg"/>]]></description>
-			<pubDate>Sun, 09 Jul 2023 01:45:24 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
