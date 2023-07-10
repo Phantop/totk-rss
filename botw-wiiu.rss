@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Sheik Cosplay Extra THICC</title>
+			<link>https://gamebanana.com/mods/455169</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab519e9e881.jpg"/>]]></description>
+			<pubDate>Mon, 10 Jul 2023 00:11:52 +0000</pubDate>
+		</item>
+		<item>
 			<title>THICC Lynel Hunter</title>
 			<link>https://gamebanana.com/mods/454939</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a9fdc3add66.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/454041</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3baf2071d8.jpg"/>]]></description>
 			<pubDate>Tue, 04 Jul 2023 06:24:47 +0000</pubDate>
-		</item>
-		<item>
-			<title>Loftwing paraglider</title>
-			<link>https://gamebanana.com/mods/454038</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3b9b6cf838.jpg"/>]]></description>
-			<pubDate>Tue, 04 Jul 2023 06:18:49 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
