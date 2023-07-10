@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>CHAoOS: Dark Link Stalkoblins</title>
+			<link>https://gamebanana.com/mods/455356</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ac7835e8123.jpg"/>]]></description>
+			<pubDate>Mon, 10 Jul 2023 21:31:23 +0000</pubDate>
+		</item>
+		<item>
 			<title>Link Twilight Hair</title>
 			<link>https://gamebanana.com/mods/455276</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ac02cfd6dfd.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/454045</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3be94a8d93.jpg"/>]]></description>
 			<pubDate>Tue, 04 Jul 2023 06:39:35 +0000</pubDate>
-		</item>
-		<item>
-			<title>Revali paraglider</title>
-			<link>https://gamebanana.com/mods/454043</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3bd60db0b5.jpg"/>]]></description>
-			<pubDate>Tue, 04 Jul 2023 06:34:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
