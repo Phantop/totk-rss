@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Raurus Arm Malice Retexture</title>
+			<link>https://gamebanana.com/mods/455363</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ac8a08cb447.jpg"/>]]></description>
+			<pubDate>Mon, 10 Jul 2023 22:49:59 +0000</pubDate>
+		</item>
+		<item>
 			<title>Miasma/Gloom Arm Mod</title>
 			<link>https://gamebanana.com/mods/455307</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ac3c34129a1.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/455029</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64aaa6be9c827.jpg"/>]]></description>
 			<pubDate>Sun, 09 Jul 2023 12:24:49 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rinkuru&#039;s Champion Leathers</title>
-			<link>https://gamebanana.com/mods/455015</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64aa9337222be.jpg"/>]]></description>
-			<pubDate>Sun, 09 Jul 2023 11:00:52 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
