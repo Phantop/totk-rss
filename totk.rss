@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Blades of Heaven &amp; Abyss</title>
+			<link>https://gamebanana.com/mods/455263</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64abd57d51ede.jpg"/>]]></description>
+			<pubDate>Mon, 10 Jul 2023 11:04:17 +0000</pubDate>
+		</item>
+		<item>
 			<title>[NPC] Purah Kokoro Gown (cosplay)</title>
 			<link>https://gamebanana.com/mods/455219</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab92d682dca.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/455014</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64aa91fd35581.jpg"/>]]></description>
 			<pubDate>Sun, 09 Jul 2023 10:55:23 +0000</pubDate>
-		</item>
-		<item>
-			<title>Rinkuru&#039;s Royal Outfit</title>
-			<link>https://gamebanana.com/mods/455013</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64aa90b373b5a.jpg"/>]]></description>
-			<pubDate>Sun, 09 Jul 2023 10:51:05 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
