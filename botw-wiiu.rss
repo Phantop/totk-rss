@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Link Twilight Hair</title>
+			<link>https://gamebanana.com/mods/455276</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ac02cfd6dfd.jpg"/>]]></description>
+			<pubDate>Mon, 10 Jul 2023 13:21:44 +0000</pubDate>
+		</item>
+		<item>
 			<title>Sheik Cosplay Extra THICC</title>
 			<link>https://gamebanana.com/mods/455169</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab519e9e881.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/454043</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3bd60db0b5.jpg"/>]]></description>
 			<pubDate>Tue, 04 Jul 2023 06:34:30 +0000</pubDate>
-		</item>
-		<item>
-			<title>Obliterator Spear</title>
-			<link>https://gamebanana.com/mods/454041</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3baf2071d8.jpg"/>]]></description>
-			<pubDate>Tue, 04 Jul 2023 06:24:47 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
