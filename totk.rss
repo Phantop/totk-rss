@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Rinkuru&#039;s Fierce Deity Set + Custom Dual Weapons</title>
+			<link>https://gamebanana.com/mods/455489</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ad72d650e61.jpg"/>]]></description>
+			<pubDate>Tue, 11 Jul 2023 15:19:05 +0000</pubDate>
+		</item>
+		<item>
 			<title>Rinkuru&#039;s Dark Set</title>
 			<link>https://gamebanana.com/mods/455488</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ad71a7487bf.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/455196</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab6d8148d34.jpg"/>]]></description>
 			<pubDate>Mon, 10 Jul 2023 02:36:23 +0000</pubDate>
-		</item>
-		<item>
-			<title>Gilded Sword (MM) over Sword of the Hero</title>
-			<link>https://gamebanana.com/mods/455173</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab4b5ccd665.jpg"/>]]></description>
-			<pubDate>Mon, 10 Jul 2023 00:17:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
