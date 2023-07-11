@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Navi [BETA]</title>
+			<link>https://gamebanana.com/mods/455531</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64adb2fabb658.jpg"/>]]></description>
+			<pubDate>Tue, 11 Jul 2023 19:52:29 +0000</pubDate>
+		</item>
+		<item>
 			<title>Rinkuru&#039;s Fierce Deity Set + Custom Dual Weapons</title>
 			<link>https://gamebanana.com/mods/455489</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ad72d650e61.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/455219</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab92d682dca.jpg"/>]]></description>
 			<pubDate>Mon, 10 Jul 2023 05:21:56 +0000</pubDate>
-		</item>
-		<item>
-			<title>Dragons&#039; Horns - ReBLADE</title>
-			<link>https://gamebanana.com/mods/455196</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab6d8148d34.jpg"/>]]></description>
-			<pubDate>Mon, 10 Jul 2023 02:36:23 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
