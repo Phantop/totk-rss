@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>T-Pose Gliding</title>
+			<link>https://gamebanana.com/mods/455544</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64adc73488bae.jpg"/>]]></description>
+			<pubDate>Tue, 11 Jul 2023 21:19:33 +0000</pubDate>
+		</item>
+		<item>
 			<title>Navi [BETA]</title>
 			<link>https://gamebanana.com/mods/455531</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64adb2fabb658.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/455263</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64abd57d51ede.jpg"/>]]></description>
 			<pubDate>Mon, 10 Jul 2023 11:04:17 +0000</pubDate>
-		</item>
-		<item>
-			<title>[NPC] Purah Kokoro Gown (cosplay)</title>
-			<link>https://gamebanana.com/mods/455219</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab92d682dca.jpg"/>]]></description>
-			<pubDate>Mon, 10 Jul 2023 05:21:56 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
