@@ -3,6 +3,18 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Become Ganondorf! (Armor Set)</title>
+			<link>https://gamebanana.com/mods/455393</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64aca6f086313.jpg"/>]]></description>
+			<pubDate>Tue, 11 Jul 2023 00:48:54 +0000</pubDate>
+		</item>
+		<item>
+			<title>Invisible Pouches</title>
+			<link>https://gamebanana.com/mods/455376</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ac98b5c8484.jpg"/>]]></description>
+			<pubDate>Mon, 10 Jul 2023 23:48:37 +0000</pubDate>
+		</item>
+		<item>
 			<title>Raurus Arm Malice Retexture</title>
 			<link>https://gamebanana.com/mods/455363</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ac8a08cb447.jpg"/>]]></description>
@@ -49,18 +61,6 @@
 			<link>https://gamebanana.com/mods/455122</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab0a83aa264.jpg"/>]]></description>
 			<pubDate>Sun, 09 Jul 2023 20:15:18 +0000</pubDate>
-		</item>
-		<item>
-			<title>Invisible MS Fuse Runes</title>
-			<link>https://gamebanana.com/mods/455120</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab12ad35d3f.jpg"/>]]></description>
-			<pubDate>Sun, 09 Jul 2023 20:07:06 +0000</pubDate>
-		</item>
-		<item>
-			<title>Dusk Claymore has Wind Blade</title>
-			<link>https://gamebanana.com/mods/455029</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64aaa6be9c827.jpg"/>]]></description>
-			<pubDate>Sun, 09 Jul 2023 12:24:49 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
