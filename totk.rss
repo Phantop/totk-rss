@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Rinkuru&#039;s Dark Set</title>
+			<link>https://gamebanana.com/mods/455488</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ad71a7487bf.jpg"/>]]></description>
+			<pubDate>Tue, 11 Jul 2023 15:14:20 +0000</pubDate>
+		</item>
+		<item>
 			<title>Hero&#039;s Shield from MM over Sea-Breeze Shield</title>
 			<link>https://gamebanana.com/mods/455461</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ad4c51283c6.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/455173</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab4b5ccd665.jpg"/>]]></description>
 			<pubDate>Mon, 10 Jul 2023 00:17:00 +0000</pubDate>
-		</item>
-		<item>
-			<title>Sheik&#039;s Mask Set Bonus</title>
-			<link>https://gamebanana.com/mods/455129</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab20682c8c1.jpg"/>]]></description>
-			<pubDate>Sun, 09 Jul 2023 21:03:14 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
