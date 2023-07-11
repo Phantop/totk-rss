@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Hero&#039;s Shield from MM over Sea-Breeze Shield</title>
+			<link>https://gamebanana.com/mods/455461</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ad4c51283c6.jpg"/>]]></description>
+			<pubDate>Tue, 11 Jul 2023 12:35:54 +0000</pubDate>
+		</item>
+		<item>
 			<title>Become Ganondorf! (Armor Set)</title>
 			<link>https://gamebanana.com/mods/455393</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64aca6f086313.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/455129</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab20682c8c1.jpg"/>]]></description>
 			<pubDate>Sun, 09 Jul 2023 21:03:14 +0000</pubDate>
-		</item>
-		<item>
-			<title>Tougher Gibdos</title>
-			<link>https://gamebanana.com/mods/455122</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ab0a83aa264.jpg"/>]]></description>
-			<pubDate>Sun, 09 Jul 2023 20:15:18 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
