@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Tulin&#039;s Quiver</title>
+			<link>https://gamebanana.com/mods/455662</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ae9d512d33d.jpg"/>]]></description>
+			<pubDate>Wed, 12 Jul 2023 12:35:21 +0000</pubDate>
+		</item>
+		<item>
 			<title>T-Pose Gliding</title>
 			<link>https://gamebanana.com/mods/455544</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64adc73488bae.jpg"/>]]></description>
@@ -55,12 +61,6 @@
 			<link>https://gamebanana.com/mods/455307</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ac3c34129a1.jpg"/>]]></description>
 			<pubDate>Mon, 10 Jul 2023 17:16:16 +0000</pubDate>
-		</item>
-		<item>
-			<title>Blades of Heaven &amp; Abyss</title>
-			<link>https://gamebanana.com/mods/455263</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64abd57d51ede.jpg"/>]]></description>
-			<pubDate>Mon, 10 Jul 2023 11:04:17 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

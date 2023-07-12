@@ -3,6 +3,12 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>Model Randomizer - Weapons</title>
+			<link>https://gamebanana.com/mods/455665</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64aea116d3d5a.jpg"/>]]></description>
+			<pubDate>Wed, 12 Jul 2023 13:13:42 +0000</pubDate>
+		</item>
+		<item>
 			<title>CHAoOS: Dark Link Stalkoblins</title>
 			<link>https://gamebanana.com/mods/455356</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64ac7835e8123.jpg"/>]]></description>
@@ -49,12 +55,6 @@
 			<link>https://gamebanana.com/mods/454506</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a712aa6547f.jpg"/>]]></description>
 			<pubDate>Thu, 06 Jul 2023 19:13:36 +0000</pubDate>
-		</item>
-		<item>
-			<title>Sky octorock paraglider</title>
-			<link>https://gamebanana.com/mods/454049</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a3c077217b9.jpg"/>]]></description>
-			<pubDate>Tue, 04 Jul 2023 06:50:27 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
