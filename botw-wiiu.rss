@@ -3,9 +3,15 @@
 	<channel>
 		<title>GameBanana API RSS Feed</title>
 		<item>
+			<title>CHAoOS: Blue Moblins Extinctify Birds</title>
+			<link>https://gamebanana.com/mods/455805</link>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64af66e874624.jpg"/>]]></description>
+			<pubDate>Thu, 13 Jul 2023 02:57:36 +0000</pubDate>
+		</item>
+		<item>
 			<title>[Linkle 3.0] Tan+</title>
 			<link>https://gamebanana.com/mods/455791</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64af41ce969ad.jpg"/>]]></description>
+			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64af60d811a4a.jpg"/>]]></description>
 			<pubDate>Thu, 13 Jul 2023 00:58:40 +0000</pubDate>
 		</item>
 		<item>
@@ -49,12 +55,6 @@
 			<link>https://gamebanana.com/mods/454748</link>
 			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a88d5ad226a.jpg"/>]]></description>
 			<pubDate>Fri, 07 Jul 2023 22:12:12 +0000</pubDate>
-		</item>
-		<item>
-			<title>Steel Broadsword</title>
-			<link>https://gamebanana.com/mods/454702</link>
-			<description><![CDATA[<img src="https://images.gamebanana.com/img/ss/mods/64a85b7b8bd15.jpg"/>]]></description>
-			<pubDate>Fri, 07 Jul 2023 18:41:08 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
